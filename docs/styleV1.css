@@ -1,0 +1,73 @@
+/* Global Styles */
+html {
+    font-family: creepster, serif;
+    font-size: 20px;
+    background-color: #3FFF89;
+    color: hsl(210, 50%, 20%);
+    text-align:center;
+}/* Menu Bar */
+nav {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background: #000000;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+.dropDown {
+    padding: 12px 0px;
+    position: relative;
+    cursor: pointer;
+}
+
+.dropDown > a {
+    padding: 0px 30px;
+    gap: 2px;
+}
+
+/* Dropdown Menu */
+.dropDown:hover .menu {
+    opacity: 1;
+    visibility: visible;
+}
+
+.menu {
+    position: absolute;
+    top: 45px;
+    display: grid;
+    background: #252525;
+    opacity: 0;
+    visibility: hidden;
+    transition: .25s;
+}
+nav a {
+    color: #ffffff; /* Color for links in the menu bar (white) */
+}
+.menu > a {
+    font-size: 20px;
+    padding: 12px 20px;
+    color:white;
+}
+
+.menu > a:hover, .dropDown:hover {
+    color: #fffcfd;
+    background: black;
+}
+
+.section-divider {
+    display: block;
+    height: 1px;
+    margin: 0;
+    border: none;
+    background-color: #252525;
+    width: 85%;
+    margin: auto;
+}
+
