@@ -1,0 +1,19 @@
+﻿* Split work up 
+   * 5 sources as of right now
+   * 5 between us 4
+
+
+XML tagging guidelines 
+* Title
+* Author
+* Break it up into chapters (some have)
+* Paragraphs are numbered (as in how the actual paragraphs are listed on the websites)
+* Something with tones (whole story/paragraph/chapters) (not necessary at this moment will, I have to figure it out)
+* Quotes // dialog (<quote>)
+
+
+What we are marking up
+* Lillian - Lois the witch 
+* Jayden Fisher - curious if true, the old nurse story
+* Alan - poor Clair
+* Dan - The Grey Woman
