@@ -1,0 +1,13 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+ start=story
+ story = element story {title | author? |(chapter | paragraph)*}
+ title = element title {text}
+ author = element author {text}
+ chapter = element chapter {n | text |paragraph*}
+ n = attribute n {xsd:int}
+ paragraph = element paragraph {n| text |(tone| quote)*}
+ tone = element tone {type}
+ type = attribute type {'cynical' | 'ironic' | 'suspenseful' | 'dark' | 'sad' | 'serious'}
+ quote = element quote {text}
+ 
