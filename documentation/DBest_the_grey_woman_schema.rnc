@@ -1,0 +1,11 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = story
+story = element story {title, (chapter | p)*}
+title = element title {text}
+chapter = element chapter {n, text*, p*, quote*}
+n = attribute n {xsd:int}
+p = element p {text?, (emotion | quote)*}
+emotion = element emotion {type, text}
+type = attribute type {'anger' | 'happiness' | 'cynical' | 'ironic' | 'suspenseful' | 'fear' | 'sadness' | 'serious'}
+quote = element quote {text}
