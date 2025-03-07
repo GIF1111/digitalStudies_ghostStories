@@ -1,5 +1,5 @@
 start = story
-story = element story { title| (author | chapter |p)* }
+story = element story { title, text?, (author | chapter |p)* }
 p = element p { n | text | (author? | tone | quote)* }
 title = element title { text }
 author = element author { text }
