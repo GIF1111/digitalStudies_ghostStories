@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<<<<<<< HEAD
 <!-- The Project Gutenberg eBook of Curious, if True -->
 
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title>THE GREY WOMAN</title>
+=======
+<story> 
+<!-- The Project Gutenberg eBook of The Grey Woman -->
+<?xml-model href="DBest_the_grey_woman_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+
+    <title>THE GREY WOMAN</title> 
+>>>>>>> e6577fe1a3b4a0d320579ad5091fb4ec73471095
 
     <chapter n="1"> Portion 1 <p>There is a mill by the Neckar-side, to which many people resort for
             coffee, according to the fashion which is almost national in Germany. There is nothing
