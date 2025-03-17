@@ -1,10 +1,17 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
 start = story
-story = element story { title, text?, (author | chapter |p)* }
-p = element p { n | text | (author? | tone | quote)* }
-title = element title { text }
-author = element author { text }
-chapter = element chapter { n |title| text | p* }
-n = attribute n { xsd:int }
-tone = element tone { type }
-type = attribute type { "cynical" | "ironic" | "suspenseful" | "dark" | "sad" | "serious" }
-quote = element quote { text }
+story = element story {title, (chapter | p)*}
+title = element title {text}
+chapter = element chapter {n, text*, p*, quote*}
+n = attribute n {xsd:int} #LS is it necessary to number p
+p = element p {(text|emotion | quote| time| character| place|n?|author|tone?)*}
+author = element author {text} #LS only one story has 
+place = element place {text} #LS Does every story havce places we can mark up
+character = element character {(text|ref)*} #LS can we mark characters consistently 
+ref= attribute ref {text}
+time= element time {text} #LS Does every story have times?
+emotion = element emotion {type, text}
+tone = attribute tone {text} #LS do we want by paragraphs or by story? 
+type = attribute type {'anger' | 'happiness' | 'cynical' | 'ironic' | 'suspenseful' | 'fear' | 'sadness' | 'serious'}
+quote = element quote {(text|character| place|time|quote|emotion)*}
