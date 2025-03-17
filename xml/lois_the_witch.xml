@@ -2,7 +2,7 @@
 <!-- The Project Gutenberg eBook of Curious, if True -->
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title>LOIS THE WITCH </title>
+    <title tone="anger">LOIS THE WITCH </title>
   <chapter n="1">Chapter 1 <p> In the year <time>1691</time>, <character>Lois Barclay</character>
             stood on a little wooden pier, steadying herself on the stable land, in much the same
             manner as, <time>eight or nine weeks ago</time>, she had tried to steady herself on the
