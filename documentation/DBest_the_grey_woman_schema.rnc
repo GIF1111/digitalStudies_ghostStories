@@ -1,6 +1,6 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
-start = story
+start = story 
 story = element story {title, (chapter | p)*}
 title = element title {text}
 chapter = element chapter {n, text*, p*, quote*}
