@@ -1,0 +1,9 @@
+Everyone get their xml fixed and working with the new schema 
+
+No numbers in paragraphs
+
+Start working on one more story
+
+Number chapters 
+
+Title tag now contains the tone
