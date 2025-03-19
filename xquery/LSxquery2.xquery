@@ -1,31 +1,45 @@
 xquery version "3.1";
 
-
 (: Load all XML files from the XML folder :)
-let $docs := collection("..\xml")
+let $docs := collection("..\xml?select=*.xml")
 
 (: Extract all speech elements from all XML documents :)
 let $speeches := $docs//p
 
-(: Get individual speakers :)
-let $distinct-speakers := distinct-values($speeches/char)
+(: Extract all character names from speech elements :)
+let $distinct-char := distinct-values($speeches//character/text())
 
-(: Process each speaker + count :)
-for $speaker in $distinct-speakers
-let $speech-count := count($speeches[char = $speaker])
+(: Process each character and count occurrences :)
+let $results := 
+  for $speaker in $distinct-char
+  let $char-count := count($speeches[character = $speaker])
+  where $char-count >= 1
+  order by $char-count descending
+  return 
+    <tr>
+      <td>{$speaker}</td>
+      <td>{$char-count}</td>
+    </tr>
 
-(: Only include speakers who speak greater than or equal to 1  :)
-where $speech-count >= 1
-
-(: Sort speakers by frequency :)
-order by $speech-count descending
-
-(: Output XML :)
-return <speaker name="{$speaker}" speech-count="{$speech-count}"/>
-(: this works when i do it only on lois the witch, but when I try it as a collection of files I get this error System ID: C:\Users\lston\Desktop\digitalhuman\github\digitalStudies_ghostStoriesProject\xquery\LSxquery2.xquery
-Severity: fatal
-Problem ID: XPTY0019
-Description: The required item type of the first operand of '/' is node(); the supplied value "XML markup: Alan - ... iel - The Grey Woman" is an atomic value. Found while atomizing the first argument of fn:distinct-values()
-Start location: 8:19
-URL: http://www.w3.org/TR/xpath20/#ERRXPTY0019
-:)
+(: Output the results in HTML format :)
+return 
+  <html>
+    <head>
+      <title>Character Speech Count</title>
+      <style>
+        table {{ border-collapse: collapse; width: 50%; }}
+        th, td {{ border: 1px solid black; padding: 8px; text-align: left; }}
+        th {{ background-color: #f2f2f2; }}
+      </style>
+    </head>
+    <body>
+      <h1>Character Speech Count</h1>
+      <table>
+        <tr>
+          <th>Character Name</th>
+          <th>Speech Count</th>
+        </tr>
+        { $results }
+      </table>
+    </body>
+  </html>
