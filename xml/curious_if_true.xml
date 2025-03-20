@@ -134,7 +134,7 @@
             had been poking a good deal about the old parts of <place>Tours</place>, and had had to understand the
             dialect of the people who dwelt in the Marché au Vendredi and similar places, or I
             really should not have understood my handsome hostess, as she offered to present me to
-            her husband, a henpecked, gentlemanly man, who was more quaintly attired than she in the
+            <character ref="Monsieur de Retz">her husband, a henpecked, gentlemanly man</character>, who was more quaintly attired than she in the
             very extreme of that style of dress. I thought to myself that in <place>France</place>, as in <place>England</place>,
             it is the provincials who carry fashion to such an excess as to become
             ridiculous.</p>
@@ -167,7 +167,7 @@
                 awkward habit—which I do not think he could have copied from Dr. Johnson, because
                 most probably he had never heard of him—of trying always to retrace his steps on the
                 exact boards on which he had trodden to arrive at any particular part of the room.
-                Besides, to settle the question, I once heard him addressed as Monsieur Poucet,
+                Besides, to settle the question, I once heard him addressed as Monsieur <character ref="Monsieur Poucet">Poucet</character>,
                 without any aristocratic '</quote>de' for a prefix; and nearly every one else in the
             room was a marquis, at any rate. </p>
     <p>I say, <quote>'nearly every one;'</quote> for some strange
@@ -218,7 +218,7 @@
             living'</quote>—here he shrugged up his little shoulders, and made an expressive pause.
                 <quote>'Would you believe it! Madame is always praising her late husband to
                 monsieur'</quote>s face; till, in fact, we guests are quite perplexed how to look:
-            for, you know, the late M. de Retz<quote>'s character was quite notorious,—everybody has
+            for, you know, the late <character ref="Madame de Retz">M. de Retz</character><quote>'s character was quite notorious,—everybody has
                 heard of him.'</quote> All the world of Touraine, thought I, but I made an assenting
             noise. At this instant, monsieur our host came up to me, and with a civil look of tender
             interest (such as some people put on when they inquire after your mother, about whom
@@ -250,7 +250,7 @@
                 his parade of humanity, he is sure to do well; sure to affix a de or von to his
                 name, and end his days in comfort. There is an example of what I am
             saying'</quote>—and he glanced furtively at the weak-looking master of the sharp,
-            intelligent servant, whom I have called the chasseur. <quote>'Monsieur le Marquis would
+            intelligent servant, whom I have called the chasseur. <quote>'<character ref="Monsieur le Marquis">Monsieur le Marquis</character> would
                 never have been anything but a miller'</quote>s son, if it had not been for the
             talents of his servant. Of course you know his antecedents?' I was going to make some
             remarks on the changes in the order of the peerage since the days of Louis XVI.—going,
@@ -315,7 +315,7 @@
                 sayings of your little neighbour. He has not borne the best character in his youth,
                 and such men are sure to be cynical in their old age.'</quote></p>
     <p><quote>'Who is he?'</quote> asked I, with English abruptness.
-                <quote>'His name is Poucet, and his father was, I believe, a woodcutter, or charcoal
+                <quote>'His name is <character ref="Monsieur Poucet">Poucet</character>, and his father was, I believe, a woodcutter, or charcoal
                 burner, or something of the sort. They do tell sad stories of connivance at murder,
                 ingratitude, and obtaining money on false pretences—but you will think me as bad as
                 he if I go on with my slanders. Rather let us admire the lovely lady coming up
@@ -360,7 +360,7 @@
             there was a bit of colour about her. I thought I heard her making, as she came along, a
             little noise of pleasure, not exactly like the singing of a tea-kettle, nor yet like the
             cooing of a dove, but reminding me of each sound.</p>
-    <p><quote>'Madame de Mioumiou was anxious to see you,'</quote> said he,
+    <p><quote>'<character ref="Madame de Mioumiou">Madame de Mioumiou</character> was anxious to see you,'</quote> said he,
             addressing the lady with the roses, <quote>'so I have brought her across to give you a
                 pleasure!'</quote> What an honest, good face! but oh! how ugly! And yet I liked his
             ugliness better than most persons<quote>' beauty. There was a look of pathetic
@@ -370,7 +370,7 @@
                 puzzled me very much, as they were of such different rank. However, their nerves
                 were evidently strung to the same tune, for at a sound behind the tapestry, which
                 was more like the scuttering of rats and mice than anything else, both Madame de
-                Mioumiou and the chasseur started with the most eager look of anxiety on their
+                <character ref="Madame de Mioumiou">Mioumiou</character> and the chasseur started with the most eager look of anxiety on their
                 countenances, and by their restless movements—madame'</quote>s panting, and the
             fiery dilation of his eyes—one might see that commonplace sounds affected them both in a
             manner very different to the rest of the company. The ugly husband of the lovely lady
