@@ -1,25 +1,23 @@
 xquery version "3.1";
 
-let $doc := doc("file:///C:/Users/squat/Documents/GitHubDocs/digitalStudies_ghostStories/xml/DBest_the_grey_woman.xml")
-(:displays the xml file. I'm having a hard time shortening this again...:)
+let $doc := doc("../xml/DBest_the_grey_woman.xml")
+(:Displays the xml file.:)
 
-for $paragraph in $doc//p,
-    $emotion in $paragraph/emotion
-(:made a loop that went through all of the paragraph elements for emotions.:)
+let $tone-type := $doc//title/@tone
+(:Grabs the tone from the title since there is no tone attribute in paragraphs now.:)
 
-let $emotion-type := $emotion/@type,
-    $paragraph-text := $paragraph/string()
-(:pulls out the emotion type and keeps them to use later.:) 
+for $paragraph in $doc//p
+(:Looks through all of the paragraph elements.:)
+
+where $tone-type = 'suspenseful'
+(:Looks for "suspenseful" tones in the story.:) 
  
-where $emotion-type = 'sadness'
-(:Lines that have "sadness" are pulled out.:)
-
-order by string-length($paragraph-text) descending
-(:I had the paragraphs sorted from longest to shortest because... why not?:)
+order by string-length($paragraph) descending
+(:Ordered paragraphs from longest to shortest.:)
 
 return
-<sad-paragraph>
-    <text>{$paragraph-text}</text>
-    <emotion type="{$emotion-type}"/>
-</sad-paragraph>
-(:made a new element with the paragraph's text and "sadness" emotion and as a result, I get the saddest parts of the story! I'm also surprised it worked...:)
+<suspenseful-paragraph>
+    <text>{$paragraph/string()}</text>
+    <tone type="{$tone-type}"/>
+</suspenseful-paragraph>
+(:Made a new element grouping all of the most suspenseful paragraphs.:)
