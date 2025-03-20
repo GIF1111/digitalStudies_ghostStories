@@ -2,7 +2,7 @@
 
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story> 
-    <title tone= 'suspenseful'>THE GREY WOMAN</title>
+    <title tone="suspenseful">THE GREY WOMAN</title>
 
 <chapter n="1">
     Portion 1

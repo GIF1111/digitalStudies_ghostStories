@@ -1,5 +1,7 @@
 xquery version "3.1";
 
+declare variable $xml := collection('xml/?select=*.xml');
+
 let $doc := doc("../xml/DBest_the_grey_woman.xml")
 (:Displays the xml file.:)
 
@@ -20,4 +22,4 @@ return
     <text>{$paragraph/string()}</text>
     <tone type="{$tone-type}"/>
 </suspenseful-paragraph>
-(:Made a new element grouping all of the most suspenseful paragraphs.:)
+(:Made a new element that groups all of the most suspenseful paragraphs.:)
