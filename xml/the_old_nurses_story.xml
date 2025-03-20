@@ -2,9 +2,10 @@
 <!-- The Project Gutenberg eBook of Curious, if True -->
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title tone="">THE OLD NURSE'S STORY</title>
+    <title tone="fear">THE OLD NURSE'S STORY</title>
+    
     <p> You know, my dears, that your mother was an orphan, and an only child; and I daresay
-        you have heard that your grandfather was a clergyman up in Westmoreland, where I come from.
+        you have heard that your grandfather was a clergyman up in <place>Westmoreland</place>, where I come from.
         I was just a girl in the village school, when, one day, your grandmother came in to ask the
         mistress if there was any scholar there who would do for a nurse-maid; and mighty proud I
         was, I can tell ye, when the mistress called me up, and spoke of me being a good girl at my
@@ -21,9 +22,9 @@
         after her mother, who was a real lady born; a Miss Furnivall, a grand-daughter of Lord
         Furnivall's, in Northumberland. I believe she had neither brother nor sister, and had been
         brought up in my lord's family till she had married your grandfather, who was just a curate,
-        son to a shopkeeper in Carlisle—but a clever, fine gentleman as ever was—and one who was a
+        son to a shopkeeper in <place>Carlisle</place>—but a clever, fine gentleman as ever was—and one who was a
         right-down hard worker in his parish, which was very wide, and scattered all abroad over the
-        Westmoreland Fells. When your mother, little Miss Rosamond, was about four or five years
+        <place>Westmoreland</place> Fells. When your mother, little Miss Rosamond, was about four or five years
         old, both her parents died in a fortnight—one after the other. Ah! that was a sad time. My
         pretty young mistress and me was looking for another baby, when my master came home from one
         of his long rides, wet and tired, and took the fever he died of; and then she never held up
@@ -33,11 +34,11 @@
         end of the world.</p>
     <p> The next thing, and before we had well stilled our sobs, the executors and guardians
         came to settle the affairs. They were my poor young mistress's own cousin, Lord Furnivall,
-        and Mr. Esthwaite, my master's brother, a shopkeeper in Manchester; not so well to do then
+        and Mr. Esthwaite, my master's brother, a shopkeeper in <place>Manchester</place>; not so well to do then
         as he was afterwards, and with a large family rising about him. Well! I don't know if it
         were their settling, or because of a letter my mistress wrote on her death-bed to her
         cousin, my lord; but somehow it was settled that Miss Rosamond and me were to go to
-        Furnivall Manor House, in Northumberland, and my lord spoke as if it had been her mother's
+        <place>Furnivall Manor House</place>, in Northumberland, and my lord spoke as if it had been her mother's
         wish that she should live with his family, and as if he had no objections, for that one or
         two more or less could make no difference in so grand a household. So, though that was not
         the way in which I should have wished the coming of my bright and pretty pet to have been
@@ -45,12 +46,12 @@
         all the folks in the Dale should stare and admire, when they heard I was going to be young
         lady's maid at my Lord Furnivall's at Furnivall Manor.</p>
     <p> But I made a mistake in thinking we were to go and live where my lord did. It turned
-        out that the family had left Furnivall Manor House fifty years or more. I could not hear
+        out that the family had left <place>Furnivall Manor House</place> fifty years or more. I could not hear
         that my poor young mistress had never been there, though she had been brought up in the
         family; and I was sorry for that, for I should have liked Miss Rosamond's youth to have
         passed where her mother's had been.</p>
     <p> My lord's gentleman, from whom I asked as many questions as I durst, said that the
-        Manor House was at the foot of the Cumberland Fells, and a very grand place; that an old
+        Manor House was at the foot of the <place>Cumberland Fells</place>, and a very grand place; that an old
         Miss Furnivall, a great-aunt of my lord's, lived there, with only a few servants; but that
         it was a very healthy place, and my lord had thought that it would suit Miss Rosamond very
         well for a few years, and that her being there might perhaps amuse his old aunt.</p>
@@ -60,7 +61,7 @@
         that his father would object, she would never listen to him, and married Mr. Esthwaite; but
         I don't know. He never married, at any rate. But he never took much notice of Miss Rosamond;
         which I thought he might have done if he had cared for her dead mother. He sent his
-        gentleman with us to the Manor House, telling him to join him at Newcastle that same
+        gentleman with us to the Manor House, telling him to join him at <place>Newcastle</place> that same
         evening; so there was no great length of time for him to make us known to all the strangers
         before he, too, shook us off; and we were left, two lonely young things (I was not eighteen)
         in the great old Manor House. It seems like yesterday that we drove there. We had left our
@@ -129,7 +130,7 @@
         bid us welcome; and both he and she were so hospitable and kind, that by-and-by Miss
         Rosamond and me felt quite at home; and by the time tea was over, she was sitting on
         Dorothy's knee, and chattering away as fast as her little tongue could go. I soon found out
-        that Dorothy was from Westmoreland, and that bound her and me together, as it were; and I
+        that Dorothy was from <place>Westmoreland</place>, and that bound her and me together, as it were; and I
         would never wish to meet with kinder people than were old James and his wife. James had
         lived pretty nearly all his life in my lord's family, and thought there was no one so grand
         as they. He even looked down a little on his wife; because, till he had married her, she had
@@ -209,7 +210,7 @@
         to a softness most complete, only it was always music, and tunes, so it was nonsense to call
         it the wind. I thought at first, that it might be Miss Furnivall who played, unknown to
         Bessy; but one day, when I was in the hall by myself, I opened the organ and peeped all
-        about it and around it, as I had done to the organ in Crosthwaite church once before, and I
+        about it and around it, as I had done to the organ in <place>Crosthwaite church</place> once before, and I
         saw it was all broken and destroyed inside, though it looked so brave and fine; and then,
         though it was noon-day, my flesh began to creep a little, and I shut it up, and run away
         pretty quickly to my own bright nursery; and I did not like hearing the music for some time
@@ -413,7 +414,7 @@
         said no more; she gave me raisins and almonds to quiet Miss Rosamond; but she sobbed about
         the little girl in the snow, and would not touch any of the good things. I was thankful when
         she cried herself to sleep in bed. Then I stole down to the kitchen, and told Dorothy I had
-        made up my mind. I would carry my darling back to my father's house in Applethwaite; where,
+        made up my mind. I would carry my darling back to my father's house in <place>Applethwaite</place>; where,
         if we lived humbly, we lived at peace. I said I had been frightened enough with the old
         lord's organ-playing; but now that I had seen for myself this little moaning child, all
         decked out as no child in the neighbourhood could be, beating and battering to get in, yet
