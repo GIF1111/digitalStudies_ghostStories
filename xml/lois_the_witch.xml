@@ -3,9 +3,9 @@
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title tone="anger">LOIS THE WITCH </title>
-    <chapter n="1">Chapter 1 <p> In the year <time>1691</time>, <character>Lois Barclay</character>
+    <chapter n="1">Chapter 1 <p> In the year <year>1691</year>, <character>Lois Barclay</character>
             stood on a little wooden pier, steadying herself on the stable land, in much the same
-            manner as, <time>eight or nine weeks ago</time>, she had tried to steady herself on the
+            manner as, eight or nine weeks ago, she had tried to steady herself on the
             deck of the rocking ship which had carried her across from <place>Old</place> to
                 <place>New England</place>. It seemed as strange now to be on solid earth as it had
             been, not long ago, to be rocked by the sea, both by day and by night; and the aspect of
@@ -24,7 +24,7 @@
             follow those whom it had tyrannized over at sea with a dogged wish of still tormenting
             them on land. Very patiently did <character ref="Lois Barclay">Lois</character> sit
             there, although she was weary, and shivering with cold; for the day was severe for
-                <time>May</time>, and the Redemption, with store of necessaries and comforts for the
+                May, and the Redemption, with store of necessaries and comforts for the
                 <character>Puritan colonists</character> of <place>New England</place>, was the
             earliest ship that had ventured across the seas. </p>
         <p> How could <character ref="Lois Barclay">Lois</character> help thinking of the past, and
@@ -32,7 +32,7 @@
             breathing-time of her life? In the dim sea-mist which she gazed upon with aching eyes
             (filled, against her will, with tears, from time to time), there rose the little village
                 <place>church of Barford</place> (not three miles from <place>Warwick</place>—you
-            may see it yet), where her father had preached ever since <time>1661</time>, long before
+            may see it yet), where her father had preached ever since <year>1661</year>, long before
             she was born. He and her mother both lay dead in <place>Barford churchyard</place>; and
             the old low grey church could hardly come before her vision without her seeing the old
             parsonage too, the cottage covered with Austrian roses, and yellow jessamine, where she
@@ -116,7 +116,7 @@
                 possibility—<character ref="Hugh Lucy">Hugh</character>'s love might cool, and the
             dear play-fellow of her childhood learn to forget. If not—if <character ref="Hugh Lucy"
                 >Hugh</character> were to be trusted in one tithe of what he said—God might permit
-            him to fulfil his resolve of coming to seek her out before <time>many years</time> were
+            him to fulfil his resolve of coming to seek her out before many years were
             over. It was all in God's hands, and that was best, thought <character
                 ref="Lois Barclay">Lois Barclay</character>. </p>
         <p> She was roused out of her trance of recollections by <character
@@ -259,7 +259,7 @@
                 each company; to be on the look-out for the wild Indians, who are for ever stirring
                 about in the woods, stealthy brutes as they are! I am sure, I got such a fright the
                 first harvest-time after I came over to <place>New England</place>, I go on
-                dreaming, now near <time>twenty years</time> after Lothrop's business, of painted
+                dreaming, now near twenty years after Lothrop's business, of painted
                 Indians, with their shaven scalps and their war-streaks, lurking behind the trees,
                 and coming nearer and nearer with their noiseless steps.'</quote>
         </p>
@@ -273,10 +273,10 @@
                 trunk of a felled tree, lying in the shadow, and thought nothing of it, till, on
                 looking again a while after, she fancied it was come a bit nearer to the house, and
                 how her heart turned sick with fright, and how she dared not stir at first, but shut
-                her eyes while she counted a <time>hundred</time>, and looked again, and the shadow
+                her eyes while she counted a hundred, and looked again, and the shadow
                 was deeper, but she could see that the log was nearer; so she ran in and bolted the
                 door, and went up to where her eldest lad lay. It was <character>Elijah</character>,
-                and he was but <time>sixteen</time> then; but he rose up at his mother's words, and
+                and he was but sixteen then; but he rose up at his mother's words, and
                 took his father's long duck-gun down, and he tried the loading, and spoke for the
                 first time to put up a prayer that God would give his aim good guidance, and went to
                 a window that gave a view upon the side where the log lay, and fired, and no one
