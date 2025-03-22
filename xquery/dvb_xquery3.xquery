@@ -1,5 +1,5 @@
 xquery version "3.1";
-
+declare option saxon:output "method=html";
 declare variable $xml := collection('xml/?select=*.xml');
 
 <html>
@@ -8,11 +8,11 @@ declare variable $xml := collection('xml/?select=*.xml');
 </head>   
 
 <body>
-    <h1>Susupenseful Occurances in our Collection</h1>
+    <h1>Suspenseful Occurances in our Collection</h1>
     <p>Suspense is a key part of <gs>Ghost Stories</gs> and we have more than you can handle in our collection from different books throughout the Victorian Era.</p>
     
         <table>
-            <tr><th>Suspenseful Paragraph</th><th>Occurrences</th></tr>
+            <th>Number</th><tr><th>Suspenseful Paragraph</th><th>Occurrences</th></tr>
             
 {
 let $doc := doc('../xml/DBest_the_grey_woman.xml')
@@ -28,7 +28,7 @@ order by string-length($paragraph) descending
 return $paragraph
 for $para at $pos in $suspenseful-paragraphs
 let $occurrences := string-length($para)
-(:This was supposed to use the paragraph length to determine the occurance strength, but I wound up numbering the paragraphs and counting the characters..:)
+(:This was supposed to use the paragraph length to determine the occurance strength, but I wound up numbering the paragraphs and counting the characters?..:)
 return 
     <tr>
         <td>{$pos}</td>
