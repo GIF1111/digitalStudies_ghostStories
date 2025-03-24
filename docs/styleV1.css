@@ -3,15 +3,17 @@
 
 /* Global Styles */
 html {
-    font-family: 'Creepster', serif; /* Spooky font */
     font-size: 20px;
     background-color: #1c1c1c; /* Dark background for spooky vibes */
     color: #eeeeee; /* Light text */
     text-align: center;
 }
 
+
 /* LS: Menu Bar */
 nav {
+    font-family: 'Creepster', serif; /* Spooky font */
+
     position: sticky;
     top: 0;
     left: 0;
@@ -78,37 +80,32 @@ nav a {
     margin: auto;
 }
 
-/* LS: White Box */
-.white-box {
-    background: url('https://www.transparenttextures.com/patterns/aged-paper.png'); 
-    background-color: rgba(255, 255, 255, 0.85); /* Slight transparency */
-    width: 90%;
-    max-width: 1200px;
-    min-height: 400px;
-    padding: 40px;
-    margin: 5% auto;
+
+    main {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 5px;
+    background-color: #fff;
     border-radius: 10px;
-    box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.5); /* Glowing ghostly effect */
-    text-align: center;
-    font-size: 24px;
-    color: black; /* Dark text for the scroll */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
 }
 
-/* LS: white box for small screens */
-@media (max-width: 600px) {
-    .white-box {
-        width: 90%; /* Slightly smaller width on small screens */
-        min-height: 300px; /* Adjust height for smaller screens */
-        padding: 20px; /* Reduce padding */
-    }
+    .background-container {
+    background-image: url('images/istockphoto-165038551-612x612.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; 
+    padding: 20px; 
+    min-height: 100vh; 
 }
+      
 
 /* Footer */
 footer {
-    background-color: #000000;
+   font-family: 'Creepster', serif; /* Spooky font */
+   background-color: #000000;
     color: #ff4444; /* Bloody red text */
     text-align: center;
     padding: 20px;
