@@ -1,43 +1,45 @@
 xquery version "3.1";
 
-(: Load documents :)
-let $docs := collection("..\\xml?select=*.xml")
+let $docs := collection("..\\xml?select=*.xml")//story[title/@tone]
 
-(: Group stories by unique title and tone :)
 let $grouped :=
-  for $story in $docs//story[title/@tone]
-  let $title := normalize-space($story/title)
-  let $tone := $story/title/@tone/string()
-  group by $key := concat($title, "::", $tone)
-  order by $tone
+  for $key in distinct-values(
+    for $s in $docs
+    let $title := normalize-space($s/title)
+    let $tone := $s/title/@tone/string()
+    return concat($title, "::", $tone)
+  )
+  let $title := substring-before($key, "::")
+  let $tone := substring-after($key, "::")
+  let $stories :=
+    for $s in $docs
+    where normalize-space($s/title) = $title and $s/title/@tone = $tone
+    return $s
+
+  let $all-characters :=
+    for $s in $stories
+    for $c in $s//character
+    let $name := normalize-space($c)
+    where string-length($name) > 0
+    return $name
+
+  let $distinct := distinct-values($all-characters)
+
+  let $sorted :=
+    for $name in $distinct
+    order by lower-case($name)
+    return $name
+
   return
-    let $raw-names := $story//character/text()
-    
-    (: Build a map of normalized → original names :)
-    let $normalized := distinct-values(
-      for $name in $raw-names
-      let $clean := normalize-space($name)
-      where string-length($clean) > 0
-      return lower-case($clean)
-    )
-
-    let $name-map := 
-      for $name in $raw-names
-      let $clean := normalize-space($name)
-      let $key := lower-case($clean)
-      group by $k := $key
-      return head($clean)  (: first instance of nicely-cased name :)
-
-    return
-      <div>
-        <h2>{substring-before($key, "::")} (Tone: {substring-after($key, "::")})</h2>
-        <ul>
-          {
-            for $name in sort(distinct-values($name-map))
-            return <li>{$name}</li>
-          }
-        </ul>
-      </div>
+    <div>
+      <h2>{$title} (Tone: {$tone})</h2>
+      <ul>
+        {
+          for $char in $sorted
+          return <li>{$char}</li>
+        }
+      </ul>
+    </div>
 
 return
 <html>

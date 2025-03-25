@@ -3,14 +3,14 @@
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title tone="anger">LOIS THE WITCH </title>
-    <chapter n="1">Chapter 1 <p> In the year <year>1691</year>, <character>Lois Barclay</character>
+    <chapter n="1">Chapter 1 <p> In the year <year>1691</year>, <character ref="Lois Barclay">Lois Barclay</character>
             stood on a little wooden pier, steadying herself on the stable land, in much the same
-            manner as, eight or nine weeks ago, she had tried to steady herself on the
-            deck of the rocking ship which had carried her across from <place>Old</place> to
-                <place>New England</place>. It seemed as strange now to be on solid earth as it had
-            been, not long ago, to be rocked by the sea, both by day and by night; and the aspect of
-            the land was equally strange. The forests which showed in the distance all round, and
-            which, in truth, were not very far from the wooden houses forming the town of
+            manner as, eight or nine weeks ago, she had tried to steady herself on the deck of the
+            rocking ship which had carried her across from <place>Old</place> to <place>New
+                England</place>. It seemed as strange now to be on solid earth as it had been, not
+            long ago, to be rocked by the sea, both by day and by night; and the aspect of the land
+            was equally strange. The forests which showed in the distance all round, and which, in
+            truth, were not very far from the wooden houses forming the town of
                 <place>Boston</place>, were of different shades of green, and different, too, in
             shape of outline to those which <character ref="Lois Barclay">Lois Barclay</character>
             knew well in her old home in <place>Warwickshire</place>. Her heart sank a little as she
@@ -23,10 +23,10 @@
             herself under her hood, as well as might be, from the piercing wind, which seemed to
             follow those whom it had tyrannized over at sea with a dogged wish of still tormenting
             them on land. Very patiently did <character ref="Lois Barclay">Lois</character> sit
-            there, although she was weary, and shivering with cold; for the day was severe for
-                May, and the Redemption, with store of necessaries and comforts for the
-                <character>Puritan colonists</character> of <place>New England</place>, was the
-            earliest ship that had ventured across the seas. </p>
+            there, although she was weary, and shivering with cold; for the day was severe for May,
+            and the Redemption, with store of necessaries and comforts for the <character>Puritan
+                colonists</character> of <place>New England</place>, was the earliest ship that had
+            ventured across the seas. </p>
         <p> How could <character ref="Lois Barclay">Lois</character> help thinking of the past, and
             speculating on the future, as she sat on <place>Boston pier</place>, at this
             breathing-time of her life? In the dim sea-mist which she gazed upon with aching eyes
@@ -99,7 +99,7 @@
         <p>
             <quote>'Promise me'</quote>—the dying woman's breath came harder and harder—<quote>'that
                 thou wilt go at once. The money our goods will bring—the letter thy father wrote to
-                    <character>Captain Holdernesse</character>, his old schoolfellow—thou knowest
+                <character ref="Captain Holdernesse">Captain Holdernesse</character>, his old schoolfellow—thou knowest
                 all I would say—my <character ref="Lois Barclay">Lois</character>, God bless
                 thee!'</quote>
         </p>
@@ -116,9 +116,9 @@
                 possibility—<character ref="Hugh Lucy">Hugh</character>'s love might cool, and the
             dear play-fellow of her childhood learn to forget. If not—if <character ref="Hugh Lucy"
                 >Hugh</character> were to be trusted in one tithe of what he said—God might permit
-            him to fulfil his resolve of coming to seek her out before many years were
-            over. It was all in God's hands, and that was best, thought <character
-                ref="Lois Barclay">Lois Barclay</character>. </p>
+            him to fulfil his resolve of coming to seek her out before many years were over. It was
+            all in God's hands, and that was best, thought <character ref="Lois Barclay">Lois
+                Barclay</character>. </p>
         <p> She was roused out of her trance of recollections by <character
                 ref="Captain Holdernesse">Captain Holdernesse</character>, who, having done all that
             was necessary in the way of orders and directions to his mate, now came up to her, and,
@@ -259,9 +259,9 @@
                 each company; to be on the look-out for the wild Indians, who are for ever stirring
                 about in the woods, stealthy brutes as they are! I am sure, I got such a fright the
                 first harvest-time after I came over to <place>New England</place>, I go on
-                dreaming, now near twenty years after Lothrop's business, of painted
-                Indians, with their shaven scalps and their war-streaks, lurking behind the trees,
-                and coming nearer and nearer with their noiseless steps.'</quote>
+                dreaming, now near twenty years after Lothrop's business, of painted Indians, with
+                their shaven scalps and their war-streaks, lurking behind the trees, and coming
+                nearer and nearer with their noiseless steps.'</quote>
         </p>
         <p>
             <quote>'Yes,'</quote> broke in one of her daughters; <quote>'and, mother, don't you
@@ -273,24 +273,24 @@
                 trunk of a felled tree, lying in the shadow, and thought nothing of it, till, on
                 looking again a while after, she fancied it was come a bit nearer to the house, and
                 how her heart turned sick with fright, and how she dared not stir at first, but shut
-                her eyes while she counted a hundred, and looked again, and the shadow
-                was deeper, but she could see that the log was nearer; so she ran in and bolted the
-                door, and went up to where her eldest lad lay. It was <character>Elijah</character>,
-                and he was but sixteen then; but he rose up at his mother's words, and
-                took his father's long duck-gun down, and he tried the loading, and spoke for the
-                first time to put up a prayer that God would give his aim good guidance, and went to
-                a window that gave a view upon the side where the log lay, and fired, and no one
-                dared to look what came of it, but all the household read the Scriptures, and prayed
-                the whole night long, till morning came and showed a long stream of blood lying on
-                the grass close by the log, which the full sunlight showed to be no log at all, but
-                just a <character>Red Indian</character> covered with bark, and painted most
-                skilfully, with his war-knife by his side.'</quote>
+                her eyes while she counted a hundred, and looked again, and the shadow was deeper,
+                but she could see that the log was nearer; so she ran in and bolted the door, and
+                went up to where her eldest lad lay. It was <character>Elijah</character>, and he
+                was but sixteen then; but he rose up at his mother's words, and took his father's
+                long duck-gun down, and he tried the loading, and spoke for the first time to put up
+                a prayer that God would give his aim good guidance, and went to a window that gave a
+                view upon the side where the log lay, and fired, and no one dared to look what came
+                of it, but all the household read the Scriptures, and prayed the whole night long,
+                till morning came and showed a long stream of blood lying on the grass close by the
+                log, which the full sunlight showed to be no log at all, but just a <character>Red
+                    Indian</character> covered with bark, and painted most skilfully, with his
+                war-knife by his side.'</quote>
         </p>
         <p> All were breathless with listening, though to most the story, or such like it, were
             familiar. Then another took up the tale of horror:</p>
         <p>
-            <quote>'And the pirates have been down at Marblehead since you were here, Captain
-                Holdernesse.</quote>
+            <quote>'And the pirates have been down at Marblehead since you were here, <character ref="Captain Holdernesse">Captain
+                Holdernesse</character>.</quote>
             <quote>'Twas only the last winter they landed,—French Papist pirates; and the people
                 kept close within their houses, for they knew not what would come of it; and they
                 dragged folk ashore. There was one woman among those folk—prisoners from some
@@ -337,100 +337,117 @@
                 people in Canada. I have heard tell, that the French pay the Indians so much gold
                 for every dozen scalps off Englishmen's heads</quote>.'</p>
         <p>
-            <quote>'Pretty cheerful talk this,'</quote> said Captain Holdernesse to Lois, perceiving
-            her blanched cheek and terror-stricken mien. <quote>'Thou art thinking that thou hadst
-                better have stayed at Barford, I'll answer for it, wench. But the devil is not so
-                black as he is painted.'</quote></p>
+            <quote>'Pretty cheerful talk this,'</quote> said <character ref="Captain Holdernesse"
+                >Captain Holdernesse</character> to <character ref="Lois Barclay">Lois</character>,
+            perceiving her blanched cheek and terror-stricken mien. <quote>'Thou art thinking that
+                thou hadst better have stayed at Barford, I'll answer for it, wench. But the devil
+                is not so black as he is painted.'</quote></p>
         <p>
-            <quote>'Ho! there again!'</quote> said Elder Hawkins. 'The devil is painted, it hath
-            been said so from old times; and are not these Indians painted, even like unto their
-            father?'</p>
+            <quote>'Ho! there again!'</quote> said <character>Elder Hawkins</character>. 'The devil
+            is painted, it hath been said so from old times; and are not these Indians painted, even
+            like unto their father?'</p>
         <p>
-            <quote>'But is it all true?'</quote> asked Lois, aside, of Captain Holdernesse, letting
-            the elder hold forth unheeded by her, though listened to, however, with the utmost
-            reverence by the two daughters of the house.</p>
+            <quote>'But is it all true?'</quote> asked <character ref="Lois Barclay">Lois</character>, aside,
+            of<character ref="Captain Holdernesse"> Captain Holdernesse</character>, letting the
+                <character>elder</character> hold forth unheeded by her, though listened to,
+            however, with the utmost reverence by the two daughters of the house.</p>
         <p>
-            <quote>'My wench,'</quote> said the old sailor, 'thou hast come to a country where there
-            are many perils, both from land and from sea. The Indians hate the white men. Whether
-            other white men (meaning the French away to the north) 'have hounded on the savages, or
-            whether the English have taken their lands and hunting-grounds without due recompense,
-            and so raised the cruel vengeance of the wild creatures—who knows? But it is true that
-            it is not safe to go far into the woods, for fear of the lurking painted savages; nor
-            has it been safe to build a dwelling far from a settlement; and it takes a brave heart
-            to make a journey from one town to another, and folk do say the Indian creatures rise up
-            out of the very ground to waylay the English; and then offers affirm they are all in
-            league with Satan to affright the Christians out of the heathen country over which he
-            has reigned so long. Then, again, the seashore is infested by pirates, the scum of all
-            nations: they land, and plunder, and ravage, and burn, and destroy. Folk get affrighted
-            of the real dangers, and in their fright imagine, perchance, dangers that are not. But
-            who knows? Holy Scripture speaks of witches and wizards, and of the power of the Evil
-            One in desert places; and even in the old country we have heard tell of those who have
-            sold their souls for ever for the little power they get for a few years on earth.'</p>
-        <p> By this time the whole table was silent, listening to the captain; it was just one of
-            those chance silences that sometimes occur, without any apparent reason, and often
-            without any apparent consequence. But all present had reason, before many months
-            had-passed over, to remember the words which Lois spoke in answer, although her voice
-            was low, and she only thought, in the interest of the moment, of being heard by her old
-            friend the captain.</p>
+            <quote>'My wench,'</quote> said the <character>old sailor,</character>
+            <quote>'thou hast come to a country where there are many perils, both from land and from
+                sea. The Indians hate the white men. Whether other white men (meaning the French
+                away to the north) 'have hounded on the savages, or whether the English have taken
+                their lands and hunting-grounds without due recompense, and so raised the cruel
+                vengeance of the wild creatures—who knows? But it is true that it is not safe to go
+                far into the woods, for fear of the lurking painted savages; nor has it been safe to
+                build a dwelling far from a settlement; and it takes a brave heart to make a journey
+                from one town to another, and folk do say the Indian creatures rise up out of the
+                very ground to waylay the English; and then offers affirm they are all in league
+                with Satan to affright the Christians out of the heathen country over which he has
+                reigned so long. Then, again, the seashore is infested by pirates, the scum of all
+                nations: they land, and plunder, and ravage, and burn, and destroy. Folk get
+                affrighted of the real dangers, and in their fright imagine, perchance, dangers that
+                are not. But who knows? Holy Scripture speaks of witches and wizards, and of the
+                power of the Evil One in desert places; and even in the old country we have heard
+                tell of those who have sold their souls for ever for the little power they get for a
+                few years on earth.'</quote></p>
+        <p> By this time the whole table was silent, listening to the
+            <character ref="Captain Holdernesse">captain</character>; it was just one of those chance silences that sometimes
+            occur, without any apparent reason, and often without any apparent consequence. But all
+            present had reason, before many months had-passed over, to remember the words which
+                <character>Lois</character> spoke in answer, although her voice was low, and she
+            only thought, in the interest of the moment, of being heard by her old friend the
+            <character ref="Captain Holdernesse">captain</character>.</p>
         <p><quote> 'They are fearful creatures, the witches! and yet I am sorry for the poor old
                 women, whilst I dread them. We had one in Barford, when I was a little child. No one
                 knew whence she came, but she settled herself down in a mud hut by the common side;
-                and there she lived, she and her cat.' </quote>(At the mention of the cat, Elder
-            Hawkins shook his head long and gloomily.) 'No one knew how she lived, if it were not on
-            nettles and scraps of oatmeal and such-like food given her more for fear than for pity.
-            She went double, always talking and muttering to herself. Folk said she snared birds and
-            rabbits, in the thicket that came down to her hovel. How it came to pass I cannot say,
-            but many a one fell sick in the village, and much cattle died one spring, when I was
-            near four years old. I never heard much about it, for my father said it was ill talking
-            about such things; I only know I got a sick fright one afternoon, when the maid had gone
-            out for milk and had taken me with her, and we were passing a meadow where the Avon,
-            circling, makes a deep round pool, and there was a crowd of folk, all still—and a still,
-            breathless crowd makes the heart beat worse than a shouting, noisy one. They were all
-            gazing towards the water, and the maid held me up in her arms to see the sight above the
-            shoulders of the people; and I saw old Hannah in the water, her grey hair all streaming
-            down her shoulders, and her face bloody and black with the stones and the mud they had
-            been throwing at her, and her cat tied round her neck. I hid my face, I know, as soon as
-            I saw the fearsome sight, for her eyes met mine as they were glaring with fury—poor,
-            helpless, baited creature!—and she caught the sight of me, and cried out, "Parson's
-            wench, parson's wench, yonder, in thy nurse's arms, thy dad hath never tried for to save
-            me, and none shall save thee when thou art brought up for a witch." Oh! the words rang
-            in my ears, when I was dropping asleep, for years after. I used to dream that I was in
-            that pond, all men hating me with their eyes because I was a witch; and, at times, her
-            black cat used to seem living again, and say over those dreadful words.'</p>
-        <p> Lois stopped: the two daughters looked at her excitement with a kind of shrinking
-            surprise, for the tears were in her eyes. Elder Hawkins shook his head, and muttered
-            texts from Scripture; but cheerful Widow Smith, not liking the gloomy turn of the
-            conversation, tried to give it a lighter cast by saying, <quote>'And I don't doubt but
-                what the parson's bonny lass has bewitched many a one since, with her dimples and
-                her pleasant ways—eh, Captain Holdernesse? It's you must tell us tales of this young
-                lass'</quote> doings in England.'</p>
+                and there she lived, she and her cat.' </quote>(At the mention of the cat,
+                <character>Elder Hawkins </character>shook his head long and gloomily.) <quote>'No
+                one knew how she lived, if it were not on nettles and scraps of oatmeal and
+                such-like food given her more for fear than for pity. She went double, always
+                talking and muttering to herself. Folk said she snared birds and rabbits, in the
+                thicket that came down to her hovel. How it came to pass I cannot say, but many a
+                one fell sick in the village, and much cattle died one spring, when I was near four
+                years old. I never heard much about it, for my father said it was ill talking about
+                such things; I only know I got a sick fright one afternoon, when the maid had gone
+                out for milk and had taken me with her, and we were passing a meadow where the Avon,
+                circling, makes a deep round pool, and there was a crowd of folk, all still—and a
+                still, breathless crowd makes the heart beat worse than a shouting, noisy one. They
+                were all gazing towards the water, and the maid held me up in her arms to see the
+                sight above the shoulders of the people; and I saw old Hannah in the water, her grey
+                hair all streaming down her shoulders, and her face bloody and black with the stones
+                and the mud they had been throwing at her, and her cat tied round her neck. I hid my
+                face, I know, as soon as I saw the fearsome sight, for her eyes met mine as they
+                were glaring with fury—poor, helpless, baited creature!—and she caught the sight of
+                me, and cried out,<quote> "Parson's wench, parson's wench, yonder, in thy nurse's
+                    arms, thy dad hath never tried for to save me, and none shall save thee when
+                    thou art brought up for a witch."</quote> Oh! the words rang in my ears, when I
+                was dropping asleep, for years after. I used to dream that I was in that pond, all
+                men hating me with their eyes because I was a witch; and, at times, her black cat
+                used to seem living again, and say over those dreadful words.'</quote></p>
         <p>
-            <quote>'Ay, ay,'</quote> said the captain, <quote>'there'</quote>s one under her charms
-            in Warwickshire who will never get the better of it, I'm thinking.'</p>
-        <p> Elder Hawkins rose to speak; he stood leaning on his hands, which were placed on the
-            table: <quote>'Brethren,'</quote> said he, 'I must upbraid you if ye speak lightly;
-            charms and witchcraft are evil things. I trust this maiden hath had nothing to do with
-            them, even in thought. But my mind misgives me at her story. The hellish witch might
-            have power from Satan to infect her mind, she being yet a child, with the deadly sin.
-            Instead of vain talking, I call upon you all to join with me in prayer for this stranger
-            in our land, that her heart may be purged from all iniquity. Let us pray.'</p>
+            <character>Lois</character> stopped: the two daughters looked at her excitement with a
+            kind of shrinking surprise, for the tears were in her eyes. Elder Hawkins shook his
+            head, and muttered texts from Scripture; but cheerful <character>Widow
+            Smith</character>, not liking the gloomy turn of the conversation, tried to give it a
+            lighter cast by saying, <quote>'And I don't doubt but what the parson's bonny lass has
+                bewitched many a one since, with her dimples and her pleasant ways—eh,
+                <character ref="Captain Holdernesse">Captain Holdernesse?</character> It's you must tell us tales of this
+                young lass' doings in <place>England</place>.'</quote></p>
         <p>
-            <quote>'Come, there's no harm in that,'</quote> said the captain; 'but, Elder Hawkins,
-            when you are at work, just pray for us all, for I am afeard there be some of us need
-            purging from iniquity a good deal more than Lois Barclay, and a prayer for a man never
-            does mischief.'</p>
-        <p> Captain Holdernesse had business in Boston which detained him there for a couple of
-            days, and during that time Lois remained with the Widow Smith, seeing what was to be
-            seen of the new land that contained her future home. The letter of her dying mother was
-            sent off to Salem, meanwhile, by a lad going thither, in order to prepare her Uncle
-            Ralph Hickson for his niece's coming, as soon as Captain Holdernesse could find leisure
+            <quote>'Ay, ay,'</quote> said the <character ref="Captain Holdernesse">captain</character>, <quote>'there's one
+                under her charms in Warwickshire who will never get the better of it, I'm
+                thinking.'</quote></p>
+        <p>
+            <character>Elder Hawkins</character> rose to speak; he stood leaning on his hands, which
+            were placed on the table: <quote>'Brethren,'</quote> said he, <quote>'I must upbraid you
+                if ye speak lightly; charms and witchcraft are evil things. I trust this maiden hath
+                had nothing to do with them, even in thought. But my mind misgives me at her story.
+                The hellish witch might have power from Satan to infect her mind, she being yet a
+                child, with the deadly sin. Instead of vain talking, I call upon you all to join
+                with me in prayer for this stranger in our land, that her heart may be purged from
+                all iniquity. Let us pray.'</quote></p>
+        <p>
+            <quote>'Come, there's no harm in that,'</quote> said the
+            <character ref="Captain Holdernesse">captain</character>;<quote> 'but, <character>Elder Hawkins</character>,
+                when you are at work, just pray for us all, for I am afeard there be some of us need
+                purging from iniquity a good deal more than Lois Barclay, and a prayer for a man
+                never does mischief.'</quote></p>
+        <p>
+            <character ref="Captain Holdernesse">Captain Holdernesse </character>had business in <place>Boston</place> which
+            detained him there for a couple of days, and during that time
+                <character>Lois</character> remained with the <character>Widow Smith</character>,
+            seeing what was to be seen of the new land that contained her future home. The letter of
+            her dying mother was sent off to <character>Salem</character>, meanwhile, by a lad going
+            thither, in order to prepare her <character>Uncle Ralph Hickson</character> for his
+            niece's coming, as soon as <character ref="Captain Holdernesse">Captain Holdernesse</character> could find leisure
             to take her; for he considered her given into his own personal charge, until he could
-            consign her to her uncle's care. When the time came for going to Salem, Lois felt very
-            sad at leaving the kindly woman under whose roof she had been staying, and looked back
-            as long as she could see anything of Widow Smith's dwelling. She was packed into a rough
-            kind of country cart, which just held her and Captain Holdernesse, beside the driver.
-            There was a basket of provisions under their feet, and behind them hung a bag of
-            provender for the horse; for it was a good day's journey to Salem, and the road was
+            consign her to her uncle's care. When the time came for going to <place>Salem</place>,
+                <character>Lois</character> felt very sad at leaving the kindly woman under whose
+            roof she had been staying, and looked back as long as she could see anything
+                of<character> Widow Smith's</character> dwelling. She was packed into a rough kind
+            of country cart, which just held her and <character ref="Captain Holdernesse">Captain Holdernesse,</character> beside the driver. There
+            was a basket of provisions under their feet, and behind them hung a bag of provender for
+            the horse; for it was a good day's journey to <place>Salem</place>, and the road was
             reputed so dangerous that it was ill tarrying a minute longer than necessary for
             refreshment. English roads were bad enough at that period and for long after, but in
             America the way was simply the cleared ground of the forest; the stumps of the felled
@@ -443,38 +460,39 @@
             lurking Indians, who might otherwise come upon them unawares. The cries of strange
             birds, the unwonted colour of some of them, all suggested to the imaginative or
             unaccustomed traveller the idea of war-whoops and painted deadly enemies. But at last
-            they drew near to Salem, which rivalled Boston in size in those days, and boasted the
-            name of one or two streets, although to an English eye they looked rather more like
-            irregularly built houses, clustered round the meeting-house, or rather one of the
-            meeting-houses, for a second was in process of building. The whole place was surrounded
-            with two circles of stockades; between the two were the gardens and grazing ground for
-            those who dreaded their cattle straying into the woods, and the consequent danger of
-            reclaiming them.</p>
-        <p> The lad who drove them flogged his spent horse into a trot, as they went through Salem
-            to Ralph Hickson's house. It was evening, the leisure time for the inhabitants, and
-            their children were at play before the houses. Lois was struck by the beauty of one wee
-            toddling child, and turned to look after it; it caught its little foot in a stump of
-            wood, and fell with a cry that brought the mother out in affright. As she ran out, her
-            eye caught Lois's anxious gaze, although the noise of the heavy wheels drowned the sound
-            of her words of inquiry as to the nature of the hurt the child had received. Nor had
-            Lois time to think long upon the matter, for the instant after, the horse was pulled up
-            at the door of a good, square, substantial wooden house, plastered over into a creamy
-            white, perhaps as handsome a house as any in Salem; and there she was told by the driver
-            that her uncle, Ralph Hickson, lived. In the flurry of the moment she did not notice,
-            but Captain Holdernesse did, that no one came out at the unwonted sound of wheels, to
+            they drew near to <place>Salem</place>, which rivalled <place>Boston</place> in size in
+            those days, and boasted the name of one or two streets, although to an English eye they
+            looked rather more like irregularly built houses, clustered round the meeting-house, or
+            rather one of the meeting-houses, for a second was in process of building. The whole
+            place was surrounded with two circles of stockades; between the two were the gardens and
+            grazing ground for those who dreaded their cattle straying into the woods, and the
+            consequent danger of reclaiming them.</p>
+        <p> The lad who drove them flogged his spent horse into a trot, as they went through
+            <place>Salem</place> to <character ref="Ralph Hickson">Ralph Hickson's</character> house. It was
+            evening, the leisure time for the inhabitants, and their children were at play before
+            the houses. <character>Lois</character> was struck by the beauty of one wee toddling
+            child, and turned to look after it; it caught its little foot in a stump of wood, and
+            fell with a cry that brought the mother out in affright. As she ran out, her eye caught
+            Lois's anxious gaze, although the noise of the heavy wheels drowned the sound of her
+            words of inquiry as to the nature of the hurt the child had received. Nor had Lois time
+            to think long upon the matter, for the instant after, the horse was pulled up at the
+            door of a good, square, substantial wooden house, plastered over into a creamy white,
+            perhaps as handsome a house as any in Salem; and there she was told by the driver that
+            her uncle, Ralph Hickson, lived. In the flurry of the moment she did not notice, but
+            <character ref="Captain Holdernesse">Captain Holdernesse </character>did, that no one came out at the unwonted sound of wheels, to
             receive and welcome her. She was lifted down by the old sailor, and led into a large
             room, almost like the hall of some English manor-house as to size. A tall, gaunt young
             man of three or four and twenty, sat on a bench by one of the windows, reading a great
             folio by the fading light of day. He did not rise when they came in, but looked at them
             with surprise, no gleam of intelligence coming into his stern, dark face. There was no
-            woman in the house-place. Captain Holdernesse paused a moment, and then said:</p>
+            woman in the house-place. <character ref="Captain Holdernesse">Captain Holdernesse</character> paused a moment, and then said:</p>
         <p>
             <quote>'Is this house Ralph Hickson's?</quote>'</p>
         <p>
             <quote>'It is,'</quote> said the young man, in a slow, deep voice. But he added no word
             further.</p>
         <p>
-            <quote>'This is his niece, Lois Barclay,'</quote> said the captain, taking the girl's
+            <quote>'This is his niece, Lois Barclay,'</quote> said the <character ref="Captain Holdernesse">captain</character>, taking the girl's
             arm, and pushing her forwards. The young man looked at her steadily and gravely for a
             minute; then rose, and carefully marking the page in the folio which hitherto had lain
             open upon his knee, said, still in the same heavy, indifferent manner, 'I will call my
@@ -491,7 +509,7 @@
             shaggy eyebrows.</p>
         <p> A tall, largely made woman, past middle life, came in from the kitchen, and stood
             reconnoitring the strangers.</p>
-        <p> Captain Holdernesse spoke.</p>
+        <p> <character ref="Captain Holdernesse">Captain Holdernesse </character>spoke.</p>
         <p>
             <quote>'This is Lois Barclay, Master Ralph Hickson'</quote>s niece.'</p>
         <p>
@@ -508,12 +526,12 @@
             when all godly men left theirs——'</p>
         <p> Lois, who had thought her heart was dead and cold a minute before at the ungracious
             reception she had met with, felt words come up into her mouth at the implied insult to
-            her father, and spoke out, to her own and the captain's astonishment:</p>
+            her father, and spoke out, to her own and the<character ref="Captain Holdernesse"> captain's</character> astonishment:</p>
         <p> 'They might be godly men who left their churches on that day of which you speak, madam;
             but they alone were not the godly men, and no one has a right to limit true godliness
             for mere opinion<quote>'s sake.'</quote></p>
         <p>
-            <quote>'Well said, lass,'</quote> spoke out the captain, looking round upon her with a
+            <quote>'Well said, lass,'</quote> spoke out the <character ref="Captain Holdernesse">captain</character>, looking round upon her with a
             kind of admiring wonder, and patting her on the back.</p>
         <p> Lois and her aunt gazed into each other's eyes unflinchingly, for a minute or two of
             silence; but the girl felt her colour coming and going, while the elder woman's never
@@ -536,13 +554,13 @@
             her mother spoke, scarcely caring to look at the newly-arrived strangers. She was like
             her brother Manasseh in complexion, but had handsomer features, and large,
             mysterious-looking eyes, as Lois saw, when once she lifted them up, and took in, as it
-            were, the aspect of the sea-captain and her cousin with one swift searching look. About
+            were, the aspect of the <character ref="Captain Holdernesse">sea-captain</character> and her cousin with one swift searching look. About
             the stiff, tall, angular mother, and the scarce less pliant figure of the daughter, a
             girl of twelve years old, or thereabouts, played all manner of impish antics, unheeded
             by them, as if it were her accustomed habit to peep about, now under their arms, now at
-            this side, now at that, making grimaces all the while at Lois and Captain Holdernesse,
+            this side, now at that, making grimaces all the while at Lois and <character ref="Captain Holdernesse">Captain Holdernesse,</character>
             who sat facing the door, weary, and somewhat disheartened by their reception. The
-            captain pulled out tobacco, and began to chew it by way of consolation; but in a moment
+            <character ref="Captain Holdernesse">captain</character> pulled out tobacco, and began to chew it by way of consolation; but in a moment
             or two, his usual elasticity of spirit came to his rescue, and he said in a low voice to
             Lois:</p>
         <p> 'That scoundrel Elias, I will give it him! If the letter had but been delivered, thou
@@ -603,7 +621,7 @@
             hand, as, at her aunt's bidding, she wished him good night, and returned into the outer,
             or <quote>'keeping'</quote>-room, where all the family were now assembled, ready for the
             meal of flour cakes and venison-steaks which Nattee, the Indian servant, was bringing in
-            from the kitchen. No one seemed to have been speaking to Captain Holdernesse while Lois
+            from the kitchen. No one seemed to have been speaking to <character ref="Captain Holdernesse">Captain Holdernesse </character>while Lois
             had been away. Manasseh sat quiet and silent where he did, with the book open upon his
             knee, his eyes thoughtfully fixed on vacancy, as if he saw a vision, or dreamed dreams.
             Faith stood by the table, lazily directing Nattee in her preparations; and Prudence
@@ -620,19 +638,19 @@
             a pluck at the coat from Prudence; he opened his shut eyes, cast an angry glance at the
             child, who made a face at him for sole reply, and then he sat down, and they all fell
             to. Grace Hickson would have thought her hospitality sadly at fault, if she had allowed
-            Captain Holdernesse to go out in search of a bed. Skins were spread for him on the floor
+            <character ref="Captain Holdernesse">Captain Holdernesse </character>to go out in search of a bed. Skins were spread for him on the floor
             of the keeping-room; a Bible, and a square bottle of spirits were placed on the table,
             to supply his wants during the night; and in spite of all the cares and troubles,
             temptations, or sins of the members of that household, they were all asleep before the
             town clock struck ten.</p>
-        <p> In the morning, the captain's first care was to go out in search of the boy Elias, and
+        <p> In the morning, the <character ref="Captain Holdernesse">captain's </character>first care was to go out in search of the boy Elias, and
             the missing letter. He met him bringing it with an easy conscience, for, thought Elias,
             a few hours sooner or later will make no difference; to-night or the morrow morning will
             be all the same. But he was startled into a sense of wrong-doing by a sound box on the
             ear, from the very man who had charged him to deliver it speedily, and whom he believed
             to be at that very moment in Boston city.</p>
         <p> The letter delivered, all possible proof being given that Lois had a right to claim a
-            home from her nearest relations, Captain Holdernesse thought it best to take leave.</p>
+            home from her nearest relations,<character ref="Captain Holdernesse">Captain Holdernesse</character> thought it best to take leave.</p>
         <p>
             <quote>'Thou'</quote>lt take to them, lass, maybe, when there is no one here to make
             thee think on the old country. Nay, nay! parting is hard work at all times, and best get
@@ -1572,8 +1590,9 @@
             on end; and this morning all the crockery in the house was found broken and piled up in
             the middle of the kitchen floor; and <character ref="Pastor Tappau">Pastor
                 Tappau</character> says, that as soon as he began to ask a blessing on the morning's
-            meal, Abigail and Hester cried out, as if some one was pinching them. Lord, have mercy
-            upon us all! Satan is of a truth let loose.'</p>
+            meal, <character ref="Abigail Tappau">Abigail</character> and Hester cried out, as if
+            some one was pinching them. Lord, have mercy upon us all! Satan is of a truth let
+            loose.'</p>
         <p>
             <quote>'They sound like the old stories I used to hear in Barford,'</quote> said
                 <character ref="Lois">Lois</character>, breathless with affright.</p>
@@ -3001,13 +3020,13 @@
             the crowd, out of the bounds of the city, and into the dark dense forest, and <character
                 ref="Manasseh">Manasseh</character> Hickson was no more seen of Christian man.</p>
         <p> The people of Salem had awakened from their frightful delusion before the autumn, when
-            Captain Holdernesse and Ralph Lucy came to find out <character ref="Lois"
+            <character ref="Captain Holdernesse">Captain Holdernesse</character> and Ralph Lucy came to find out <character ref="Lois"
                 >Lois</character>, and bring her home to peaceful Barford, in the pleasant country
             of England. Instead, they led them to the grassy grave where she lay at rest, done to
             death by mistaken men. Ralph Lucy shook the dust off his feet in quitting Salem, with a
             heavy, heavy heart; and lived a bachelor all his life long for her sake.</p>
-        <p> Long years afterwards, Captain Holdernesse sought him out, to tell him some news that he
-            thought might interest the grave miller of the Avonside. Captain Holdernesse told him
+        <p> Long years afterwards, <character ref="Captain Holdernesse">Captain Holdernesse</character> sought him out, to tell him some news that he
+            thought might interest the grave miller of the Avonside. <character ref="Captain Holdernesse">Captain Holdernesse</character> told him
             that in the previous year, it was then 1713, the sentence of excommunication against the
             witches of Salem was ordered, in godly sacramental meeting of the church, to be erased
             and blotted out, and that those who met together for this purpose 'humbly requested the
@@ -3021,7 +3040,7 @@
             which Ralph Lucy only answered:</p>
         <p>
             <quote>'No repentance of theirs can bring her back to life.'</quote></p>
-        <p> Then Captain Holdernesse took out a paper, and read the following humble and solemn
+        <p> Then <character ref="Captain Holdernesse">Captain Holdernesse</character> took out a paper, and read the following humble and solemn
             declaration of regret on the part of those who signed it, among whom <character
                 ref="Grace Hickson">Grace Hickson</character> was one:</p>
         <p> 'We, whose names are undersigned, being, in the year 1692, called to serve as jurors in
@@ -3055,7 +3074,7 @@
             before:</p>
         <p> 'All their repentance will avail nothing to my <character ref="Lois">Lois</character>,
             nor will it bring back her life.'</p>
-        <p> Then Captain Holdernesse spoke once more, and said that on the day of the general fast,
+        <p> Then <character ref="Captain Holdernesse">Captain Holdernesse </character>spoke once more, and said that on the day of the general fast,
             appointed to be held all through New England, when the meeting-houses were crowded, an
             old, old man with white hair had stood up in the place in which he was accustomed to
             worship, and had handed up into the pulpit a written confession, which he had once or
@@ -3073,7 +3092,7 @@
         <p> Ralph Lucy's voice trembled as he spoke:</p>
         <p> 'All this will not bring my <character ref="Lois">Lois</character> to life again, or
             give me back the hope of my youth.'</p>
-        <p> But—as Captain Holdernesse shook his head (for what word could he say, or how dispute
+        <p> But—as <character ref="Captain Holdernesse">Captain Holdernesse</character> shook his head (for what word could he say, or how dispute
             what was so evidently true?)—Ralph added, 'What is the day, know you, that this justice
             has set apart?'</p>
         <p>
