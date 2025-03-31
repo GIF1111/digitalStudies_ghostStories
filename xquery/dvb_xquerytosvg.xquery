@@ -1,4 +1,4 @@
-declare variable $stories := collection('?select=*.xml');
+declare variable $stories := collection('../xml/?select=*.xml');
 declare variable $yspacer := 25;
 declare variable $xspacer := 60;
 declare variable $tone-colors := map{
