@@ -2,6 +2,9 @@ xquery version '3.1';
 
 declare namespace svg = "http://www.w3.org/2000/svg";
 
+(: feel like this doesnt do much and I did look for
+a lot of help with videos on this but I did have to get
+a little bit of help from ai because of errors but this does do what I wanted:)
 
 (: Collect all tone attributes :)
 let $tones := (
@@ -13,13 +16,15 @@ let $tones := (
 let $tone-counts := map:merge(
     for $tone in distinct-values($tones)
     return map:entry($tone, count($tones[. eq $tone]))
+    (:map:merge: stores information in a key value map of tone:count:)
 )
 
 
 let $max-count := max((map:keys($tone-counts) ! $tone-counts(.), 0))
-
+(:finds the highest tone count to scale the bars right now its only 1 for 4 types of tones:)
 (: Generate SVG :)
 let $svg :=
+(:Creates an SVG element with the defined width and height.:)
     <svg xmlns="http://www.w3.org/2000/svg" width="400" height="300">
         <!-- Y-axis labels and grid lines -->
         <g transform="translate(50,10)">
