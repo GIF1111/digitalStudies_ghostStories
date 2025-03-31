@@ -39,14 +39,14 @@ let $svg :=
             
             <!-- X-axis labels -->
             { for $tone at $index in distinct-values($tones)
-              let $x-pos := ($index - 1) * 30 + 20
+              let $x-pos := ($index - 1) * 40 + 20
               return <text x="{$x-pos}" y="270" text-anchor="middle" font-size="10">{ $tone }</text>
             }
             
             <!-- Bars -->
             { for $tone at $index in distinct-values($tones)
               let $count := map:get($tone-counts, $tone)
-              let $x-pos := ($index - 1) * 30 + 10
+              let $x-pos := ($index - 1) * 40 + 10
               let $bar-height := ($count * 20)
               return <rect x="{$x-pos}" y="{250 - $bar-height}" width="20" height="{$bar-height}" fill="steelblue" />
             }
