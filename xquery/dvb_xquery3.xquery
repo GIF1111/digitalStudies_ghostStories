@@ -15,7 +15,7 @@ declare variable $xml := collection('xml/?select=*.xml');
             <th>Number</th><tr><th>Suspenseful Paragraph</th><th>Occurrences</th></tr>
             
 {
-let $doc := doc('../xml/DBest_the_grey_woman.xml')
+let $doc := doc('../xml/the_grey_woman.xml')
 (:Loads up the XML document:)
 let $tone-type := $doc//title/@tone
 (:Grabs the type of tone from the title:)
