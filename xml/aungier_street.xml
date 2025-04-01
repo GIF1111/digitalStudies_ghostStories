@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<story> An Account of Some Strange
-    Disturbances in Aungier Street
+<?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<story> 
+    <title tone="">An Account of Some Strange
+    Disturbances in Aungier Street</title>
     
     It is not worth telling, this story of mine—at least, not worth writing. Told, indeed, as I have sometimes been called upon to tell it, to a circle of intelligent and eager faces, lighted up by a good after-dinner fire on a winter's evening, with a cold wind rising and wailing outside, and all snug and cosy within, it has gone off—though I say it, who should not—indifferent well. But it is a venture to do as you would have me. Pen, ink, and paper are cold vehicles for the marvellous, and a "reader" decidedly a more critical animal than a "listener." If, however, you can induce your friends to read it after nightfall, and when the fireside talk has run for a while on thrilling tales of shapeless terror; in short, if you will secure me the mollia tempora fandi, I will go to my work, and say my say, with better heart. Well, then, these conditions presupposed, I shall waste no more words, but tell you simply how it all happened.
     
@@ -231,4 +234,5 @@
     
     Now, I may add thus much, in compliance with the immemorial usage of the realm of fiction, which sees the hero not only through his adventures, but fairly out of the world. You must have perceived that what the flesh, blood, and bone hero of romance proper is to the regular compounder of fiction, this old house of brick, wood, and mortar is to the humble recorder of this true tale. I, therefore, relate, as in duty bound, the catastrophe which ultimately befell it, which was simply this—that about two years subsequently to my story it was taken by a quack doctor, who called himself Baron Duhlstoerf, and filled the parlour windows with bottles of indescribable horrors preserved in brandy, and the newspapers with the usual grandiloquent and mendacious advertisements. This gentleman among his virtues did not reckon sobriety, and one night, being overcome with much wine, he set fire to his bed curtains, partially burned himself, and totally consumed the house. It was afterwards rebuilt, and for a time an undertaker established himself in the premises.
     
-    I have now told you my own and Tom's adventures, together with some valuable collateral particulars; and having acquitted myself of my engagement, I wish you a very good night, and pleasant dreams.</story>
+    I have now told you my own and Tom's adventures, together with some valuable collateral particulars; and having acquitted myself of my engagement, I wish you a very good night, and pleasant dreams.
+</story>

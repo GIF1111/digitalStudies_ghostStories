@@ -39,14 +39,15 @@ let $svg :=
             
             <!-- X-axis labels -->
             { for $tone at $index in distinct-values($tones)
-              let $x-pos := ($index - 1) * 40 + 20
+              let $x-pos := ($index - 1) * 40 + 20 (:scaling for x position change if need for the new stories:)
               return <text x="{$x-pos}" y="270" text-anchor="middle" font-size="10">{ $tone }</text>
             }
             
             <!-- Bars -->
             { for $tone at $index in distinct-values($tones)
               let $count := map:get($tone-counts, $tone)
-              let $x-pos := ($index - 1) * 40 + 10
+              (:should be locked with the x-axis above so the bars are aligned:)
+              let $x-pos := ($index - 1) * 40 + 10(:scaling for x position change if need for the new stories:)
               let $bar-height := ($count * 20)
               return <rect x="{$x-pos}" y="{250 - $bar-height}" width="20" height="{$bar-height}" fill="steelblue" />
             }
