@@ -19,7 +19,9 @@ declare variable $tone-colors := map{
             let $title := $story//title
             let $year := $story//year
             let $tone := $story//tone
-            let $color := map:get($tone-colors, $tone)
+            let $color := if ($tone) then
+            map:get($tone-colors, $tone) else 'gray'
+            
             return
                 <g>
                 <circle cx="{$year - 1810 * $xspacer}" cy="{$year - 1810 * $yspacer}" r="10" fill="{$color}"/>
