@@ -6,7 +6,7 @@ declare variable $tone-colors := map{
     'sad' : 'blue',
     'suspenseful' : 'purple',
     'angry' : 'red',
-    'dark' : 'black'};
+    'fear' : 'black' };
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
     <g transform="translate(150,100)">
