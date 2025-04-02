@@ -3,7 +3,7 @@
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 
 <story>
-    <title tone="sadness">THE POOR CLARE</title>
+    <title>THE POOR CLARE</title>
     <chapter n="1">Chapter 1
     <p>December 12th, 1747.—My life has been strangely bound up with extraordinary incidents, some
         of which occurred before I had any connection with the principal actors in them, or, indeed,
