@@ -1,0 +1,26 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Ghost Story Timeline</title>
+      <style>
+      body { font-family: Arial, sans-serif; padding: 20px; }
+      svg { border: 1px solid #ccc; background: #f9f9f9; }
+    </style>
+   </head>
+   <body>
+      <h1>Ghost Story Timeline</h1>
+      <p>This visualization shows the distribution of ghost story publication years extracted
+         from our XML data collection. Each blue dot represents a unique year found in the
+         dataset.</p><svg xmlns="http://www.w3.org/2000/svg" width="800" height="100"><!-- Title -->
+         <text x="400" y="30" font-size="20" font-weight="bold" text-anchor="middle">Ghost Story Years</text><!-- Horizontal timeline line -->
+         <line x1="50" y1="50" x2="750" y2="50" stroke="black" stroke-width="2"/>
+         <circle cx="50" cy="50" r="5" fill="blue"/>
+         <text x="50" y="70" font-size="12" text-anchor="middle">1661</text>
+         <circle cx="145.45454545454547" cy="50" r="5" fill="blue"/>
+         <text x="145.45454545454547" y="70" font-size="12" text-anchor="middle">1691</text>
+         <circle cx="750" cy="50" r="5" fill="blue"/>
+         <text x="750" y="70" font-size="12" text-anchor="middle">1881</text></svg><p>From 1661 to 1881, we see how ghost story writing has evolved across time.</p>
+   </body>
+</html>
