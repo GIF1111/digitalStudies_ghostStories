@@ -1,6 +1,7 @@
 declare option saxon:output "method=html";
 declare option saxon:output "doctype-system=about:legacy-compat";
-declare variable $stories := collection('../xml/?select=*.xml');
+declare variable $stories := doc('../xml/the_open_door.xml');
+(:declare variable $stories := collection('../xml/?select=*.xml');:)
 declare variable $yspacer := 25;
 declare variable $xspacer := 60;
 declare variable $tone-colors := map{
@@ -16,7 +17,7 @@ declare variable $tone-colors := map{
     </head>
         <p>This is meant to bring ghost stories to life by turning them into a visual timeline, with each story getting a color based on its mood.</p>
 
-<svg>
+<svg width="100%" height= "100%">
     <g transform="translate(150,100)">
     <g>
     <text x="0" y="-5" font-family="sans-serif" font-size="20px" fill="black">Victorian Ghost Story Timeline</text>

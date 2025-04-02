@@ -3,12 +3,14 @@
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 
 <story>
-    <title tone="suspenseful">THE OPEN DOOR</title>
+    <title tone="fear">THE OPEN DOOR</title>
 
-<p><year>1881</year></p>
+
     
 <chapter n="1">
     THE OPEN DOOR.
+    
+    <p><year>1881</year></p>
     
 <p>
 Brentwood stands on that fine and wealthy slope of country—one of the richest in <place>Scotland</place>—which lies between the <place>Pentland Hills</place> and the <place>Firth</place>. In clear weather you could see the blue gleam—like a bent bow, embracing the wealthy fields and scattered houses—of the great estuary on one side of you, and on the other the blue heights, not gigantic like those we had been used to, but just high enough for all the glories of the atmosphere, the play of clouds, and sweet reflections, which give to a hilly country an interest and a charm which nothing else can emulate. <place>Edinburgh</place>—with its two lesser heights, the <place>Castle</place> and the <place>Calton Hill</place>, its spires and towers piercing through the smoke, and <place>Arthur’s Seat</place> lying crouched behind, like a guardian no longer very needful, taking his repose beside the well-beloved charge, which is now, so to speak, able to take care of itself without him—lay at our right hand. From the lawn and drawing-room windows we could see all these varieties of landscape. The color was sometimes a little chilly, but sometimes, also, as animated and full of vicissitude as a drama. I was never tired of it. Its color and freshness revived the eyes which had grown weary of arid plains and blazing skies. It was always cheery, and fresh, and full of repose.
