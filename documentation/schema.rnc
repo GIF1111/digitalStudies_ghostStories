@@ -2,10 +2,10 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = story
 story = element story {title, (chapter | p)*}
-title = element title {tone,text}
+title = element title {text}
 chapter = element chapter {n, text*, p*, quote*}
 n = attribute n {xsd:int} 
-p = element p {(text | quote | year| character | place)+}
+p = element p { tone,(text | quote | year| character | place)+}
 place = element place {text} #LS Does every story have places we can mark up?
 character = element character {(text|ref)*} #LS can we mark characters consistently 
 ref = attribute ref {text}
