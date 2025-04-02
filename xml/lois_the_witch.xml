@@ -2,8 +2,8 @@
 <!-- The Project Gutenberg eBook of Curious, if True -->
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title tone="sadness">LOIS THE WITCH </title>
-    <chapter n="1">Chapter 1 <p> In the year <year>1691</year>, <character ref="Lois Barclay">Lois
+    <title>LOIS THE WITCH </title>
+    <chapter n="1">Chapter 1 <p tone="anger"> In the year <year>1691</year>, <character ref="Lois Barclay">Lois
                 Barclay</character> stood on a little wooden pier, steadying herself on the stable
             land, in much the same manner as, eight or nine weeks ago, she had tried to steady
             herself on the deck of the rocking ship which had carried her across from
@@ -25,7 +25,7 @@
             sea with a dogged wish of still tormenting them on land. Very patiently did <character
                 ref="Lois Barclay">Lois</character> sit there, although she was weary, and shivering
             with cold; for the day was severe for May, and the Redemption, with store of necessaries
-            and comforts for the <character>Puritan colonists</character> of <place>New
+            and comforts for the <character ref="colonists">Puritan colonists</character> of <place>New
                 England</place>, was the earliest ship that had ventured across the seas. </p>
         <p> How could <character ref="Lois Barclay">Lois</character> help thinking of the past, and
             speculating on the future, as she sat on <place>Boston pier</place>, at this
