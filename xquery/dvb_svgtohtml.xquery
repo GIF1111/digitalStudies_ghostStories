@@ -16,7 +16,7 @@ declare variable $tone-colors := map{
     </head>
         <p>This is meant to bring ghost stories to life by turning them into a visual timeline, with each story getting a color based on its mood.</p>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<svg>
     <g transform="translate(150,100)">
     <g>
     <text x="0" y="-5" font-family="sans-serif" font-size="20px" fill="black">Victorian Ghost Story Timeline</text>

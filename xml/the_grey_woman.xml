@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
+
 <story> 
     <title tone="suspenseful">THE GREY WOMAN</title>
+
+    <p><year>1861</year></p>
 
 <chapter n="1">
     Portion 1
