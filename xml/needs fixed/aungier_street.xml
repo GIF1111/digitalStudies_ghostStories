@@ -2,238 +2,696 @@
 
 <?xml-model href="../../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    
-<title>An Account of Some Strange Disturbances in Aungier Street</title>
-    
-<p>    It is not worth telling, this story of mine—at least, not worth writing. Told, indeed, as I have sometimes been called upon to tell it, to a circle of intelligent and eager faces, lighted up by a good after-dinner fire on a winter's evening, with a cold wind rising and wailing outside, and all snug and cosy within, it has gone off—though I say it, who should not—indifferent well. But it is a venture to do as you would have me. Pen, ink, and paper are cold vehicles for the marvellous, and a reader decidedly a more critical animal than a listener. If, however, you can induce your friends to read it after nightfall, and when the fireside talk has run for a while on thrilling tales of shapeless terror; in short, if you will secure me the mollia tempora fandi, I will go to my work, and say my say, with better heart. Well, then, these conditions presupposed, I shall waste no more words, but tell you simply how it all happened.</p>
-    
-<p>    My cousin (<character>Tom Ludlow</character>) and I studied medicine together. I think he would have succeeded, had he stuck to the profession; but he preferred the Church, poor fellow, and died early, a sacrifice to contagion, contracted in the noble discharge of his duties. For my present purpose, I say enough of his character when I mention that he was of a sedate but frank and cheerful nature; very exact in his observance of truth, and not by any means like myself—of an excitable or nervous temperament.</p>
-    
-<p>    My <character>Uncle Ludlow</character>—Tom's father—while we were attending lectures, purchased three or four old houses in <place>Aungier Street</place>, one of which was unoccupied. He resided in the country, and Tom proposed that we should take up our abode in the untenanted house, so long as it should continue unlet; a move which would accomplish the double end of settling us nearer alike to our lecture-rooms and to our amusements, and of relieving us from the weekly charge of rent for our lodgings.</p>
-    
-<p>    Our furniture was very scant—our whole equipage remarkably modest and primitive; and, in short, our arrangements pretty nearly as simple as those of a bivouac. Our new plan was, therefore, executed almost as soon as conceived. The front drawing-room was our sitting-room. I had the bedroom over it, and Tom the back bedroom on the same floor, which nothing could have induced me to occupy.</p>
-    
-<p>    The house, to begin with, was a very old one. It had been, I believe, newly fronted about fifty years before; but with this exception, it had nothing modern about it. The agent who bought it and looked into the titles for my uncle, told me that it was sold, along with much other forfeited property, at Chichester House, I think, in 1702; and had belonged to Sir Thomas Hacket, who was Lord Mayor of Dublin in James II.'s time. How old it was then, I can't say; but, at all events, it had seen years and changes enough to have contracted all that mysterious and saddened air, at once exciting and depressing, which belongs to most old mansions.</p>
-    
-<p>    There had been very little done in the way of modernising details; and, perhaps, it was better so; for there was something queer and by-gone in the very walls and ceilings—in the shape of doors and windows—in the odd diagonal site of the chimney-pieces—in the beams and ponderous cornices—not to mention the singular solidity of all the woodwork, from the banisters to the window-frames, which hopelessly defied disguise, and would have emphatically proclaimed their antiquity through any conceivable amount of modern finery and varnish.</p>
-    
-<p>    An effort had, indeed, been made, to the extent of papering the drawing-rooms; but somehow, the paper looked raw and out of keeping; and the old woman, who kept a little dirt-pie of a shop in the lane, and whose daughter—a girl of two and fifty—was our solitary handmaid, coming in at sunrise, and chastely receding again as soon as she had made all ready for tea in our state apartment;—this woman, I say, remembered it, when old Judge Horrocks (who, having earned the reputation of a particularly hanging judge, ended by hanging himself, as the coroner's jury found, under an impulse of temporary insanity, with a child's skipping-rope, over the massive old bannisters) resided there, entertaining good company, with fine venison and rare old port. In those halcyon days, the drawing-rooms were hung with gilded leather, and, I dare say, cut a good figure, for they were really spacious rooms.</p>
-    
-<p>    The bedrooms were wainscoted, but the front one was not gloomy; and in it the cosiness of antiquity quite overcame its sombre associations. But the back bedroom, with its two queerly-placed melancholy windows, staring vacantly at the foot of the bed, and with the shadowy recess to be found in most old houses in Dublin, like a large ghostly closet, which, from congeniality of temperament, had amalgamated with the bedchamber, and dissolved the partition. At night-time, this alcove—as our maid was wont to call it—had, in my eyes, a specially sinister and suggestive character. Tom's distant and solitary candle glimmered vainly into its darkness. There it was always overlooking him—always itself impenetrable. But this was only part of the effect. The whole room was, I can't tell how, repulsive to me. There was, I suppose, in its proportions and features, a latent discord—a certain mysterious and indescribable relation, which jarred indistinctly upon some secret sense of the fitting and the safe, and raised indefinable suspicions and apprehensions of the imagination. On the whole, as I began by saying, nothing could have induced me to pass a night alone in it.</p>
-    
-<p>    I had never pretended to conceal from poor Tom my superstitious weakness; and he, on the other hand, most unaffectedly ridiculed my tremors. The sceptic was, however, destined to receive a lesson, as you shall hear.</p>
-    
-<p>    We had not been very long in occupation of our respective dormitories, when I began to complain of uneasy nights and disturbed sleep. I was, I suppose, the more impatient under this annoyance, as I was usually a sound sleeper, and by no means prone to nightmares. It was now, however, my destiny, instead of enjoying my customary repose, every night to sup full of horrors. After a preliminary course of disagreeable and frightful dreams, my troubles took a definite form, and the same vision, without an appreciable variation in a single detail, visited me at least (on an average) every second night in the week.</p>
-    
-<p>    Now, this dream, nightmare, or infernal illusion—which you please—of which I was the miserable sport, was on this wise:----</p>
-    
-<p>    I saw, or thought I saw, with the most abominable distinctness, although at the time in profound darkness, every article of furniture and accidental arrangement of the chamber in which I lay. This, as you know, is incidental to ordinary nightmare. Well, while in this clairvoyant condition, which seemed but the lighting up of the theatre in which was to be exhibited the monotonous tableau of horror, which made my nights insupportable, my attention invariably became, I know not why, fixed upon the windows opposite the foot of my bed; and, uniformly with the same effect, a sense of dreadful anticipation always took slow but sure possession of me. I became somehow conscious of a sort of horrid but undefined preparation going forward in some unknown quarter, and by some unknown agency, for my torment; and, after an interval, which always seemed to me of the same length, a picture suddenly flew up to the window, where it remained fixed, as if by an electrical attraction, and my discipline of horror then commenced, to last perhaps for hours. The picture thus mysteriously glued to the window-panes, was the portrait of an old man, in a crimson flowered silk dressing-gown, the folds of which I could now describe, with a countenance embodying a strange mixture of intellect, sensuality, and power, but withal sinister and full of malignant omen. His nose was hooked, like the beak of a vulture; his eyes large, grey, and prominent, and lighted up with a more than mortal cruelty and coldness. These features were surmounted by a crimson velvet cap, the hair that peeped from under which was white with age, while the eyebrows retained their original blackness. Well I remember every line, hue, and shadow of that stony countenance, and well I may! The gaze of this hellish visage was fixed upon me, and mine returned it with the inexplicable fascination of nightmare, for what appeared to me to be hours of agony. At last----
-    The cock he crew, away then flew</p>
-    
-<p>    the fiend who had enslaved me through the awful watches of the night; and, harassed and nervous, I rose to the duties of the day.</p>
-    
-<p>    I had—I can't say exactly why, but it may have been from the exquisite anguish and profound impressions of unearthly horror, with which this strange phantasmagoria was associated—an insurmountable antipathy to describing the exact nature of my nightly troubles to my friend and comrade. Generally, however, I told him that I was haunted by abominable dreams; and, true to the imputed materialism of medicine, we put our heads together to dispel my horrors, not by exorcism, but by a tonic.</p>
-    
-<p>    I will do this tonic justice, and frankly admit that the accursed portrait began to intermit its visits under its influence. What of that? Was this singular apparition—as full of character as of terror—therefore the creature of my fancy, or the invention of my poor stomach? Was it, in short, subjective (to borrow the technical slang of the day) and not the palpable aggression and intrusion of an external agent? That, good friend, as we will both admit, by no means follows. The evil spirit, who enthralled my senses in the shape of that portrait, may have been just as near me, just as energetic, just as malignant, though I saw him not. What means the whole moral code of revealed religion regarding the due keeping of our own bodies, soberness, temperance, etc.? here is an obvious connexion between the material and the invisible; the healthy tone of the system, and its unimpaired energy, may, for aught we can tell, guard us against influences which would otherwise render life itself terrific. The mesmerist and the electro-biologist will fail upon an average with nine patients out of ten—so may the evil spirit. Special conditions of the corporeal system are indispensable to the production of certain spiritual phenomena. The operation succeeds sometimes—sometimes fails—that is all.</p>
-    
-<p>    I found afterwards that my would-be sceptical companion had his troubles too. But of these I knew nothing yet. One night, for a wonder, I was sleeping soundly, when I was roused by a step on the lobby outside my room, followed by the loud clang of what turned out to be a large brass candlestick, flung with all his force by poor <character>Tom Ludlow</character> over the banisters, and rattling with a rebound down the second flight of stairs; and almost concurrently with this, Tom burst open my door, and bounced into my room backwards, in a state of extraordinary agitation.</p>
-    
-<p>    I had jumped out of bed and clutched him by the arm before I had any distinct idea of my own whereabouts. There we were—in our shirts—standing before the open door—staring through the great old banister opposite, at the lobby window, through which the sickly light of a clouded moon was gleaming.</p>
-    
-<p>    What's the matter, Tom? What's the matter with you? What the devil's the matter with you, Tom? I demanded shaking him with nervous impatience.</p>
-    
-<p>    He took a long breath before he answered me, and then it was not very coherently.</p>
-    
-<p>    It's nothing, nothing at all—did I speak?—what did I say?—where's the candle, Richard? It's dark; I—I had a candle!</p>
-    
-<p>    Yes, dark enough, I said; but what's the matter?—what is it?—why don't you speak, Tom?—have you lost your wits?—what is the matter?</p>
-    
-<p>    The matter?—oh, it is all over. It must have been a dream—nothing at all but a dream—don't you think so? It could not be anything more than a dream.</p>
-    
-<p>    Of course said I, feeling uncommonly nervous, it was a dream.</p>
-    
-<p>    I thought, he said, there was a man in my room, and—and I jumped out of bed; and—and—where's the candle?</p>
-    
-<p>    In your room, most likely, I said, shall I go and bring it?</p>
-    
-<p>    No; stay here—don't go; it's no matter—don't, I tell you; it was all a dream. Bolt the door, Dick; I'll stay here with you—I feel nervous. So, Dick, like a good fellow, light your candle and open the window—I am in a shocking state.</p>
-    
-<p>    I did as he asked me, and robing himself like Granuaile in one of my blankets, he seated himself close beside my bed.</p>
-    
-<p>    Every body knows how contagious is fear of all sorts, but more especially that particular kind of fear under which poor Tom was at that moment labouring. I would not have heard, nor I believe would he have recapitulated, just at that moment, for half the world, the details of the hideous vision which had so unmanned him.</p>
-    
-<p>    Don't mind telling me anything about your nonsensical dream, Tom, said I, affecting contempt, really in a panic; let us talk about something else; but it is quite plain that this dirty old house disagrees with us both, and hang me if I stay here any longer, to be pestered with indigestion and—and—bad nights, so we may as well look out for lodgings—don't you think so?—at once.</p>
-    
-<p>    Tom agreed, and, after an interval, said----</p>
-    
-<p>    I have been thinking, Richard, that it is a long time since I saw my father, and I have made up my mind to go down to-morrow and return in a day or two, and you can take rooms for us in the meantime.</p>
-    
-<p>    I fancied that this resolution, obviously the result of the vision which had so profoundly scared him, would probably vanish next morning with the damps and shadows of night. But I was mistaken. Off went Tom at peep of day to the country, having agreed that so soon as I had secured suitable lodgings, I was to recall him by letter from his visit to my <character>Uncle Ludlow</character>.</p>
-    
-<p>    Now, anxious as I was to change my quarters, it so happened, owing to a series of petty procrastinations and accidents, that nearly a week elapsed before my bargain was made and my letter of recall on the wing to Tom; and, in the meantime, a trifling adventure or two had occurred to your humble servant, which, absurd as they now appear, diminished by distance, did certainly at the time serve to whet my appetite for change considerably.</p>
-    
-<p>    A night or two after the departure of my comrade, I was sitting by my bedroom fire, the door locked, and the ingredients of a tumbler of hot whisky-punch upon the crazy spider-table; for, as the best mode of keeping the
-    Black spirits and white,</p>
-    
-<p>    Blue spirits and grey,</p>
-    
-<p>    with which I was environed, at bay, I had adopted the practice recommended by the wisdom of my ancestors, and kept my spirits up by pouring spirits down. I had thrown aside my volume of Anatomy, and was treating myself by way of a tonic, preparatory to my punch and bed, to half-a-dozen pages of the Spectator, when I heard a step on the flight of stairs descending from the attics. It was two o'clock, and the streets were as silent as a churchyard—the sounds were, therefore, perfectly distinct. There was a slow, heavy tread, characterised by the emphasis and deliberation of age, descending by the narrow staircase from above; and, what made the sound more singular, it was plain that the feet which produced it were perfectly bare, measuring the descent with something between a pound and a flop, very ugly to hear.</p>
-    
-<p>    I knew quite well that my attendant had gone away many hours before, and that nobody but myself had any business in the house. It was quite plain also that the person who was coming down stairs had no intention whatever of concealing his movements; but, on the contrary, appeared disposed to make even more noise, and proceed more deliberately, than was at all necessary. When the step reached the foot of the stairs outside my room, it seemed to stop; and I expected every moment to see my door open spontaneously, and give admission to the original of my detested portrait. I was, however, relieved in a few seconds by hearing the descent renewed, just in the same manner, upon the staircase leading down to the drawing-rooms, and thence, after another pause, down the next flight, and so on to the hall, whence I heard no more.</p>
-    
-<p>    Now, by the time the sound had ceased, I was wound up, as they say, to a very unpleasant pitch of excitement. I listened, but there was not a stir. I screwed up my courage to a decisive experiment—opened my door, and in a stentorian voice bawled over the banisters, Who's there? There was no answer but the ringing of my own voice through the empty old house,—no renewal of the movement; nothing, in short, to give my unpleasant sensations a definite direction. There is, I think, something most disagreeably disenchanting in the sound of one's own voice under such circumstances, exerted in solitude, and in vain. It redoubled my sense of isolation, and my misgivings increased on perceiving that the door, which I certainly thought I had left open, was closed behind me; in a vague alarm, lest my retreat should be cut off, I got again into my room as quickly as I could, where I remained in a state of imaginary blockade, and very uncomfortable indeed, till morning.</p>
-    
-<p>    Next night brought no return of my barefooted fellow-lodger; but the night following, being in my bed, and in the dark—somewhere, I suppose, about the same hour as before, I distinctly heard the old fellow again descending from the garrets.</p>
-    
-<p>    This time I had had my punch, and the morale of the garrison was consequently excellent. I jumped out of bed, clutched the poker as I passed the expiring fire, and in a moment was upon the lobby. The sound had ceased by this time—the dark and chill were discouraging; and, guess my horror, when I saw, or thought I saw, a black monster, whether in the shape of a man or a bear I could not say, standing, with its back to the wall, on the lobby, facing me, with a pair of great greenish eyes shining dimly out. Now, I must be frank, and confess that the cupboard which displayed our plates and cups stood just there, though at the moment I did not recollect it. At the same time I must honestly say, that making every allowance for an excited imagination, I never could satisfy myself that I was made the dupe of my own fancy in this matter; for this apparition, after one or two shiftings of shape, as if in the act of incipient transformation, began, as it seemed on second thoughts, to advance upon me in its original form. From an instinct of terror rather than of courage, I hurled the poker, with all my force, at its head; and to the music of a horrid crash made my way into my room, and double-locked the door. Then, in a minute more, I heard the horrid bare feet walk down the stairs, till the sound ceased in the hall, as on the former occasion.</p>
-    
-<p>    If the apparition of the night before was an ocular delusion of my fancy sporting with the dark outlines of our cupboard, and if its horrid eyes were nothing but a pair of inverted teacups, I had, at all events, the satisfaction of having launched the poker with admirable effect, and in true fancy phrase, knocked its two daylights into one, as the commingled fragments of my tea-service testified. I did my best to gather comfort and courage from these evidences; but it would not do. And then what could I say of those horrid bare feet, and the regular tramp, tramp, tramp, which measured the distance of the entire staircase through the solitude of my haunted dwelling, and at an hour when no good influence was stirring? Confound it!--the whole affair was abominable. I was out of spirits, and dreaded the approach of night.</p>
-    
-<p>    It came, ushered ominously in with a thunder-storm and dull torrents of depressing rain. Earlier than usual the streets grew silent; and by twelve o'clock nothing but the comfortless pattering of the rain was to be heard.</p>
-    
-<p>    I made myself as snug as I could. I lighted two candles instead of one. I forswore bed, and held myself in readiness for a sally, candle in hand; for, coûte qui coûte, I was resolved to see the being, if visible at all, who troubled the nightly stillness of my mansion. I was fidgetty and nervous and tried in vain to interest myself with my books. I walked up and down my room, whistling in turn martial and hilarious music, and listening ever and anon for the dreaded noise. I sate down and stared at the square label on the solemn and reserved-looking black bottle, until FLANAGAN and CO'S BEST OLD MALT WHISKY grew into a sort of subdued accompaniment to all the fantastic and horrible speculations which chased one another through my brain.</p>
-    
-<p>    Silence, meanwhile, grew more silent, and darkness darker. I listened in vain for the rumble of a vehicle, or the dull clamour of a distant row. There was nothing but the sound of a rising wind, which had succeeded the thunder-storm that had travelled over the Dublin mountains quite out of hearing. In the middle of this great city I began to feel myself alone with nature, and Heaven knows what beside. My courage was ebbing. Punch, however, which makes beasts of so many, made a man of me again—just in time to hear with tolerable nerve and firmness the lumpy, flabby, naked feet deliberately descending the stairs again.</p>
-    
-<p>    I took a candle, not without a tremour. As I crossed the floor I tried to extemporise a prayer, but stopped short to listen, and never finished it. The steps continued. I confess I hesitated for some seconds at the door before I took heart of grace and opened it. When I peeped out the lobby was perfectly empty—there was no monster standing on the staircase; and as the detested sound ceased, I was reassured enough to venture forward nearly to the banisters. Horror of horrors! within a stair or two beneath the spot where I stood the unearthly tread smote the floor. My eye caught something in motion; it was about the size of Goliah's foot—it was grey, heavy, and flapped with a dead weight from one step to another. As I am alive, it was the most monstrous grey rat I ever beheld or imagined.</p>
-    
-<p>    Shakespeare says—Some men there are cannot abide a gaping pig, and some that are mad if they behold a cat. I went well-nigh out of my wits when I beheld this rat; for, laugh at me as you may, it fixed upon me, I thought, a perfectly human expression of malice; and, as it shuffled about and looked up into my face almost from between my feet, I saw, I could swear it—I felt it then, and know it now, the infernal gaze and the accursed countenance of my old friend in the portrait, transfused into the visage of the bloated vermin before me.</p>
-    
-<p>    I bounced into my room again with a feeling of loathing and horror I cannot describe, and locked and bolted my door as if a lion had been at the other side. D—n him or it; curse the portrait and its original! I felt in my soul that the rat—yes, the rat, the RAT I had just seen, was that evil being in masquerade, and rambling through the house upon some infernal night lark.</p>
-    
-<p>    Next morning I was early trudging through the miry streets; and, among other transactions, posted a peremptory note recalling Tom. On my return, however, I found a note from my absent chum, announcing his intended return next day. I was doubly rejoiced at this, because I had succeeded in getting rooms; and because the change of scene and return of my comrade were rendered specially pleasant by the last night's half ridiculous half horrible adventure.</p>
-    
-<p>    I slept extemporaneously in my new quarters in Digges' Street that night, and next morning returned for breakfast to the haunted mansion, where I was certain Tom would call immediately on his arrival.</p>
-    
-<p>    I was quite right—he came; and almost his first question referred to the primary object of our change of residence.</p>
-    
-<p>    Thank God, he said with genuine fervour, on hearing that all was arranged. On your account I am delighted. As to myself, I assure you that no earthly consideration could have induced me ever again to pass a night in this disastrous old house.</p>
-    
-<p>    Confound the house! I ejaculated, with a genuine mixture of fear and detestation, we have not had a pleasant hour since we came to live here; and so I went on, and related incidentally my adventure with the plethoric old rat.</p>
-    
-<p>    Well, if that were all, said my cousin, affecting to make light of the matter, I don't think I should have minded it very much.</p>
-    
-<p>    Ay, but its eye—its countenance, my dear Tom, urged I; if you had seen that, you would have felt it might be anything but what it seemed.</p>
-    
-<p>    I inclined to think the best conjurer in such a case would be an able-bodied cat, he said, with a provoking chuckle.</p>
-    
-<p>    But let us hear your own adventure, I said tartly.</p>
-    
-<p>    At this challenge he looked uneasily round him. I had poked up a very unpleasant recollection.</p>
-    
-<p>    You shall hear it, Dick; I'll tell it to you, he said. Begad, sir, I should feel quite queer, though, telling it here, though we are too strong a body for ghosts to meddle with just now.</p>
-    
-<p>    Though he spoke this like a joke, I think it was serious calculation. Our Hebe was in a corner of the room, packing our cracked delft tea and dinner-services in a basket. She soon suspended operations, and with mouth and eyes wide open became an absorbed listener. Tom's experiences were told nearly in these words:----</p>
-    
-<p>    I saw it three times, Dick—three distinct times; and I am perfectly certain it meant me some infernal harm. I was, I say, in danger—in extreme danger; for, if nothing else had happened, my reason would most certainly have failed me, unless I had escaped so soon. Thank God. I did escape.</p>
-    
-<p>    The first night of this hateful disturbance, I was lying in the attitude of sleep, in that lumbering old bed. I hate to think of it. I was really wide awake, though I had put out my candle, and was lying as quietly as if I had been asleep; and although accidentally restless, my thoughts were running in a cheerful and agreeable channel.</p>
-    
-<p>    I think it must have been two o'clock at least when I thought I heard a sound in that—that odious dark recess at the far end of the bedroom. It was as if someone was drawing a piece of cord slowly along the floor, lifting it up, and dropping it softly down again in coils. I sate up once or twice in my bed, but could see nothing, so I concluded it must be mice in the wainscot. I felt no emotion graver than curiosity, and after a few minutes ceased to observe it.</p>
-    
-<p>    While lying in this state, strange to say; without at first a suspicion of anything supernatural, on a sudden I saw an old man, rather stout and square, in a sort of roan-red dressing-gown, and with a black cap on his head, moving stiffly and slowly in a diagonal direction, from the recess, across the floor of the bedroom, passing my bed at the foot, and entering the lumber-closet at the left. He had something under his arm; his head hung a little at one side; and, merciful God! when I saw his face.</p>
-    
-<p>    Tom stopped for a while, and then said----</p>
-    
-<p>    That awful countenance, which living or dying I never can forget, disclosed what he was. Without turning to the right or left, he passed beside me, and entered the closet by the bed's head.</p>
-    
-<p>    While this fearful and indescribable type of death and guilt was passing, I felt that I had no more power to speak or stir than if I had been myself a corpse. For hours after it had disappeared, I was too terrified and weak to move. As soon as daylight came, I took courage, and examined the room, and especially the course which the frightful intruder had seemed to take, but there was not a vestige to indicate anybody's having passed there; no sign of any disturbing agency visible among the lumber that strewed the floor of the closet.</p>
-    
-<p>    I now began to recover a little. I was fagged and exhausted, and at last, overpowered by a feverish sleep. I came down late; and finding you out of spirits, on account of your dreams about the portrait, whose original I am now certain disclosed himself to me, I did not care to talk about the infernal vision. In fact, I was trying to persuade myself that the whole thing was an illusion, and I did not like to revive in their intensity the hated impressions of the past night—or to risk the constancy of my scepticism, by recounting the tale of my sufferings.</p>
-    
-<p>    It required some nerve, I can tell you, to go to my haunted chamber next night, and lie down quietly in the same bed, continued Tom. I did so with a degree of trepidation, which, I am not ashamed to say, a very little matter would have sufficed to stimulate to downright panic. This night, however, passed off quietly enough, as also the next; and so too did two or three more. I grew more confident, and began to fancy that I believed in the theories of spectral illusions, with which I had at first vainly tried to impose upon my convictions.</p>
-    
-<p>    The apparition had been, indeed, altogether anomalous. It had crossed the room without any recognition of my presence: I had not disturbed it, and it had no mission to me. What, then, was the imaginable use of its crossing the room in a visible shape at all? Of course it might have been in the closet instead of going there, as easily as it introduced itself into the recess without entering the chamber in a shape discernible by the senses. Besides, how the deuce had I seen it? It was a dark night; I had no candle; there was no fire; and yet I saw it as distinctly, in colouring and outline, as ever I beheld human form! A cataleptic dream would explain it all; and I was determined that a dream it should be.</p>
-    
-<p>    One of the most remarkable phenomena connected with the practice of mendacity is the vast number of deliberate lies we tell ourselves, whom, of all persons, we can least expect to deceive. In all this, I need hardly tell you, Dick, I was simply lying to myself, and did not believe one word of the wretched humbug. Yet I went on, as men will do, like persevering charlatans and impostors, who tire people into credulity by the mere force of reiteration; so I hoped to win myself over at last to a comfortable scepticism about the ghost.</p>
-    
-<p>    He had not appeared a second time—that certainly was a comfort; and what, after all, did I care for him, and his queer old toggery and strange looks? Not a fig! I was nothing the worse for having seen him, and a good story the better. So I tumbled into bed, put out my candle, and, cheered by a loud drunken quarrel in the back lane, went fast asleep.</p>
-    
-<p>    From this deep slumber I awoke with a start. I knew I had had a horrible dream; but what it was I could not remember. My heart was thumping furiously; I felt bewildered and feverish; I sate up in the bed and looked about the room. A broad flood of moonlight came in through the curtainless window; everything was as I had last seen it; and though the domestic squabble in the back lane was, unhappily for me, allayed, I yet could hear a pleasant fellow singing, on his way home, the then popular comic ditty called, 'Murphy Delany.' Taking advantage of this diversion I lay down again, with my face towards the fireplace, and closing my eyes, did my best to think of nothing else but the song, which was every moment growing fainter in the distance:----
-    'Twas Murphy Delany, so funny and frisky,</p>
-    
-<p>    Stept into a shebeen shop to get his skin full;</p>
-    
-<p>    He reeled out again pretty well lined with whiskey,</p>
-    
-<p>    As fresh as a shamrock, as blind as a bull.</p>
-    
-<p>    The singer, whose condition I dare say resembled that of his hero, was soon too far off to regale my ears any more; and as his music died away, I myself sank into a doze, neither sound nor refreshing. Somehow the song had got into my head, and I went meandering on through the adventures of my respectable fellow-countryman, who, on emerging from the 'shebeen shop,' fell into a river, from which he was fished up to be 'sat upon' by a coroner's jury, who having learned from a 'horse-doctor' that he was 'dead as a door-nail, so there was an end,' returned their verdict accordingly, just as he returned to his senses, when an angry altercation and a pitched battle between the body and the coroner winds up the lay with due spirit and pleasantry.</p>
-    
-<p>    Through this ballad I continued with a weary monotony to plod, down to the very last line, and then da capo, and so on, in my uncomfortable half-sleep, for how long, I can't conjecture. I found myself at last, however, muttering, 'dead as a door-nail, so there was an end'; and something like another voice within me, seemed to say, very faintly, but sharply, 'dead! dead! dead! and may the Lord have mercy on your soul!' and instantaneously I was wide awake, and staring right before me from the pillow.</p>
-    
-<p>    Now—will you believe it, Dick?—I saw the same accursed figure standing full front, and gazing at me with its stony and fiendish countenance, not two yards from the bedside.</p>
-    
-<p>    Tom stopped here, and wiped the perspiration from his face. I felt very queer. The girl was as pale as Tom; and, assembled as we were in the very scene of these adventures, we were all, I dare say, equally grateful for the clear daylight and the resuming bustle out of doors.</p>
-    
-<p>    For about three seconds only I saw it plainly; then it grew indistinct; but, for a long time, there was something like a column of dark vapour where it had been standing, between me and the wall; and I felt sure that he was still there. After a good while, this appearance went too. I took my clothes downstairs to the hall, and dressed there, with the door half open; then went out into the street, and walked about the town till morning, when I came back, in a miserable state of nervousness and exhaustion. I was such a fool, Dick, as to be ashamed to tell you how I came to be so upset. I thought you would laugh at me; especially as I had always talked philosophy, and treated your ghosts with contempt. I concluded you would give me no quarter; and so kept my tale of horror to myself.</p>
-    
-<p>    Now, Dick, you will hardly believe me, when I assure you, that for many nights after this last experience, I did not go to my room at all. I used to sit up for a while in the drawing-room after you had gone up to your bed; and then steal down softly to the hall-door, let myself out, and sit in the 'Robin Hood' tavern until the last guest went off; and then I got through the night like a sentry, pacing the streets till morning.</p>
-    
-<p>    For more than a week I never slept in bed. I sometimes had a snooze on a form in the 'Robin Hood,' and sometimes a nap in a chair during the day; but regular sleep I had absolutely none.</p>
-    
-<p>    I was quite resolved that we should get into another house; but I could not bring myself to tell you the reason, and I somehow put it off from day to day, although my life was, during every hour of this procrastination, rendered as miserable as that of a felon with the constables on his track. I was growing absolutely ill from this wretched mode of life.</p>
-    
-<p>    One afternoon I determined to enjoy an hour's sleep upon your bed. I hated mine; so that I had never, except in a stealthy visit every day to unmake it, lest Martha should discover the secret of my nightly absence, entered the ill-omened chamber.</p>
-    
-<p>    As ill-luck would have it, you had locked your bedroom, and taken away the key. I went into my own to unsettle the bedclothes, as usual, and give the bed the appearance of having been slept in. Now, a variety of circumstances concurred to bring about the dreadful scene through which I was that night to pass. In the first place, I was literally overpowered with fatigue, and longing for sleep; in the next place, the effect of this extreme exhaustion upon my nerves resembled that of a narcotic, and rendered me less susceptible than, perhaps, I should in any other condition have been, of the exciting fears which had become habitual to me. Then again, a little bit of the window was open, a pleasant freshness pervaded the room, and, to crown all, the cheerful sun of day was making the room quite pleasant. What was to prevent my enjoying an hour's nap here? The whole air was resonant with the cheerful hum of life, and the broad matter-of-fact light of day filled every corner of the room.</p>
-    
-<p>    I yielded—stifling my qualms—to the almost overpowering temptation; and merely throwing off my coat, and loosening my cravat, I lay down, limiting myself to half-an-hour's doze in the unwonted enjoyment of a feather bed, a coverlet, and a bolster.</p>
-    
-<p>    It was horribly insidious; and the demon, no doubt, marked my infatuated preparations. Dolt that I was, I fancied, with mind and body worn out for want of sleep, and an arrear of a full week's rest to my credit, that such measure as half-an-hour's sleep, in such a situation, was possible. My sleep was death-like, long, and dreamless.</p>
-    
-<p>    Without a start or fearful sensation of any kind, I waked gently, but completely. It was, as you have good reason to remember, long past midnight—I believe, about two o'clock. When sleep has been deep and long enough to satisfy nature thoroughly, one often wakens in this way, suddenly, tranquilly, and completely.</p>
-    
-<p>    There was a figure seated in that lumbering, old sofa-chair, near the fireplace. Its back was rather towards me, but I could not be mistaken; it turned slowly round, and, merciful heavens! there was the stony face, with its infernal lineaments of malignity and despair, gloating on me. There was now no doubt as to its consciousness of my presence, and the hellish malice with which it was animated, for it arose, and drew close to the bedside. There was a rope about its neck, and the other end, coiled up, it held stiffly in its hand.</p>
-    
-<p>    My good angel nerved me for this horrible crisis. I remained for some seconds transfixed by the gaze of this tremendous phantom. He came close to the bed, and appeared on the point of mounting upon it. The next instant I was upon the floor at the far side, and in a moment more was, I don't know how, upon the lobby.</p>
-    
-<p>    But the spell was not yet broken; the valley of the shadow of death was not yet traversed. The abhorred phantom was before me there; it was standing near the banisters, stooping a little, and with one end of the rope round its own neck, was poising a noose at the other, as if to throw over mine; and while engaged in this baleful pantomime, it wore a smile so sensual, so unspeakably dreadful, that my senses were nearly overpowered. I saw and remember nothing more, until I found myself in your room.</p>
-    
-<p>    I had a wonderful escape, Dick—there is no disputing that—an escape for which, while I live, I shall bless the mercy of heaven. No one can conceive or imagine what it is for flesh and blood to stand in the presence of such a thing, but one who has had the terrific experience. Dick, Dick, a shadow has passed over me—a chill has crossed my blood and marrow, and I will never be the same again—never, Dick—never!</p>
-    
-<p>    Our handmaid, a mature girl of two-and-fifty, as I have said, stayed her hand, as Tom's story proceeded, and by little and little drew near to us, with open mouth, and her brows contracted over her little, beady black eyes, till stealing a glance over her shoulder now and then, she established herself close behind us. During the relation, she had made various earnest comments, in an undertone; but these and her ejaculations, for the sake of brevity and simplicity, I have omitted in my narration.</p>
-    
-<p>    It's often I heard tell of it, she now said, but I never believed it rightly till now—though, indeed, why should not I? Does not my mother, down there in the lane, know quare stories, God bless us, beyant telling about it? But you ought not to have slept in the back bedroom. She was loath to let me be going in and out of that room even in the day time, let alone for any Christian to spend the night in it; for sure she says it was his own bedroom.</p>
-    
-<p>    Whose own bedroom? we asked, in a breath.</p>
-    
-<p>    Why, his—the ould Judge's—Judge Horrock's, to be sure, God rest his sowl; and she looked fearfully round.</p>
-    
-<p>    Amen! I muttered. But did he die there?</p>
-    
-<p>    Die there! No, not quite there, she said. Shure, was not it over the banisters he hung himself, the ould sinner, God be merciful to us all? and was not it in the alcove they found the handles of the skipping-rope cut off, and the knife where he was settling the cord, God bless us, to hang himself with? It was his housekeeper's daughter owned the rope, my mother often told me, and the child never throve after, and used to be starting up out of her sleep, and screeching in the night time, wid dhrames and frights that cum an her; and they said how it was the speerit of the ould Judge that was tormentin' her; and she used to be roaring and yelling out to hould back the big ould fellow with the crooked neck; and then she'd screech 'Oh, the master! the master! he's stampin' at me, and beckoning to me! Mother, darling, don't let me go!' And so the poor crathure died at last, and the docthers said it was wather on the brain, for it was all they could say.</p>
-    
-<p>    How long ago was all this? I asked.</p>
-    
-<p>    Oh, then, how would I know? she answered. But it must be a wondherful long time ago, for the housekeeper was an ould woman, with a pipe in her mouth, and not a tooth left, and better nor eighty years ould when my mother was first married; and they said she was a rale buxom, fine-dressed woman when the ould Judge come to his end; an', indeed, my mother's not far from eighty years ould herself this day; and what made it worse for the unnatural ould villain, God rest his soul, to frighten the little girl out of the world the way he did, was what was mostly thought and believed by every one. My mother says how the poor little crathure was his own child; for he was by all accounts an ould villain every way, an' the hangin'est judge that ever was known in Ireland's ground.</p>
-    
-<p>    From what you said about the danger of sleeping in that bedroom, said I, I suppose there were stories about the ghost having appeared there to others.</p>
-    
-<p>    Well, there was things said—quare things, surely, she answered, as it seemed, with some reluctance. And why would not there? Sure was it not up in that same room he slept for more than twenty years? and was it not in the alcove he got the rope ready that done his own business at last, the way he done many a betther man's in his lifetime?—and was not the body lying in the same bed after death, and put in the coffin there, too, and carried out to his grave from it in Pether's churchyard, after the coroner was done? But there was quare stories—my mother has them all—about how one Nicholas Spaight got into trouble on the head of it.</p>
-    
-<p>    And what did they say of this Nicholas Spaight? I asked.</p>
-    
-<p>    Oh, for that matther, it's soon told, she answered.</p>
-    
-<p>    And she certainly did relate a very strange story, which so piqued my curiosity, that I took occasion to visit the ancient lady, her mother, from whom I learned many very curious particulars. Indeed, I am tempted to tell the tale, but my fingers are weary, and I must defer it. But if you wish to hear it another time, I shall do my best.</p>
-    
-<p>    When we had heard the strange tale I have not told you, we put one or two further questions to her about the alleged spectral visitations, to which the house had, ever since the death of the wicked old Judge, been subjected.</p>
-    
-<p>    No one ever had luck in it, she told us. There was always cross accidents, sudden deaths, and short times in it. The first that tuck, it was a family—I forget their name—but at any rate there was two young ladies and their papa. He was about sixty, and a stout healthy gentleman as you'd wish to see at that age. Well, he slept in that unlucky back bedroom; and, God between us an' harm! sure enough he was found dead one morning, half out of the bed, with his head as black as a sloe, and swelled like a puddin', hanging down near the floor. It was a fit, they said. He was as dead as a mackerel, and so he could not say what it was; but the ould people was all sure that it was nothing at all but the ould Judge, God bless us! that frightened him out of his senses and his life together.</p>
-    
-<p>    Some time after there was a rich old maiden lady took the house. I don't know which room she slept in, but she lived alone; and at any rate, one morning, the servants going down early to their work, found her sitting on the passage-stairs, shivering and talkin' to herself, quite mad; and never a word more could any of them or her friends get from her ever afterwards but, 'Don't ask me to go, for I promised to wait for him.' They never made out from her who it was she meant by him, but of course those that knew all about the ould house were at no loss for the meaning of all that happened to her.</p>
-    
-<p>    Then afterwards, when the house was let out in lodgings, there was Micky Byrne that took the same room, with his wife and three little children; and sure I heard Mrs. Byrne myself telling how the children used to be lifted up in the bed at night, she could not see by what mains; and how they were starting and screeching every hour, just all as one as the housekeeper's little girl that died, till at last one night poor Micky had a dhrop in him, the way he used now and again; and what do you think in the middle of the night he thought he heard a noise on the stairs, and being in liquor, nothing less id do him but out he must go himself to see what was wrong. Well, after that, all she ever heard of him was himself sayin', 'Oh, God!' and a tumble that shook the very house; and there, sure enough, he was lying on the lower stairs, under the lobby, with his neck smashed double undher him, where he was flung over the banisters.</p>
-    
-<p>    Then the handmaiden added----</p>
-    
-<p>    I'll go down to the lane, and send up Joe Gavvey to pack up the rest of the taythings, and bring all the things across to your new lodgings.</p>
-    
-<p>    And so we all sallied out together, each of us breathing more freely, I have no doubt, as we crossed that ill-omened threshold for the last time.</p>
-    
-<p>    Now, I may add thus much, in compliance with the immemorial usage of the realm of fiction, which sees the hero not only through his adventures, but fairly out of the world. You must have perceived that what the flesh, blood, and bone hero of romance proper is to the regular compounder of fiction, this old house of brick, wood, and mortar is to the humble recorder of this true tale. I, therefore, relate, as in duty bound, the catastrophe which ultimately befell it, which was simply this—that about two years subsequently to my story it was taken by a quack doctor, who called himself Baron Duhlstoerf, and filled the parlour windows with bottles of indescribable horrors preserved in brandy, and the newspapers with the usual grandiloquent and mendacious advertisements. This gentleman among his virtues did not reckon sobriety, and one night, being overcome with much wine, he set fire to his bed curtains, partially burned himself, and totally consumed the house. It was afterwards rebuilt, and for a time an undertaker established himself in the premises.</p>
-    
-<p>    I have now told you my own and Tom's adventures, together with some valuable collateral particulars; and having acquitted myself of my engagement, I wish you a very good night, and pleasant dreams.
-</p>
+
+    <title>An Account of Some Strange Disturbances in Aungier Street</title>
+
+    <p> It is not worth telling, this story of mine—at least, not worth writing. Told, indeed, as I
+        have sometimes been called upon to tell it, to a circle of intelligent and eager faces,
+        lighted up by a good after-dinner fire on a winter's evening, with a cold wind rising and
+        wailing outside, and all snug and cosy within, it has gone off—though I say it, who should
+        not—indifferent well. But it is a venture to do as you would have me. Pen, ink, and paper
+        are cold vehicles for the marvellous, and a reader decidedly a more critical animal than a
+        listener. If, however, you can induce your friends to read it after nightfall, and when the
+        fireside talk has run for a while on thrilling tales of shapeless terror; in short, if you
+        will secure me the mollia tempora fandi, I will go to my work, and say my say, with better
+        heart. Well, then, these conditions presupposed, I shall waste no more words, but tell you
+        simply how it all happened.</p>
+
+    <p> My cousin (<character>Tom Ludlow</character>) and I studied medicine together. I think he
+        would have succeeded, had he stuck to the profession; but he preferred the Church, poor
+        fellow, and died early, a sacrifice to contagion, contracted in the noble discharge of his
+        duties. For my present purpose, I say enough of his character when I mention that he was of
+        a sedate but frank and cheerful nature; very exact in his observance of truth, and not by
+        any means like myself—of an excitable or nervous temperament.</p>
+
+    <p> My <character>Uncle Ludlow</character>—Tom's father—while we were attending lectures,
+        purchased three or four old houses in <place>Aungier Street</place>, one of which was
+        unoccupied. He resided in the country, and Tom proposed that we should take up our abode in
+        the untenanted house, so long as it should continue unlet; a move which would accomplish the
+        double end of settling us nearer alike to our lecture-rooms and to our amusements, and of
+        relieving us from the weekly charge of rent for our lodgings.</p>
+
+    <p> Our furniture was very scant—our whole equipage remarkably modest and primitive; and, in
+        short, our arrangements pretty nearly as simple as those of a bivouac. Our new plan was,
+        therefore, executed almost as soon as conceived. The front drawing-room was our
+        sitting-room. I had the bedroom over it, and Tom the back bedroom on the same floor, which
+        nothing could have induced me to occupy.</p>
+
+    <p> The house, to begin with, was a very old one. It had been, I believe, newly fronted about
+        fifty years before; but with this exception, it had nothing modern about it. The agent who
+        bought it and looked into the titles for my uncle, told me that it was sold, along with much
+        other forfeited property, at Chichester House, I think, in 1702; and had belonged to Sir
+        Thomas Hacket, who was Lord Mayor of Dublin in James II.'s time. How old it was then, I
+        can't say; but, at all events, it had seen years and changes enough to have contracted all
+        that mysterious and saddened air, at once exciting and depressing, which belongs to most old
+        mansions.</p>
+
+    <p> There had been very little done in the way of modernising details; and, perhaps, it was
+        better so; for there was something queer and by-gone in the very walls and ceilings—in the
+        shape of doors and windows—in the odd diagonal site of the chimney-pieces—in the beams and
+        ponderous cornices—not to mention the singular solidity of all the woodwork, from the
+        banisters to the window-frames, which hopelessly defied disguise, and would have
+        emphatically proclaimed their antiquity through any conceivable amount of modern finery and
+        varnish.</p>
+
+    <p> An effort had, indeed, been made, to the extent of papering the drawing-rooms; but somehow,
+        the paper looked raw and out of keeping; and the old woman, who kept a little dirt-pie of a
+        shop in the lane, and whose daughter—a girl of two and fifty—was our solitary handmaid,
+        coming in at sunrise, and chastely receding again as soon as she had made all ready for tea
+        in our state apartment;—this woman, I say, remembered it, when old Judge Horrocks (who,
+        having earned the reputation of a particularly hanging judge, ended by hanging himself, as
+        the coroner's jury found, under an impulse of temporary insanity, with a child's
+        skipping-rope, over the massive old bannisters) resided there, entertaining good company,
+        with fine venison and rare old port. In those halcyon days, the drawing-rooms were hung with
+        gilded leather, and, I dare say, cut a good figure, for they were really spacious rooms.</p>
+
+    <p> The bedrooms were wainscoted, but the front one was not gloomy; and in it the cosiness of
+        antiquity quite overcame its sombre associations. But the back bedroom, with its two
+        queerly-placed melancholy windows, staring vacantly at the foot of the bed, and with the
+        shadowy recess to be found in most old houses in Dublin, like a large ghostly closet, which,
+        from congeniality of temperament, had amalgamated with the bedchamber, and dissolved the
+        partition. At night-time, this alcove—as our maid was wont to call it—had, in my eyes, a
+        specially sinister and suggestive character. Tom's distant and solitary candle glimmered
+        vainly into its darkness. There it was always overlooking him—always itself impenetrable.
+        But this was only part of the effect. The whole room was, I can't tell how, repulsive to me.
+        There was, I suppose, in its proportions and features, a latent discord—a certain mysterious
+        and indescribable relation, which jarred indistinctly upon some secret sense of the fitting
+        and the safe, and raised indefinable suspicions and apprehensions of the imagination. On the
+        whole, as I began by saying, nothing could have induced me to pass a night alone in it.</p>
+
+    <p> I had never pretended to conceal from poor Tom my superstitious weakness; and he, on the
+        other hand, most unaffectedly ridiculed my tremors. The sceptic was, however, destined to
+        receive a lesson, as you shall hear.</p>
+
+    <p> We had not been very long in occupation of our respective dormitories, when I began to
+        complain of uneasy nights and disturbed sleep. I was, I suppose, the more impatient under
+        this annoyance, as I was usually a sound sleeper, and by no means prone to nightmares. It
+        was now, however, my destiny, instead of enjoying my customary repose, every night to sup
+        full of horrors. After a preliminary course of disagreeable and frightful dreams, my
+        troubles took a definite form, and the same vision, without an appreciable variation in a
+        single detail, visited me at least (on an average) every second night in the week.</p>
+
+    <p> Now, this dream, nightmare, or infernal illusion—which you please—of which I was the
+        miserable sport, was on this wise:----</p>
+
+    <p> I saw, or thought I saw, with the most abominable distinctness, although at the time in
+        profound darkness, every article of furniture and accidental arrangement of the chamber in
+        which I lay. This, as you know, is incidental to ordinary nightmare. Well, while in this
+        clairvoyant condition, which seemed but the lighting up of the theatre in which was to be
+        exhibited the monotonous tableau of horror, which made my nights insupportable, my attention
+        invariably became, I know not why, fixed upon the windows opposite the foot of my bed; and,
+        uniformly with the same effect, a sense of dreadful anticipation always took slow but sure
+        possession of me. I became somehow conscious of a sort of horrid but undefined preparation
+        going forward in some unknown quarter, and by some unknown agency, for my torment; and,
+        after an interval, which always seemed to me of the same length, a picture suddenly flew up
+        to the window, where it remained fixed, as if by an electrical attraction, and my discipline
+        of horror then commenced, to last perhaps for hours. The picture thus mysteriously glued to
+        the window-panes, was the portrait of an old man, in a crimson flowered silk dressing-gown,
+        the folds of which I could now describe, with a countenance embodying a strange mixture of
+        intellect, sensuality, and power, but withal sinister and full of malignant omen. His nose
+        was hooked, like the beak of a vulture; his eyes large, grey, and prominent, and lighted up
+        with a more than mortal cruelty and coldness. These features were surmounted by a crimson
+        velvet cap, the hair that peeped from under which was white with age, while the eyebrows
+        retained their original blackness. Well I remember every line, hue, and shadow of that stony
+        countenance, and well I may! The gaze of this hellish visage was fixed upon me, and mine
+        returned it with the inexplicable fascination of nightmare, for what appeared to me to be
+        hours of agony. At last---- The cock he crew, away then flew</p>
+
+    <p> the fiend who had enslaved me through the awful watches of the night; and, harassed and
+        nervous, I rose to the duties of the day.</p>
+
+    <p> I had—I can't say exactly why, but it may have been from the exquisite anguish and profound
+        impressions of unearthly horror, with which this strange phantasmagoria was associated—an
+        insurmountable antipathy to describing the exact nature of my nightly troubles to my friend
+        and comrade. Generally, however, I told him that I was haunted by abominable dreams; and,
+        true to the imputed materialism of medicine, we put our heads together to dispel my horrors,
+        not by exorcism, but by a tonic.</p>
+
+    <p> I will do this tonic justice, and frankly admit that the accursed portrait began to intermit
+        its visits under its influence. What of that? Was this singular apparition—as full of
+        character as of terror—therefore the creature of my fancy, or the invention of my poor
+        stomach? Was it, in short, subjective (to borrow the technical slang of the day) and not the
+        palpable aggression and intrusion of an external agent? That, good friend, as we will both
+        admit, by no means follows. The evil spirit, who enthralled my senses in the shape of that
+        portrait, may have been just as near me, just as energetic, just as malignant, though I saw
+        him not. What means the whole moral code of revealed religion regarding the due keeping of
+        our own bodies, soberness, temperance, etc.? here is an obvious connexion between the
+        material and the invisible; the healthy tone of the system, and its unimpaired energy, may,
+        for aught we can tell, guard us against influences which would otherwise render life itself
+        terrific. The mesmerist and the electro-biologist will fail upon an average with nine
+        patients out of ten—so may the evil spirit. Special conditions of the corporeal system are
+        indispensable to the production of certain spiritual phenomena. The operation succeeds
+        sometimes—sometimes fails—that is all.</p>
+
+    <p> I found afterwards that my would-be sceptical companion had his troubles too. But of these I
+        knew nothing yet. One night, for a wonder, I was sleeping soundly, when I was roused by a
+        step on the lobby outside my room, followed by the loud clang of what turned out to be a
+        large brass candlestick, flung with all his force by poor <character>Tom Ludlow</character>
+        over the banisters, and rattling with a rebound down the second flight of stairs; and almost
+        concurrently with this, Tom burst open my door, and bounced into my room backwards, in a
+        state of extraordinary agitation.</p>
+
+    <p> I had jumped out of bed and clutched him by the arm before I had any distinct idea of my own
+        whereabouts. There we were—in our shirts—standing before the open door—staring through the
+        great old banister opposite, at the lobby window, through which the sickly light of a
+        clouded moon was gleaming.</p>
+
+    <p> What's the matter, Tom? What's the matter with you? What the devil's the matter with you,
+        Tom? I demanded shaking him with nervous impatience.</p>
+
+    <p> He took a long breath before he answered me, and then it was not very coherently.</p>
+
+    <p> It's nothing, nothing at all—did I speak?—what did I say?—where's the candle, Richard? It's
+        dark; I—I had a candle!</p>
+
+    <p> Yes, dark enough, I said; but what's the matter?—what is it?—why don't you speak, Tom?—have
+        you lost your wits?—what is the matter?</p>
+
+    <p> The matter?—oh, it is all over. It must have been a dream—nothing at all but a dream—don't
+        you think so? It could not be anything more than a dream.</p>
+
+    <p> Of course said I, feeling uncommonly nervous, it was a dream.</p>
+
+    <p> I thought, he said, there was a man in my room, and—and I jumped out of bed; and—and—where's
+        the candle?</p>
+
+    <p> In your room, most likely, I said, shall I go and bring it?</p>
+
+    <p> No; stay here—don't go; it's no matter—don't, I tell you; it was all a dream. Bolt the door,
+        Dick; I'll stay here with you—I feel nervous. So, Dick, like a good fellow, light your
+        candle and open the window—I am in a shocking state.</p>
+
+    <p> I did as he asked me, and robing himself like Granuaile in one of my blankets, he seated
+        himself close beside my bed.</p>
+
+    <p> Every body knows how contagious is fear of all sorts, but more especially that particular
+        kind of fear under which poor Tom was at that moment labouring. I would not have heard, nor
+        I believe would he have recapitulated, just at that moment, for half the world, the details
+        of the hideous vision which had so unmanned him.</p>
+
+    <p> Don't mind telling me anything about your nonsensical dream, Tom, said I, affecting
+        contempt, really in a panic; let us talk about something else; but it is quite plain that
+        this dirty old house disagrees with us both, and hang me if I stay here any longer, to be
+        pestered with indigestion and—and—bad nights, so we may as well look out for lodgings—don't
+        you think so?—at once.</p>
+
+    <p> Tom agreed, and, after an interval, said----</p>
+
+    <p> I have been thinking, Richard, that it is a long time since I saw my father, and I have made
+        up my mind to go down to-morrow and return in a day or two, and you can take rooms for us in
+        the meantime.</p>
+
+    <p> I fancied that this resolution, obviously the result of the vision which had so profoundly
+        scared him, would probably vanish next morning with the damps and shadows of night. But I
+        was mistaken. Off went Tom at peep of day to the country, having agreed that so soon as I
+        had secured suitable lodgings, I was to recall him by letter from his visit to my
+            <character>Uncle Ludlow</character>.</p>
+
+    <p> Now, anxious as I was to change my quarters, it so happened, owing to a series of petty
+        procrastinations and accidents, that nearly a week elapsed before my bargain was made and my
+        letter of recall on the wing to Tom; and, in the meantime, a trifling adventure or two had
+        occurred to your humble servant, which, absurd as they now appear, diminished by distance,
+        did certainly at the time serve to whet my appetite for change considerably.</p>
+
+    <p> A night or two after the departure of my comrade, I was sitting by my bedroom fire, the door
+        locked, and the ingredients of a tumbler of hot whisky-punch upon the crazy spider-table;
+        for, as the best mode of keeping the Black spirits and white,</p>
+
+    <p> Blue spirits and grey,</p>
+
+    <p> with which I was environed, at bay, I had adopted the practice recommended by the wisdom of
+        my ancestors, and kept my spirits up by pouring spirits down. I had thrown aside my volume
+        of Anatomy, and was treating myself by way of a tonic, preparatory to my punch and bed, to
+        half-a-dozen pages of the Spectator, when I heard a step on the flight of stairs descending
+        from the attics. It was two o'clock, and the streets were as silent as a churchyard—the
+        sounds were, therefore, perfectly distinct. There was a slow, heavy tread, characterised by
+        the emphasis and deliberation of age, descending by the narrow staircase from above; and,
+        what made the sound more singular, it was plain that the feet which produced it were
+        perfectly bare, measuring the descent with something between a pound and a flop, very ugly
+        to hear.</p>
+
+    <p> I knew quite well that my attendant had gone away many hours before, and that nobody but
+        myself had any business in the house. It was quite plain also that the person who was coming
+        down stairs had no intention whatever of concealing his movements; but, on the contrary,
+        appeared disposed to make even more noise, and proceed more deliberately, than was at all
+        necessary. When the step reached the foot of the stairs outside my room, it seemed to stop;
+        and I expected every moment to see my door open spontaneously, and give admission to the
+        original of my detested portrait. I was, however, relieved in a few seconds by hearing the
+        descent renewed, just in the same manner, upon the staircase leading down to the
+        drawing-rooms, and thence, after another pause, down the next flight, and so on to the hall,
+        whence I heard no more.</p>
+
+    <p> Now, by the time the sound had ceased, I was wound up, as they say, to a very unpleasant
+        pitch of excitement. I listened, but there was not a stir. I screwed up my courage to a
+        decisive experiment—opened my door, and in a stentorian voice bawled over the banisters,
+        Who's there? There was no answer but the ringing of my own voice through the empty old
+        house,—no renewal of the movement; nothing, in short, to give my unpleasant sensations a
+        definite direction. There is, I think, something most disagreeably disenchanting in the
+        sound of one's own voice under such circumstances, exerted in solitude, and in vain. It
+        redoubled my sense of isolation, and my misgivings increased on perceiving that the door,
+        which I certainly thought I had left open, was closed behind me; in a vague alarm, lest my
+        retreat should be cut off, I got again into my room as quickly as I could, where I remained
+        in a state of imaginary blockade, and very uncomfortable indeed, till morning.</p>
+
+    <p> Next night brought no return of my barefooted fellow-lodger; but the night following, being
+        in my bed, and in the dark—somewhere, I suppose, about the same hour as before, I distinctly
+        heard the old fellow again descending from the garrets.</p>
+
+    <p> This time I had had my punch, and the morale of the garrison was consequently excellent. I
+        jumped out of bed, clutched the poker as I passed the expiring fire, and in a moment was
+        upon the lobby. The sound had ceased by this time—the dark and chill were discouraging; and,
+        guess my horror, when I saw, or thought I saw, a black monster, whether in the shape of a
+        man or a bear I could not say, standing, with its back to the wall, on the lobby, facing me,
+        with a pair of great greenish eyes shining dimly out. Now, I must be frank, and confess that
+        the cupboard which displayed our plates and cups stood just there, though at the moment I
+        did not recollect it. At the same time I must honestly say, that making every allowance for
+        an excited imagination, I never could satisfy myself that I was made the dupe of my own
+        fancy in this matter; for this apparition, after one or two shiftings of shape, as if in the
+        act of incipient transformation, began, as it seemed on second thoughts, to advance upon me
+        in its original form. From an instinct of terror rather than of courage, I hurled the poker,
+        with all my force, at its head; and to the music of a horrid crash made my way into my room,
+        and double-locked the door. Then, in a minute more, I heard the horrid bare feet walk down
+        the stairs, till the sound ceased in the hall, as on the former occasion.</p>
+
+    <p> If the apparition of the night before was an ocular delusion of my fancy sporting with the
+        dark outlines of our cupboard, and if its horrid eyes were nothing but a pair of inverted
+        teacups, I had, at all events, the satisfaction of having launched the poker with admirable
+        effect, and in true fancy phrase, knocked its two daylights into one, as the commingled
+        fragments of my tea-service testified. I did my best to gather comfort and courage from
+        these evidences; but it would not do. And then what could I say of those horrid bare feet,
+        and the regular tramp, tramp, tramp, which measured the distance of the entire staircase
+        through the solitude of my haunted dwelling, and at an hour when no good influence was
+        stirring? Confound it!--the whole affair was abominable. I was out of spirits, and dreaded
+        the approach of night.</p>
+
+    <p> It came, ushered ominously in with a thunder-storm and dull torrents of depressing rain.
+        Earlier than usual the streets grew silent; and by twelve o'clock nothing but the
+        comfortless pattering of the rain was to be heard.</p>
+
+    <p> I made myself as snug as I could. I lighted two candles instead of one. I forswore bed, and
+        held myself in readiness for a sally, candle in hand; for, coûte qui coûte, I was resolved
+        to see the being, if visible at all, who troubled the nightly stillness of my mansion. I was
+        fidgetty and nervous and tried in vain to interest myself with my books. I walked up and
+        down my room, whistling in turn martial and hilarious music, and listening ever and anon for
+        the dreaded noise. I sate down and stared at the square label on the solemn and
+        reserved-looking black bottle, until FLANAGAN and CO'S BEST OLD MALT WHISKY grew into a sort
+        of subdued accompaniment to all the fantastic and horrible speculations which chased one
+        another through my brain.</p>
+
+    <p> Silence, meanwhile, grew more silent, and darkness darker. I listened in vain for the rumble
+        of a vehicle, or the dull clamour of a distant row. There was nothing but the sound of a
+        rising wind, which had succeeded the thunder-storm that had travelled over the Dublin
+        mountains quite out of hearing. In the middle of this great city I began to feel myself
+        alone with nature, and Heaven knows what beside. My courage was ebbing. Punch, however,
+        which makes beasts of so many, made a man of me again—just in time to hear with tolerable
+        nerve and firmness the lumpy, flabby, naked feet deliberately descending the stairs
+        again.</p>
+
+    <p> I took a candle, not without a tremour. As I crossed the floor I tried to extemporise a
+        prayer, but stopped short to listen, and never finished it. The steps continued. I confess I
+        hesitated for some seconds at the door before I took heart of grace and opened it. When I
+        peeped out the lobby was perfectly empty—there was no monster standing on the staircase; and
+        as the detested sound ceased, I was reassured enough to venture forward nearly to the
+        banisters. Horror of horrors! within a stair or two beneath the spot where I stood the
+        unearthly tread smote the floor. My eye caught something in motion; it was about the size of
+        Goliah's foot—it was grey, heavy, and flapped with a dead weight from one step to another.
+        As I am alive, it was the most monstrous grey rat I ever beheld or imagined.</p>
+
+    <p> Shakespeare says—Some men there are cannot abide a gaping pig, and some that are mad if they
+        behold a cat. I went well-nigh out of my wits when I beheld this rat; for, laugh at me as
+        you may, it fixed upon me, I thought, a perfectly human expression of malice; and, as it
+        shuffled about and looked up into my face almost from between my feet, I saw, I could swear
+        it—I felt it then, and know it now, the infernal gaze and the accursed countenance of my old
+        friend in the portrait, transfused into the visage of the bloated vermin before me.</p>
+
+    <p> I bounced into my room again with a feeling of loathing and horror I cannot describe, and
+        locked and bolted my door as if a lion had been at the other side. D—n him or it; curse the
+        portrait and its original! I felt in my soul that the rat—yes, the rat, the RAT I had just
+        seen, was that evil being in masquerade, and rambling through the house upon some infernal
+        night lark.</p>
+
+    <p> Next morning I was early trudging through the miry streets; and, among other transactions,
+        posted a peremptory note recalling Tom. On my return, however, I found a note from my absent
+        chum, announcing his intended return next day. I was doubly rejoiced at this, because I had
+        succeeded in getting rooms; and because the change of scene and return of my comrade were
+        rendered specially pleasant by the last night's half ridiculous half horrible adventure.</p>
+
+    <p> I slept extemporaneously in my new quarters in Digges' Street that night, and next morning
+        returned for breakfast to the haunted mansion, where I was certain Tom would call
+        immediately on his arrival.</p>
+
+    <p> I was quite right—he came; and almost his first question referred to the primary object of
+        our change of residence.</p>
+
+    <p> Thank God, he said with genuine fervour, on hearing that all was arranged. On your account I
+        am delighted. As to myself, I assure you that no earthly consideration could have induced me
+        ever again to pass a night in this disastrous old house.</p>
+
+    <p> Confound the house! I ejaculated, with a genuine mixture of fear and detestation, we have
+        not had a pleasant hour since we came to live here; and so I went on, and related
+        incidentally my adventure with the plethoric old rat.</p>
+
+    <p> Well, if that were all, said my cousin, affecting to make light of the matter, I don't think
+        I should have minded it very much.</p>
+
+    <p> Ay, but its eye—its countenance, my dear Tom, urged I; if you had seen that, you would have
+        felt it might be anything but what it seemed.</p>
+
+    <p> I inclined to think the best conjurer in such a case would be an able-bodied cat, he said,
+        with a provoking chuckle.</p>
+
+    <p> But let us hear your own adventure, I said tartly.</p>
+
+    <p> At this challenge he looked uneasily round him. I had poked up a very unpleasant
+        recollection.</p>
+
+    <p> You shall hear it, Dick; I'll tell it to you, he said. Begad, sir, I should feel quite
+        queer, though, telling it here, though we are too strong a body for ghosts to meddle with
+        just now.</p>
+
+    <p> Though he spoke this like a joke, I think it was serious calculation. Our Hebe was in a
+        corner of the room, packing our cracked delft tea and dinner-services in a basket. She soon
+        suspended operations, and with mouth and eyes wide open became an absorbed listener. Tom's
+        experiences were told nearly in these words:----</p>
+
+    <p> I saw it three times, Dick—three distinct times; and I am perfectly certain it meant me some
+        infernal harm. I was, I say, in danger—in extreme danger; for, if nothing else had happened,
+        my reason would most certainly have failed me, unless I had escaped so soon. Thank God. I
+        did escape.</p>
+
+    <p> The first night of this hateful disturbance, I was lying in the attitude of sleep, in that
+        lumbering old bed. I hate to think of it. I was really wide awake, though I had put out my
+        candle, and was lying as quietly as if I had been asleep; and although accidentally
+        restless, my thoughts were running in a cheerful and agreeable channel.</p>
+
+    <p> I think it must have been two o'clock at least when I thought I heard a sound in that—that
+        odious dark recess at the far end of the bedroom. It was as if someone was drawing a piece
+        of cord slowly along the floor, lifting it up, and dropping it softly down again in coils. I
+        sate up once or twice in my bed, but could see nothing, so I concluded it must be mice in
+        the wainscot. I felt no emotion graver than curiosity, and after a few minutes ceased to
+        observe it.</p>
+
+    <p> While lying in this state, strange to say; without at first a suspicion of anything
+        supernatural, on a sudden I saw an old man, rather stout and square, in a sort of roan-red
+        dressing-gown, and with a black cap on his head, moving stiffly and slowly in a diagonal
+        direction, from the recess, across the floor of the bedroom, passing my bed at the foot, and
+        entering the lumber-closet at the left. He had something under his arm; his head hung a
+        little at one side; and, merciful God! when I saw his face.</p>
+
+    <p> Tom stopped for a while, and then said----</p>
+
+    <p> That awful countenance, which living or dying I never can forget, disclosed what he was.
+        Without turning to the right or left, he passed beside me, and entered the closet by the
+        bed's head.</p>
+
+    <p> While this fearful and indescribable type of death and guilt was passing, I felt that I had
+        no more power to speak or stir than if I had been myself a corpse. For hours after it had
+        disappeared, I was too terrified and weak to move. As soon as daylight came, I took courage,
+        and examined the room, and especially the course which the frightful intruder had seemed to
+        take, but there was not a vestige to indicate anybody's having passed there; no sign of any
+        disturbing agency visible among the lumber that strewed the floor of the closet.</p>
+
+    <p> I now began to recover a little. I was fagged and exhausted, and at last, overpowered by a
+        feverish sleep. I came down late; and finding you out of spirits, on account of your dreams
+        about the portrait, whose original I am now certain disclosed himself to me, I did not care
+        to talk about the infernal vision. In fact, I was trying to persuade myself that the whole
+        thing was an illusion, and I did not like to revive in their intensity the hated impressions
+        of the past night—or to risk the constancy of my scepticism, by recounting the tale of my
+        sufferings.</p>
+
+    <p> It required some nerve, I can tell you, to go to my haunted chamber next night, and lie down
+        quietly in the same bed, continued Tom. I did so with a degree of trepidation, which, I am
+        not ashamed to say, a very little matter would have sufficed to stimulate to downright
+        panic. This night, however, passed off quietly enough, as also the next; and so too did two
+        or three more. I grew more confident, and began to fancy that I believed in the theories of
+        spectral illusions, with which I had at first vainly tried to impose upon my
+        convictions.</p>
+
+    <p> The apparition had been, indeed, altogether anomalous. It had crossed the room without any
+        recognition of my presence: I had not disturbed it, and it had no mission to me. What, then,
+        was the imaginable use of its crossing the room in a visible shape at all? Of course it
+        might have been in the closet instead of going there, as easily as it introduced itself into
+        the recess without entering the chamber in a shape discernible by the senses. Besides, how
+        the deuce had I seen it? It was a dark night; I had no candle; there was no fire; and yet I
+        saw it as distinctly, in colouring and outline, as ever I beheld human form! A cataleptic
+        dream would explain it all; and I was determined that a dream it should be.</p>
+
+    <p> One of the most remarkable phenomena connected with the practice of mendacity is the vast
+        number of deliberate lies we tell ourselves, whom, of all persons, we can least expect to
+        deceive. In all this, I need hardly tell you, Dick, I was simply lying to myself, and did
+        not believe one word of the wretched humbug. Yet I went on, as men will do, like persevering
+        charlatans and impostors, who tire people into credulity by the mere force of reiteration;
+        so I hoped to win myself over at last to a comfortable scepticism about the ghost.</p>
+
+    <p> He had not appeared a second time—that certainly was a comfort; and what, after all, did I
+        care for him, and his queer old toggery and strange looks? Not a fig! I was nothing the
+        worse for having seen him, and a good story the better. So I tumbled into bed, put out my
+        candle, and, cheered by a loud drunken quarrel in the back lane, went fast asleep.</p>
+
+    <p> From this deep slumber I awoke with a start. I knew I had had a horrible dream; but what it
+        was I could not remember. My heart was thumping furiously; I felt bewildered and feverish; I
+        sate up in the bed and looked about the room. A broad flood of moonlight came in through the
+        curtainless window; everything was as I had last seen it; and though the domestic squabble
+        in the back lane was, unhappily for me, allayed, I yet could hear a pleasant fellow singing,
+        on his way home, the then popular comic ditty called, 'Murphy Delany.' Taking advantage of
+        this diversion I lay down again, with my face towards the fireplace, and closing my eyes,
+        did my best to think of nothing else but the song, which was every moment growing fainter in
+        the distance:---- 'Twas Murphy Delany, so funny and frisky,</p>
+
+    <p> Stept into a shebeen shop to get his skin full;</p>
+
+    <p> He reeled out again pretty well lined with whiskey,</p>
+
+    <p> As fresh as a shamrock, as blind as a bull.</p>
+
+    <p> The singer, whose condition I dare say resembled that of his hero, was soon too far off to
+        regale my ears any more; and as his music died away, I myself sank into a doze, neither
+        sound nor refreshing. Somehow the song had got into my head, and I went meandering on
+        through the adventures of my respectable fellow-countryman, who, on emerging from the
+        'shebeen shop,' fell into a river, from which he was fished up to be 'sat upon' by a
+        coroner's jury, who having learned from a 'horse-doctor' that he was 'dead as a door-nail,
+        so there was an end,' returned their verdict accordingly, just as he returned to his senses,
+        when an angry altercation and a pitched battle between the body and the coroner winds up the
+        lay with due spirit and pleasantry.</p>
+
+    <p> Through this ballad I continued with a weary monotony to plod, down to the very last line,
+        and then da capo, and so on, in my uncomfortable half-sleep, for how long, I can't
+        conjecture. I found myself at last, however, muttering, 'dead as a door-nail, so there was
+        an end'; and something like another voice within me, seemed to say, very faintly, but
+        sharply, 'dead! dead! dead! and may the Lord have mercy on your soul!' and instantaneously I
+        was wide awake, and staring right before me from the pillow.</p>
+
+    <p> Now—will you believe it, Dick?—I saw the same accursed figure standing full front, and
+        gazing at me with its stony and fiendish countenance, not two yards from the bedside.</p>
+
+    <p> Tom stopped here, and wiped the perspiration from his face. I felt very queer. The girl was
+        as pale as Tom; and, assembled as we were in the very scene of these adventures, we were
+        all, I dare say, equally grateful for the clear daylight and the resuming bustle out of
+        doors.</p>
+
+    <p> For about three seconds only I saw it plainly; then it grew indistinct; but, for a long
+        time, there was something like a column of dark vapour where it had been standing, between
+        me and the wall; and I felt sure that he was still there. After a good while, this
+        appearance went too. I took my clothes downstairs to the hall, and dressed there, with the
+        door half open; then went out into the street, and walked about the town till morning, when
+        I came back, in a miserable state of nervousness and exhaustion. I was such a fool, Dick, as
+        to be ashamed to tell you how I came to be so upset. I thought you would laugh at me;
+        especially as I had always talked philosophy, and treated your ghosts with contempt. I
+        concluded you would give me no quarter; and so kept my tale of horror to myself.</p>
+
+    <p> Now, Dick, you will hardly believe me, when I assure you, that for many nights after this
+        last experience, I did not go to my room at all. I used to sit up for a while in the
+        drawing-room after you had gone up to your bed; and then steal down softly to the hall-door,
+        let myself out, and sit in the 'Robin Hood' tavern until the last guest went off; and then I
+        got through the night like a sentry, pacing the streets till morning.</p>
+
+    <p> For more than a week I never slept in bed. I sometimes had a snooze on a form in the 'Robin
+        Hood,' and sometimes a nap in a chair during the day; but regular sleep I had absolutely
+        none.</p>
+
+    <p> I was quite resolved that we should get into another house; but I could not bring myself to
+        tell you the reason, and I somehow put it off from day to day, although my life was, during
+        every hour of this procrastination, rendered as miserable as that of a felon with the
+        constables on his track. I was growing absolutely ill from this wretched mode of life.</p>
+
+    <p> One afternoon I determined to enjoy an hour's sleep upon your bed. I hated mine; so that I
+        had never, except in a stealthy visit every day to unmake it, lest Martha should discover
+        the secret of my nightly absence, entered the ill-omened chamber.</p>
+
+    <p> As ill-luck would have it, you had locked your bedroom, and taken away the key. I went into
+        my own to unsettle the bedclothes, as usual, and give the bed the appearance of having been
+        slept in. Now, a variety of circumstances concurred to bring about the dreadful scene
+        through which I was that night to pass. In the first place, I was literally overpowered with
+        fatigue, and longing for sleep; in the next place, the effect of this extreme exhaustion
+        upon my nerves resembled that of a narcotic, and rendered me less susceptible than, perhaps,
+        I should in any other condition have been, of the exciting fears which had become habitual
+        to me. Then again, a little bit of the window was open, a pleasant freshness pervaded the
+        room, and, to crown all, the cheerful sun of day was making the room quite pleasant. What
+        was to prevent my enjoying an hour's nap here? The whole air was resonant with the cheerful
+        hum of life, and the broad matter-of-fact light of day filled every corner of the room.</p>
+
+    <p> I yielded—stifling my qualms—to the almost overpowering temptation; and merely throwing off
+        my coat, and loosening my cravat, I lay down, limiting myself to half-an-hour's doze in the
+        unwonted enjoyment of a feather bed, a coverlet, and a bolster.</p>
+
+    <p> It was horribly insidious; and the demon, no doubt, marked my infatuated preparations. Dolt
+        that I was, I fancied, with mind and body worn out for want of sleep, and an arrear of a
+        full week's rest to my credit, that such measure as half-an-hour's sleep, in such a
+        situation, was possible. My sleep was death-like, long, and dreamless.</p>
+
+    <p> Without a start or fearful sensation of any kind, I waked gently, but completely. It was, as
+        you have good reason to remember, long past midnight—I believe, about two o'clock. When
+        sleep has been deep and long enough to satisfy nature thoroughly, one often wakens in this
+        way, suddenly, tranquilly, and completely.</p>
+
+    <p> There was a figure seated in that lumbering, old sofa-chair, near the fireplace. Its back
+        was rather towards me, but I could not be mistaken; it turned slowly round, and, merciful
+        heavens! there was the stony face, with its infernal lineaments of malignity and despair,
+        gloating on me. There was now no doubt as to its consciousness of my presence, and the
+        hellish malice with which it was animated, for it arose, and drew close to the bedside.
+        There was a rope about its neck, and the other end, coiled up, it held stiffly in its
+        hand.</p>
+
+    <p> My good angel nerved me for this horrible crisis. I remained for some seconds transfixed by
+        the gaze of this tremendous phantom. He came close to the bed, and appeared on the point of
+        mounting upon it. The next instant I was upon the floor at the far side, and in a moment
+        more was, I don't know how, upon the lobby.</p>
+
+    <p> But the spell was not yet broken; the valley of the shadow of death was not yet traversed.
+        The abhorred phantom was before me there; it was standing near the banisters, stooping a
+        little, and with one end of the rope round its own neck, was poising a noose at the other,
+        as if to throw over mine; and while engaged in this baleful pantomime, it wore a smile so
+        sensual, so unspeakably dreadful, that my senses were nearly overpowered. I saw and remember
+        nothing more, until I found myself in your room.</p>
+
+    <p> I had a wonderful escape, Dick—there is no disputing that—an escape for which, while I live,
+        I shall bless the mercy of heaven. No one can conceive or imagine what it is for flesh and
+        blood to stand in the presence of such a thing, but one who has had the terrific experience.
+        Dick, Dick, a shadow has passed over me—a chill has crossed my blood and marrow, and I will
+        never be the same again—never, Dick—never!</p>
+
+    <p> Our handmaid, a mature girl of two-and-fifty, as I have said, stayed her hand, as Tom's
+        story proceeded, and by little and little drew near to us, with open mouth, and her brows
+        contracted over her little, beady black eyes, till stealing a glance over her shoulder now
+        and then, she established herself close behind us. During the relation, she had made various
+        earnest comments, in an undertone; but these and her ejaculations, for the sake of brevity
+        and simplicity, I have omitted in my narration.</p>
+
+    <p> It's often I heard tell of it, she now said, but I never believed it rightly till
+        now—though, indeed, why should not I? Does not my mother, down there in the lane, know quare
+        stories, God bless us, beyant telling about it? But you ought not to have slept in the back
+        bedroom. She was loath to let me be going in and out of that room even in the day time, let
+        alone for any Christian to spend the night in it; for sure she says it was his own
+        bedroom.</p>
+
+    <p> Whose own bedroom? we asked, in a breath.</p>
+
+    <p> Why, his—the ould Judge's—Judge Horrock's, to be sure, God rest his sowl; and she looked
+        fearfully round.</p>
+
+    <p> Amen! I muttered. But did he die there?</p>
+
+    <p> Die there! No, not quite there, she said. Shure, was not it over the banisters he hung
+        himself, the ould sinner, God be merciful to us all? and was not it in the alcove they found
+        the handles of the skipping-rope cut off, and the knife where he was settling the cord, God
+        bless us, to hang himself with? It was his housekeeper's daughter owned the rope, my mother
+        often told me, and the child never throve after, and used to be starting up out of her
+        sleep, and screeching in the night time, wid dhrames and frights that cum an her; and they
+        said how it was the speerit of the ould Judge that was tormentin' her; and she used to be
+        roaring and yelling out to hould back the big ould fellow with the crooked neck; and then
+        she'd screech 'Oh, the master! the master! he's stampin' at me, and beckoning to me! Mother,
+        darling, don't let me go!' And so the poor crathure died at last, and the docthers said it
+        was wather on the brain, for it was all they could say.</p>
+
+    <p> How long ago was all this? I asked.</p>
+
+    <p> Oh, then, how would I know? she answered. But it must be a wondherful long time ago, for the
+        housekeeper was an ould woman, with a pipe in her mouth, and not a tooth left, and better
+        nor eighty years ould when my mother was first married; and they said she was a rale buxom,
+        fine-dressed woman when the ould Judge come to his end; an', indeed, my mother's not far
+        from eighty years ould herself this day; and what made it worse for the unnatural ould
+        villain, God rest his soul, to frighten the little girl out of the world the way he did, was
+        what was mostly thought and believed by every one. My mother says how the poor little
+        crathure was his own child; for he was by all accounts an ould villain every way, an' the
+        hangin'est judge that ever was known in Ireland's ground.</p>
+
+    <p> From what you said about the danger of sleeping in that bedroom, said I, I suppose there
+        were stories about the ghost having appeared there to others.</p>
+
+    <p> Well, there was things said—quare things, surely, she answered, as it seemed, with some
+        reluctance. And why would not there? Sure was it not up in that same room he slept for more
+        than twenty years? and was it not in the alcove he got the rope ready that done his own
+        business at last, the way he done many a betther man's in his lifetime?—and was not the body
+        lying in the same bed after death, and put in the coffin there, too, and carried out to his
+        grave from it in Pether's churchyard, after the coroner was done? But there was quare
+        stories—my mother has them all—about how one Nicholas Spaight got into trouble on the head
+        of it.</p>
+
+    <p> And what did they say of this Nicholas Spaight? I asked.</p>
+
+    <p> Oh, for that matther, it's soon told, she answered.</p>
+
+    <p> And she certainly did relate a very strange story, which so piqued my curiosity, that I took
+        occasion to visit the ancient lady, her mother, from whom I learned many very curious
+        particulars. Indeed, I am tempted to tell the tale, but my fingers are weary, and I must
+        defer it. But if you wish to hear it another time, I shall do my best.</p>
+
+    <p> When we had heard the strange tale I have not told you, we put one or two further questions
+        to her about the alleged spectral visitations, to which the house had, ever since the death
+        of the wicked old Judge, been subjected.</p>
+
+    <p> No one ever had luck in it, she told us. There was always cross accidents, sudden deaths,
+        and short times in it. The first that tuck, it was a family—I forget their name—but at any
+        rate there was two young ladies and their papa. He was about sixty, and a stout healthy
+        gentleman as you'd wish to see at that age. Well, he slept in that unlucky back bedroom;
+        and, God between us an' harm! sure enough he was found dead one morning, half out of the
+        bed, with his head as black as a sloe, and swelled like a puddin', hanging down near the
+        floor. It was a fit, they said. He was as dead as a mackerel, and so he could not say what
+        it was; but the ould people was all sure that it was nothing at all but the ould Judge, God
+        bless us! that frightened him out of his senses and his life together.</p>
+
+    <p> Some time after there was a rich old maiden lady took the house. I don't know which room she
+        slept in, but she lived alone; and at any rate, one morning, the servants going down early
+        to their work, found her sitting on the passage-stairs, shivering and talkin' to herself,
+        quite mad; and never a word more could any of them or her friends get from her ever
+        afterwards but, 'Don't ask me to go, for I promised to wait for him.' They never made out
+        from her who it was she meant by him, but of course those that knew all about the ould house
+        were at no loss for the meaning of all that happened to her.</p>
+
+    <p> Then afterwards, when the house was let out in lodgings, there was Micky Byrne that took the
+        same room, with his wife and three little children; and sure I heard Mrs. Byrne myself
+        telling how the children used to be lifted up in the bed at night, she could not see by what
+        mains; and how they were starting and screeching every hour, just all as one as the
+        housekeeper's little girl that died, till at last one night poor Micky had a dhrop in him,
+        the way he used now and again; and what do you think in the middle of the night he thought
+        he heard a noise on the stairs, and being in liquor, nothing less id do him but out he must
+        go himself to see what was wrong. Well, after that, all she ever heard of him was himself
+        sayin', 'Oh, God!' and a tumble that shook the very house; and there, sure enough, he was
+        lying on the lower stairs, under the lobby, with his neck smashed double undher him, where
+        he was flung over the banisters.</p>
+
+    <p> Then the handmaiden added----</p>
+
+    <p> I'll go down to the lane, and send up Joe Gavvey to pack up the rest of the taythings, and
+        bring all the things across to your new lodgings.</p>
+
+    <p> And so we all sallied out together, each of us breathing more freely, I have no doubt, as we
+        crossed that ill-omened threshold for the last time.</p>
+
+    <p> Now, I may add thus much, in compliance with the immemorial usage of the realm of fiction,
+        which sees the hero not only through his adventures, but fairly out of the world. You must
+        have perceived that what the flesh, blood, and bone hero of romance proper is to the regular
+        compounder of fiction, this old house of brick, wood, and mortar is to the humble recorder
+        of this true tale. I, therefore, relate, as in duty bound, the catastrophe which ultimately
+        befell it, which was simply this—that about two years subsequently to my story it was taken
+        by a quack doctor, who called himself Baron Duhlstoerf, and filled the parlour windows with
+        bottles of indescribable horrors preserved in brandy, and the newspapers with the usual
+        grandiloquent and mendacious advertisements. This gentleman among his virtues did not reckon
+        sobriety, and one night, being overcome with much wine, he set fire to his bed curtains,
+        partially burned himself, and totally consumed the house. It was afterwards rebuilt, and for
+        a time an undertaker established himself in the premises.</p>
+
+    <p> I have now told you my own and Tom's adventures, together with some valuable collateral
+        particulars; and having acquitted myself of my engagement, I wish you a very good night, and
+        pleasant dreams. </p>
 </story>

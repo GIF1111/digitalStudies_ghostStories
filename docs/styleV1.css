@@ -5,8 +5,9 @@
 html {
     font-size: 20px;
     background-color: #1c1c1c; /* Dark background for spooky vibes */
-    color: #eeeeee; /* Light text */
+    color: black; /* Light text */
     text-align: center;
+    
 }
 
 
@@ -24,7 +25,7 @@ nav {
 }
 
 a {
-    color: White;
+    color: blue;
     text-decoration: none;
 }
 
@@ -100,12 +101,13 @@ nav a {
     padding: 20px; 
     min-height: 100vh; 
 }
-      
+main a {
+    color: blue !important;
+}
 
 /* Footer */
 footer {
    font-family: 'Creepster', serif; /* Spooky font */
-   background-color: #000000;
     color: #ff4444; /* Bloody red text */
     text-align: center;
     padding: 20px;
