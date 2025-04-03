@@ -7,16 +7,16 @@ declare option saxon:output "doctype-system=about:legacy-compat";
     <link type="text/css" href="styleV1.css" rel="stylesheet" />
   </head>
   <body>
-    <!-- -LS This is the menu bar!-->
+     <!-- -LS This is the menu bar!-->
     <nav>
       <div class="dropDown">
         <a href="index.html">Home</a>
       </div>
       <div class="dropDown">
-        <a href="test.html">Ghost Stories</a>
+        <a href="ghoststory.html">Ghost Stories</a>
       </div>
       <div class="dropDown">
-        <a href="">INSERT</a>
+        <a href="timeline.html">Timeline</a>
       </div>
       <div class="dropDown">
         <a href="">INSERT</a>
@@ -29,7 +29,7 @@ declare option saxon:output "doctype-system=about:legacy-compat";
         </div>
       </div>
     </nav>
-    <!-- -LS This is the menu bar!-->
+    <!-- -LS This is the menu bar!-->>
 
     <main>
       <h1>Ghost Stories</h1>
