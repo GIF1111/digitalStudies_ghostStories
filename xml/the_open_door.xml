@@ -3,10 +3,8 @@
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 
 <story>
-    <title tone="fear">THE OPEN DOOR</title>
-
-
-    
+    <title>THE OPEN DOOR</title>
+   
 <chapter n="1">
     THE OPEN DOOR.
     
