@@ -17,14 +17,14 @@
         heart. Well, then, these conditions presupposed, I shall waste no more words, but tell you
         simply how it all happened.</p>
 
-    <p> My cousin (<character>Tom Ludlow</character>) and I studied medicine together. I think he
+    <p> My cousin (<character ref="Tom Ludlow">Tom Ludlow</character>) and I studied medicine together. I think he
         would have succeeded, had he stuck to the profession; but he preferred the Church, poor
         fellow, and died early, a sacrifice to contagion, contracted in the noble discharge of his
         duties. For my present purpose, I say enough of his character when I mention that he was of
         a sedate but frank and cheerful nature; very exact in his observance of truth, and not by
         any means like myself—of an excitable or nervous temperament.</p>
 
-    <p> My <character>Uncle Ludlow</character>—Tom's father—while we were attending lectures,
+    <p> My <character ref="Uncle Ludlow">Uncle Ludlow</character>—Tom's father—while we were attending lectures,
         purchased three or four old houses in <place>Aungier Street</place>, one of which was
         unoccupied. He resided in the country, and Tom proposed that we should take up our abode in
         the untenanted house, so long as it should continue unlet; a move which would accomplish the
@@ -58,7 +58,7 @@
         the paper looked raw and out of keeping; and the old woman, who kept a little dirt-pie of a
         shop in the lane, and whose daughter—a girl of two and fifty—was our solitary handmaid,
         coming in at sunrise, and chastely receding again as soon as she had made all ready for tea
-        in our state apartment;—this woman, I say, remembered it, when old Judge Horrocks (who,
+        in our state apartment;—this woman, I say, remembered it, when old <character ref=" Judge Horrocks">Judge Horrocks</character> (who,
         having earned the reputation of a particularly hanging judge, ended by hanging himself, as
         the coroner's jury found, under an impulse of temporary insanity, with a child's
         skipping-rope, over the massive old bannisters) resided there, entertaining good company,
@@ -146,9 +146,9 @@
     <p> I found afterwards that my would-be sceptical companion had his troubles too. But of these I
         knew nothing yet. One night, for a wonder, I was sleeping soundly, when I was roused by a
         step on the lobby outside my room, followed by the loud clang of what turned out to be a
-        large brass candlestick, flung with all his force by poor <character>Tom Ludlow</character>
+        large brass candlestick, flung with all his force by poor <character ref="Tom Ludlow">Tom Ludlow</character>
         over the banisters, and rattling with a rebound down the second flight of stairs; and almost
-        concurrently with this, Tom burst open my door, and bounced into my room backwards, in a
+        concurrently with this, <character ref="Tom Ludlow">Tom</character> burst open my door, and bounced into my room backwards, in a
         state of extraordinary agitation.</p>
 
     <p> I had jumped out of bed and clutched him by the arm before I had any distinct idea of my own
@@ -156,15 +156,15 @@
         great old banister opposite, at the lobby window, through which the sickly light of a
         clouded moon was gleaming.</p>
 
-    <p> What's the matter, Tom? What's the matter with you? What the devil's the matter with you,
-        Tom? I demanded shaking him with nervous impatience.</p>
+    <p> What's the matter, <character ref="Tom Ludlow">Tom</character>? What's the matter with you? What the devil's the matter with you,
+        <character ref="Tom Ludlow">Tom</character>? I demanded shaking him with nervous impatience.</p>
 
     <p> He took a long breath before he answered me, and then it was not very coherently.</p>
 
     <p> It's nothing, nothing at all—did I speak?—what did I say?—where's the candle, Richard? It's
         dark; I—I had a candle!</p>
 
-    <p> Yes, dark enough, I said; but what's the matter?—what is it?—why don't you speak, Tom?—have
+    <p> Yes, dark enough, I said; but what's the matter?—what is it?—why don't you speak, <character ref="Tom Ludlow">Tom</character>?—have
         you lost your wits?—what is the matter?</p>
 
     <p> The matter?—oh, it is all over. It must have been a dream—nothing at all but a dream—don't
@@ -205,7 +205,7 @@
         scared him, would probably vanish next morning with the damps and shadows of night. But I
         was mistaken. Off went Tom at peep of day to the country, having agreed that so soon as I
         had secured suitable lodgings, I was to recall him by letter from his visit to my
-            <character>Uncle Ludlow</character>.</p>
+            <character ref="Uncle Ludlow">Uncle Ludlow</character>.</p>
 
     <p> Now, anxious as I was to change my quarters, it so happened, owing to a series of petty
         procrastinations and accidents, that nearly a week elapsed before my bargain was made and my
@@ -586,7 +586,7 @@
 
     <p> Whose own bedroom? we asked, in a breath.</p>
 
-    <p> Why, his—the ould Judge's—Judge Horrock's, to be sure, God rest his sowl; and she looked
+    <p> Why, his—the ould Judge's—<character ref="Judge Horrock">Judge Horrock</character>'s, to be sure, God rest his sowl; and she looked
         fearfully round.</p>
 
     <p> Amen! I muttered. But did he die there?</p>
@@ -684,14 +684,14 @@
         compounder of fiction, this old house of brick, wood, and mortar is to the humble recorder
         of this true tale. I, therefore, relate, as in duty bound, the catastrophe which ultimately
         befell it, which was simply this—that about two years subsequently to my story it was taken
-        by a quack doctor, who called himself Baron Duhlstoerf, and filled the parlour windows with
+        by a quack doctor, who called himself <character ref="Baron Duhlstoerf">Baron Duhlstoerf</character>, and filled the parlour windows with
         bottles of indescribable horrors preserved in brandy, and the newspapers with the usual
         grandiloquent and mendacious advertisements. This gentleman among his virtues did not reckon
         sobriety, and one night, being overcome with much wine, he set fire to his bed curtains,
         partially burned himself, and totally consumed the house. It was afterwards rebuilt, and for
         a time an undertaker established himself in the premises.</p>
 
-    <p> I have now told you my own and Tom's adventures, together with some valuable collateral
+    <p> I have now told you my own and <character ref="Tom Ludlow">Tom</character>'s adventures, together with some valuable collateral
         particulars; and having acquitted myself of my engagement, I wish you a very good night, and
         pleasant dreams. </p>
 </story>
