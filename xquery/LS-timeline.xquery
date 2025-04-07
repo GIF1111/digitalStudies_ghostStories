@@ -47,7 +47,7 @@ declare function local:x($y as xs:integer) as xs:double {
       </div>
     </nav>
     <!-- -LS This is the menu bar!-->
-
+<main>
     <div id="timeline">
       <svg xmlns="http://www.w3.org/2000/svg" width="{$width}" height="{$height}">
         <!-- Title -->
@@ -66,5 +66,9 @@ declare function local:x($y as xs:integer) as xs:double {
         }
       </svg>
     </div>
+    </main>
+    <footer>
+      <p>© Ghost Story Project</p>
+    </footer>
   </body>
 </html>

@@ -3,7 +3,7 @@
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title>LOIS THE WITCH </title>
-    <chapter n="1">Chapter 1 <p tone="anger"> In the year <year>1691</year>, <character
+    <chapter n="1">Chapter 1 <p tone="serious"> In the year <year>1691</year>, <character
                 ref="Lois Barclay">Lois Barclay</character> stood on a little wooden pier, steadying
             herself on the stable land, in much the same manner as, eight or nine weeks ago, she had
             tried to steady herself on the deck of the rocking ship which had carried her across
@@ -27,7 +27,7 @@
             with cold; for the day was severe for May, and the Redemption, with store of necessaries
             and comforts for the <character ref="colonists">Puritan colonists</character> of
                 <place>New England</place>, was the earliest ship that had ventured across the seas. </p>
-        <p> How could <character ref="Lois Barclay">Lois</character> help thinking of the past, and
+        <p tone="sadness"> How could <character ref="Lois Barclay">Lois</character> help thinking of the past, and
             speculating on the future, as she sat on <place>Boston pier</place>, at this
             breathing-time of her life? In the dim sea-mist which she gazed upon with aching eyes
             (filled, against her will, with tears, from time to time), there rose the little village
@@ -47,16 +47,16 @@
             back or working kitchen; up-stairs, Mr. and Mrs. Barclay's room, that belonging to
                 <character ref="Lois Barclay">Lois</character>, and the maid-servant's room. If a
             guest came, <character ref="Lois Barclay">Lois</character> left her own chamber, and
-            shared old <character>Clemence's</character>bed. But those days were over. Never more
+            shared old <character ref="Clemence">Clemence's</character>bed. But those days were over. Never more
             should <character ref="Lois Barclay">Lois</character> see father or mother on earth;
             they slept, calm and still, in <place>Barford churchyard</place>, careless of what
             became of their orphan child, as far as earthly manifestations of care or love went. And
-                <character>Clemence</character> lay there too, bound down in her grassy bed by
+            <character ref="Clemence">Clemence</character> lay there too, bound down in her grassy bed by
             withes of the briar-rose, which <character ref="Lois Barclay">Lois</character> had
             trained over those three precious graves before leaving <place>England</place> for ever. </p>
-        <p> There were some who would fain have kept her there; one who swore in his heart a great
+        <p tone="cynical"> There were some who would fain have kept her there; one who swore in his heart a great
             oath unto the Lord that he would seek her sooner or later, if she was still upon the
-            earth. But he was the rich heir and only son of the <character>Miller Lucy</character>,
+            earth. But he was the rich heir and only son of the <character ref="Miller Lucy">Miller Lucy</character>,
             whose mill stood by the <place>Avon-side</place> in the grassy <place>Barford
                 meadows</place>, and his father looked higher for him than the penniless daughter of
                 <character ref="Parson Barclay">Parson Barclay</character> (so low were clergymen
@@ -65,9 +65,9 @@
                 Barclay</character> made his parents think it more prudent not to offer the orphan a
             home, although none other of the parishioners had the means, even if they had the will,
             to do so.</p>
-        <p> So <character ref="Lois Barclay">Lois</character> swallowed her tears down till the time
+        <p tone="serious"> So <character ref="Lois Barclay">Lois</character> swallowed her tears down till the time
             came for crying, and acted upon her mother's words: </p>
-        <p>
+        <p tone="sadness">
             <quote>'<character ref="Lois Barclay">Lois</character>, thy father is dead of this
                 terrible fever, and I am dying. Nay, it is so, though I am easier from pain for
                 these few hours, the Lord be praised! The cruel men of the Commonwealth have left
@@ -75,16 +75,17 @@
                     <place>Edgehill</place>. I, too, have a brother, though thou hast never heard me
                 speak of him, for he was a schismatic; and thy father and he had words, and he left
                 for that new country beyond the seas, without ever saying farewell to us. But
-                    <character>Ralph</character> was a kind lad until he took up these new-fangled
+                <character ref="Ralph Hickson">Ralph</character> was a kind lad until he took up these new-fangled
                 notions, and for the old days’ sake he will take thee in, and love thee as a child,
                 and place thee among his children. Blood is thicker than water. Write to him as soon
                 as I am gone—for <character ref="Lois Barclay">Lois</character>, I am going—and I
                 bless the Lord that has letten me join my husband again so soon.' Such was the
                 selfishness of conjugal love; she thought little of <character ref="Lois Barclay"
                     >Lois</character>’s desolation in comparison with her rejoicing over her speedy
-                reunion with her dead husband! 'Write to thine uncle, <character>Ralph
+                reunion with her dead husband! 'Write to thine uncle, <character ref="Ralph Hickson">Ralph
                     Hickson</character>, <place>Salem</place>, <place>New England</place> (put it
-                down, child, on thy tablets), and say that I, <character>Henrietta
+                down, child, on thy tablets), and say that I, <character ref="Henrietta
+                    Barclay">Henrietta
                     Barclay</character>, charge him, for the sake of all he holds dear in heaven or
                 on earth,—for his salvation's sake, as well as for the sake of the old home at
                     <place>Lester-bridge</place>,—for the sake of the father and mother that gave us
@@ -97,14 +98,14 @@
             <character ref="Lois Barclay">Lois</character> comforted her mother more than herself,
             poor child, by promises to obey her dying wishes to the letter, and by expressing hopes
             she dared not feel of her uncle’s kindness. </p>
-        <p>
+        <p tone="serious">
             <quote>'Promise me'</quote>—the dying woman's breath came harder and harder—<quote>'that
                 thou wilt go at once. The money our goods will bring—the letter thy father wrote to
                     <character ref="Captain Holdernesse">Captain Holdernesse</character>, his old
                 schoolfellow—thou knowest all I would say—my <character ref="Lois Barclay"
                     >Lois</character>, God bless thee!'</quote>
         </p>
-        <p> Solemnly did <character ref="Lois Barclay">Lois</character> promise; strictly she kept
+        <p tone="serious"> Solemnly did <character ref="Lois Barclay">Lois</character> promise; strictly she kept
             her word. It was all the more easy, for <character ref="Hugh Lucy">Hugh Lucy</character>
             met her, and told her, in one great burst of love, of his passionate attachment, his
             vehement struggles with his father, his impotence at present, his hope and resolves for
@@ -120,7 +121,7 @@
             him to fulfil his resolve of coming to seek her out before many years were over. It was
             all in God's hands, and that was best, thought <character ref="Lois Barclay">Lois
                 Barclay</character>. </p>
-        <p> She was roused out of her trance of recollections by <character
+        <p tone="serious"> She was roused out of her trance of recollections by <character
                 ref="Captain Holdernesse">Captain Holdernesse</character>, who, having done all that
             was necessary in the way of orders and directions to his mate, now came up to her, and,
             praising her for her quiet patience, told her that he would now take her to the
@@ -144,7 +145,7 @@
                 ref="Lois Barclay">Lois</character> was more brightened by this style of
             conversation, and the new ideas it presented to her, than she would have been by the
             tenderest woman's sympathy. </p>
-        <p>
+        <p tone="ironic">
             <quote>'They are a queer set, these <place>New Englanders</place>,'</quote> said
                 <character ref="Captain Holdernesse">Captain Holdernesse</character>. 'They are rare
             chaps for praying; down on their knees at every turn of their life. Folk are none so
@@ -159,13 +160,13 @@
             was as down in the mouth as could be about the state of the country. But here we are at
                 <character ref="Widow Smith">Widow Smith</character>'s! Now, cheer up, and show the
             godly a pretty smiling <place>Warwickshire</place> lass!' </p>
-        <p> Anybody would have smiled at <character ref="Widow Smith">Widow Smith</character>'s
+        <p tone="happiness"> Anybody would have smiled at <character ref="Widow Smith">Widow Smith</character>'s
             greeting. She was a comely, motherly woman, dressed in the primmest fashion in vogue
             twenty years before, in <place>England</place>, among the class to which she belonged.
             But, somehow, her pleasant face gave the lie to her dress; were it as brown and
             sober-coloured as could be, folk remembered it bright and cheerful, because it was a
             part of <character ref="Widow Smith">Widow Smith</character> herself. </p>
-        <p> She kissed <character ref="Lois Barclay">Lois</character> on both cheeks, before she
+        <p tone="happiness"> She kissed <character ref="Lois Barclay">Lois</character> on both cheeks, before she
             rightly understood who the stranger maiden was, only because she was a stranger, and
             looked sad and forlorn; and then she kissed her again, because <character
                 ref="Captain Holdernesse">Captain Holdernesse</character> commended her to the
@@ -185,8 +186,8 @@
                 >Widow Smith</character> chose her customers merely by their physical aspect; not
             one whit with regard to their apparent worldly circumstances. Those who had been staying
             at her house once, always came again, for she had the knack of making every one beneath
-            her roof comfortable and at his ease. Her daughters, <character>Prudence</character> and
-                <character>Hester</character>, had somewhat of their mother's gifts, but not in such
+            her roof comfortable and at his ease. Her daughters, <character ref="Prudence">Prudence</character> and
+            <character ref="Hester">Hester</character>, had somewhat of their mother's gifts, but not in such
             perfection. They reasoned a little upon a stranger's appearance, instead of knowing at
             the first moment whether they liked him or no; they noticed the indications of his
             clothes, the quality and cut thereof, as telling somewhat of his station in society;
@@ -207,7 +208,7 @@
             days than a parlour; and it had a strange, peculiar, but not unpleasant smell about it,
             neutralized in some degree by the smoke from the enormous trunk of pinewood which
             smouldered on the hearth. </p>
-        <p> The instant their mother told them that <character ref="Captain Holdernesse">Captain
+        <p tone="ironic"> The instant their mother told them that <character ref="Captain Holdernesse">Captain
                 Holdernesse</character> was in the outer room, the girls began putting away their
             spinning-wheel and knitting-needles, and preparing for a meal of some kind; what meal,
                 <character ref="Lois Barclay">Lois</character>, sitting there and unconsciously
@@ -221,7 +222,7 @@
             various ways. <character ref="Lois Barclay">Lois</character> wondered where would be the
             end of the provisions for hospitably receiving the strangers from the <place>Old
                 Country</place>. At length everything was placed on the table, the hot food smoking;
-            but all was cool, not to say cold, before <character>Elder Hawkins</character> (an old
+            but all was cool, not to say cold, before <character ref=">Elder Hawkins">Elder Hawkins</character> (an old
             neighbour of much repute and standing, who had been invited in by <character
                 ref="Widow Smith">Widow Smith</character> to hear the news) had finished his grace,
             into which was embodied thanksgivings for the past and prayers for the future lives of
@@ -230,12 +231,12 @@
             it not been for the somewhat impatient drumming of his knife-handle on the table with
             which <character ref="Captain Holdernesse">Captain Holdernesse</character> accompanied
             the latter half of the elder's words. </p>
-        <p> When they first sat down to their meal, all were too hungry for much talking; but as
+        <p tone="serious"> When they first sat down to their meal, all were too hungry for much talking; but as
             their appetites diminished their curiosity increased, and there was much to be told and
             heard on both sides. With all the English intelligence <character ref="Lois Barclay"
                 >Lois</character> was, of course, well acquainted; but she listened with natural
             attention to all that was said about the new country, and the new people among whom she
-            had come to live. Her father had been a <character>Jacobite</character>, as the
+            had come to live. Her father had been a Jacobite, as the
             adherents of the <character ref="Stuarts">Stuarts</character> were beginning at this
             time to be called. His father, again, had been a follower of <character
                 ref="Archbishop Laud">Archbishop Laud</character>; so <character ref="Lois Barclay"
@@ -249,9 +250,9 @@
                 ref="Captain Holdernesse">Captain Holdernesse</character> and his mate spoke out
             their minds, let who would be present. So that on this first landing in <place>New
                 England</place>, <character ref="Lois Barclay">Lois</character> was, as it were,
-            gently let down into the midst of the <character>Puritan</character> peculiarities, and
+            gently let down into the midst of the Puritan peculiarities, and
             yet they were sufficient to make her feel very lonely and strange. </p>
-        <p> The first subject of conversation was the present state of the colony—<character
+        <p tone="serious"> The first subject of conversation was the present state of the colony—<character
                 ref="Lois Barclay">Lois</character> soon found out that, although at the beginning
             she was not a little perplexed by the frequent reference to names of places which she
             naturally associated with the <place>Old Country</place>. <character ref="Widow Smith"
@@ -264,9 +265,9 @@
                 their shaven scalps and their war-streaks, lurking behind the trees, and coming
                 nearer and nearer with their noiseless steps.'</quote>
         </p>
-        <p>
+        <p tone="suspenseful">
             <quote>'Yes,'</quote> broke in one of her daughters; <quote>'and, mother, don't you
-                remember how <character>Hannah Benson</character> told us how her husband had cut
+                remember how <character ref="Hannah Benson">Hannah Benson</character> told us how her husband had cut
                 down every tree near his house at <place>Deerbrook</place>, in order that no one
                 might come near him, under cover; and how one evening she was a-sitting in the
                 twilight, when all her family were gone to bed, and her husband gone off to
@@ -276,7 +277,7 @@
                 how her heart turned sick with fright, and how she dared not stir at first, but shut
                 her eyes while she counted a hundred, and looked again, and the shadow was deeper,
                 but she could see that the log was nearer; so she ran in and bolted the door, and
-                went up to where her eldest lad lay. It was <character>Elijah</character>, and he
+                went up to where her eldest lad lay. It was <character ref="Elijah">Elijah</character>, and he
                 was but sixteen then; but he rose up at his mother's words, and took his father's
                 long duck-gun down, and he tried the loading, and spoke for the first time to put up
                 a prayer that God would give his aim good guidance, and went to a window that gave a
@@ -287,9 +288,9 @@
                     Indian</character> covered with bark, and painted most skilfully, with his
                 war-knife by his side.'</quote>
         </p>
-        <p> All were breathless with listening, though to most the story, or such like it, were
+        <p tone="suspenseful"> All were breathless with listening, though to most the story, or such like it, were
             familiar. Then another took up the tale of horror:</p>
-        <p>
+        <p tone="fear">
             <quote>'And the pirates have been down at Marblehead since you were here, <character
                     ref="Captain Holdernesse">Captain Holdernesse</character>.</quote>
             <quote>'Twas only the last winter they landed,—French Papist pirates; and the people
@@ -310,12 +311,12 @@
                 morning dawn; but the folk there hear the cry still, shrill and pitiful, from the
                 waste marshes, <quote> "Lord Jesu! have mercy on me! Save me from the power of man,
                     O Lord Jesu!"</quote>'</quote></p>
-        <p>
-            <quote>'And by token,'</quote> said Elder Hawkins's deep bass voice, speaking with the
+        <p tone="serious">
+            <quote>'And by token,'</quote> said <character ref="Elder Hawkins">Elder Hawkins's</character> deep bass voice, speaking with the
             strong nasal twang of the Puritans (who, says Butler,</p>
-        <p>
+        <p tone="ironic">
             <quote>"Blasphemed custard through the nose"</quote>),</p>
-        <p>
+        <p tone="cynical">
             <quote>'godly Mr. Noyes ordained a fast at Marblehead, and preached a soul-stirring
                 discourse on the words; "Inasmuch as ye did it not unto one of the least of these,
                 my brethren, ye did it not unto me." But it has been borne in upon me at times,
@@ -324,11 +325,11 @@
                 to condemn them in the sight of the Lord. If it were so, the enemy had a great
                 triumph, for assuredly it was no part of Christian men to leave a helpless woman
                 unaided in her sore distress.'</quote></p>
-        <p>
+        <p tone="serious">
             <quote>'But, Elder,'</quote> said <character ref="Widow Smith">Widow Smith</character>,
                 <quote>'it was no vision; they were real living men who went ashore, men who broke
                 down branches and left their footmarks on the ground.'</quote></p>
-        <p>
+        <p tone="anger">
             <quote>'As for that matter, Satan hath many powers, and if it be the day when he is
                 permitted to go about like a roaring lion, he will not stick at trifles, but make
                 his work complete. I tell you, many men are spiritual enemies in visible forms,
@@ -337,24 +338,24 @@
                 there is no doubt that they are in league with those abominable Papists, the French
                 people in Canada. I have heard tell, that the French pay the Indians so much gold
                 for every dozen scalps off Englishmen's heads</quote>.'</p>
-        <p>
+        <p tone="ironic">
             <quote>'Pretty cheerful talk this,'</quote> said <character ref="Captain Holdernesse"
                 >Captain Holdernesse</character> to <character ref="Lois Barclay">Lois</character>,
             perceiving her blanched cheek and terror-stricken mien. <quote>'Thou art thinking that
                 thou hadst better have stayed at Barford, I'll answer for it, wench. But the devil
                 is not so black as he is painted.'</quote></p>
-        <p>
-            <quote>'Ho! there again!'</quote> said <character>Elder Hawkins</character>. 'The devil
+        <p tone="anger">
+            <quote>'Ho! there again!'</quote> said <character ref="Elder Hawkins">Elder Hawkins</character>. 'The devil
             is painted, it hath been said so from old times; and are not these Indians painted, even
             like unto their father?'</p>
-        <p>
+        <p tone="serious">
             <quote>'But is it all true?'</quote> asked <character ref="Lois Barclay"
                 >Lois</character>, aside, of<character ref="Captain Holdernesse"> Captain
-                Holdernesse</character>, letting the <character>elder</character> hold forth
+                    Holdernesse</character>, letting the <character ref="Elder Hawkins">elder</character> hold forth
             unheeded by her, though listened to, however, with the utmost reverence by the two
             daughters of the house.</p>
-        <p>
-            <quote>'My wench,'</quote> said the <character>old sailor,</character>
+        <p tone="fear">
+            <quote>'My wench,'</quote> said the old sailor,
             <quote>'thou hast come to a country where there are many perils, both from land and from
                 sea. The Indians hate the white men. Whether other white men (meaning the French
                 away to the north) 'have hounded on the savages, or whether the English have taken
@@ -372,7 +373,7 @@
                 power of the Evil One in desert places; and even in the old country we have heard
                 tell of those who have sold their souls for ever for the little power they get for a
                 few years on earth.'</quote></p>
-        <p> By this time the whole table was silent, listening to the <character
+        <p tone="suspenseful"> By this time the whole table was silent, listening to the <character
                 ref="Captain Holdernesse">captain</character>; it was just one of those chance
             silences that sometimes occur, without any apparent reason, and often without any
             apparent consequence. But all present had reason, before many months had-passed over, to
@@ -380,11 +381,11 @@
             although her voice was low, and she only thought, in the interest of the moment, of
             being heard by her old friend the <character ref="Captain Holdernesse"
                 >captain</character>.</p>
-        <p><quote> 'They are fearful creatures, the witches! and yet I am sorry for the poor old
+        <p tone="suspenseful"><quote> 'They are fearful creatures, the witches! and yet I am sorry for the poor old
                 women, whilst I dread them. We had one in Barford, when I was a little child. No one
                 knew whence she came, but she settled herself down in a mud hut by the common side;
                 and there she lived, she and her cat.' </quote>(At the mention of the cat,
-                <character>Elder Hawkins </character>shook his head long and gloomily.) <quote>'No
+            <character ref="Elder Hawkins">Elder Hawkins </character>shook his head long and gloomily.) <quote>'No
                 one knew how she lived, if it were not on nettles and scraps of oatmeal and
                 such-like food given her more for fear than for pity. She went double, always
                 talking and muttering to herself. Folk said she snared birds and rabbits, in the
@@ -407,21 +408,22 @@
                 was dropping asleep, for years after. I used to dream that I was in that pond, all
                 men hating me with their eyes because I was a witch; and, at times, her black cat
                 used to seem living again, and say over those dreadful words.'</quote></p>
-        <p>
+        <p tone="sadness">
             <character ref="Lois Barclay">Lois</character> stopped: the two daughters looked at her
             excitement with a kind of shrinking surprise, for the tears were in her eyes. Elder
-            Hawkins shook his head, and muttered texts from Scripture; but cheerful <character>Widow
+            Hawkins shook his head, and muttered texts from Scripture; but cheerful <character ref="Widow
+                Smith">Widow
                 Smith</character>, not liking the gloomy turn of the conversation, tried to give it
             a lighter cast by saying, <quote>'And I don't doubt but what the parson's bonny lass has
                 bewitched many a one since, with her dimples and her pleasant ways—eh, <character
                     ref="Captain Holdernesse">Captain Holdernesse?</character> It's you must tell us
                 tales of this young lass' doings in <place>England</place>.'</quote></p>
-        <p>
+        <p tone="happiness">
             <quote>'Ay, ay,'</quote> said the <character ref="Captain Holdernesse"
                 >captain</character>, <quote>'there's one under her charms in Warwickshire who will
                 never get the better of it, I'm thinking.'</quote></p>
-        <p>
-            <character>Elder Hawkins</character> rose to speak; he stood leaning on his hands, which
+        <p tone="anger">
+            <character ref="v">Elder Hawkins</character> rose to speak; he stood leaning on his hands, which
             were placed on the table: <quote>'Brethren,'</quote> said he, <quote>'I must upbraid you
                 if ye speak lightly; charms and witchcraft are evil things. I trust this maiden hath
                 had nothing to do with them, even in thought. But my mind misgives me at her story.
@@ -429,20 +431,21 @@
                 child, with the deadly sin. Instead of vain talking, I call upon you all to join
                 with me in prayer for this stranger in our land, that her heart may be purged from
                 all iniquity. Let us pray.'</quote></p>
-        <p>
+        <p tone="ironic">
             <quote>'Come, there's no harm in that,'</quote> said the <character
-                ref="Captain Holdernesse">captain</character>;<quote> 'but, <character>Elder
+                ref="Captain Holdernesse">captain</character>;<quote> 'but, <character ref="Elder
+                    Hawkins">Elder
                     Hawkins</character>, when you are at work, just pray for us all, for I am afeard
                 there be some of us need purging from iniquity a good deal more than <character
                     ref="Lois Barclay">Lois Barclay</character>, and a prayer for a man never does
                 mischief.'</quote></p>
-        <p>
+        <p tone="serious">
             <character ref="Captain Holdernesse">Captain Holdernesse </character>had business in
                 <place>Boston</place> which detained him there for a couple of days, and during that
             time <character ref="Lois Barclay">Lois</character> remained with the <character
                 ref="Widow Smith">Widow Smith</character>, seeing what was to be seen of the new
             land that contained her future home. The letter of her dying mother was sent off to
-                <character>Salem</character>, meanwhile, by a lad going thither, in order to prepare
+                <place>Salem</place>, meanwhile, by a lad going thither, in order to prepare
             her <character ref="Ralph Hickson">Uncle Ralph Hickson</character> for his niece's
             coming, as soon as <character ref="Captain Holdernesse">Captain Holdernesse</character>
             could find leisure to take her; for he considered her given into his own personal
@@ -473,7 +476,7 @@
             place was surrounded with two circles of stockades; between the two were the gardens and
             grazing ground for those who dreaded their cattle straying into the woods, and the
             consequent danger of reclaiming them.</p>
-        <p> The lad who drove them flogged his spent horse into a trot, as they went through
+        <p tone="sadness"> The lad who drove them flogged his spent horse into a trot, as they went through
                 <place>Salem</place> to <character ref="Ralph Hickson">Ralph Hickson's</character>
             house. It was evening, the leisure time for the inhabitants, and their children were at
             play before the houses. <character ref="Lois Barclay">Lois</character> was struck by the
@@ -496,80 +499,81 @@
             coming into his stern, dark face. There was no woman in the house-place. <character
                 ref="Captain Holdernesse">Captain Holdernesse</character> paused a moment, and then
             said:</p>
-        <p>
+        <p tone="serious">
             <quote>'Is this house <character ref="Ralph Hickson">Ralph
                 Hickson's</character>?</quote>'</p>
-        <p>
+        <p tone="serious">
             <quote>'It is,'</quote> said the young man, in a slow, deep voice. But he added no word
             further.</p>
-        <p>
+        <p tone="serious">
             <quote>'This is his niece, <character ref="Lois Barclay">Lois
                 Barclay</character>,'</quote> said the <character ref="Captain Holdernesse"
                 >captain</character>, taking the girl's arm, and pushing her forwards. The young man
             looked at her steadily and gravely for a minute; then rose, and carefully marking the
             page in the folio which hitherto had lain open upon his knee, said, still in the same
-            heavy, indifferent manner, 'I will call my mother, she will know.'</p>
-        <p> He opened a door which looked into a warm bright kitchen, ruddy with the light of the
+            heavy, indifferent manner,<quote> 'I will call my mother, she will know.'</quote></p>
+        <p tone="serious"> He opened a door which looked into a warm bright kitchen, ruddy with the light of the
             fire over which three women were apparently engaged in cooking something, while a
             fourth, an old Indian woman, of a greenish-brown colour, shrivelled up and bent with
             apparent age, moved backwards and forwards, evidently fetching the others the articles
             they required.</p>
-        <p>
+        <p tone="serious">
             <quote>'Mother,'</quote> said the young man; and having arrested her attention, he
             pointed over his shoulder to the newly-arrived strangers, and returned to the study of
             his book, from time to time, however, furtively examining <character ref="Lois Barclay"
                 >Lois</character> from beneath his dark shaggy eyebrows.</p>
-        <p> A tall, largely made woman, past middle life, came in from the kitchen, and stood
+        <p tone="serious"> A tall, largely made woman, past middle life, came in from the kitchen, and stood
             reconnoitring the strangers.</p>
-        <p>
+        <p tone="serious">
             <character ref="Captain Holdernesse">Captain Holdernesse </character>spoke.</p>
-        <p>
-            <quote>'This is<character ref="Lois Barclay"> Lois Barclay</character>, Master Ralph
-                Hickson'</quote>s niece.'</p>
-        <p>
+        <p tone="serious">
+            <quote>'This is<character ref="Lois Barclay"> Lois Barclay</character>, Master<character ref=" Ralph
+                Hickson"> Ralph
+                Hickson's</character> niece.'</quote></p>
+        <p tone="sadness">
             <quote>'I know nothing of her,'</quote> said the mistress of the house, in a deep voice,
             almost as masculine as her son's.</p>
-        <p>
-            <quote>'Master Hickson received his sister's letter, did he not? I sent it off myself by
-                a lad named Elias Wellcome, who left Boston for this place yester
+        <p tone="serious">
+            <quote>'<character>Master Hickson</character> received his sister's letter, did he not? I sent it off myself by
+                a lad named <character>Elias</character> Wellcome, who left Boston for this place yester
             morning.'</quote></p>
-        <p> '<quote><character ref="Ralph Hickson">Ralph Hickson</character> has received no such
+        <p tone="anger"> '<quote><character ref="Ralph Hickson">Ralph Hickson</character> has received no such
                 letter. He lies bedridden in the chamber beyond. Any letters for him must come
                 through my hands; wherefore I can affirm with certainty that no such letter has been
-                delivered here. His sister Barclay, she that was Henrietta Hickson, and whose
-                husband took the oaths to Charles Stuart, and stuck by his living when all godly men
+                delivered here. His sister <character>Barclay</character>, she that was <character>Henrietta Hickson</character>, and whose
+                husband took the oaths to <character>Charles Stuart</character>, and stuck by his living when all godly men
                 left theirs——' </quote></p>
-        <p>
+        <p tone="serious">
             <character ref="Lois Barclay">Lois</character>, who had thought her heart was dead and
             cold a minute before at the ungracious reception she had met with, felt words come up
             into her mouth at the implied insult to her father, and spoke out, to her own and
                 the<character ref="Captain Holdernesse"> captain's</character> astonishment:</p>
-        <p> 'They might be godly men who left their churches on that day of which you speak, madam;
+        <p tone="serious"> <quote>'They might be godly men who left their churches on that day of which you speak, madam;
             but they alone were not the godly men, and no one has a right to limit true godliness
-            for mere opinion<quote>'s sake.'</quote></p>
-        <p>
+            for mere opinion's sake.'</quote></p>
+        <p tone="happiness">
             <quote>'Well said, lass,'</quote> spoke out the <character ref="Captain Holdernesse"
                 >captain</character>, looking round upon her with a kind of admiring wonder, and
             patting her on the back.</p>
-        <p>
+        <p tone="sadness">
             <character ref="Lois Barclay">Lois</character> and her aunt gazed into each other's eyes
             unflinchingly, for a minute or two of silence; but the girl felt her colour coming and
             going, while the elder woman's never varied; and the eyes of the young maiden were
             filling fast with tears, while those of Grate Hickson kept on their stare, dry and
             unwavering.</p>
-        <p>
+        <p tone="serious">
             <quote>'Mother!'</quote> said the young man, rising up with a quicker motion than any
-            one had yet used in this house, 'it is ill speaking of such matters when my cousin comes
+            one had yet used in this house, <quote>'it is ill speaking of such matters when my cousin comes
             first among us. The Lord may give her grace hereafter, but she has travelled from Boston
-            city to-day, and she and this seafaring man must need rest and food.'</p>
-        <p> He did not attend to see the effect of his words, but sat down again, and seemed to be
+            city to-day, and she and this seafaring man must need rest and food.'</quote></p>
+        <p tone="serious"> He did not attend to see the effect of his words, but sat down again, and seemed to be
             absorbed in his book in an instant. Perhaps he knew that his word was law with his grim
             mother, for he had hardly ceased speaking before she had pointed to a wooden settle; and
-            smoothing the lines on her countenance, she said, 'What Manasseh says is true. Sit down
+            smoothing the lines on her countenance, she said, <quote>'What Manasseh says is true. Sit down
             here, while I bid Faith and Nattee get food ready; and meanwhile I will go tell my
             husband, that one who calls herself his sister's child is come over to pay him a
-            visit.'</p>
-        <p> She went to the door leading into the kitchen, and gave some directions to the elder
+            visit.'</quote></p>
+        <p tone="serious"> She went to the door leading into the kitchen, and gave some directions to the elder
             girl, whom <character ref="Lois Barclay">Lois</character> now knew to be the daughter of
             the house. Faith stood impassive, while her mother spoke, scarcely caring to look at the
             newly-arrived strangers. She was like her brother Manasseh in complexion, but had
@@ -587,12 +591,12 @@
             it by way of consolation; but in a moment or two, his usual elasticity of spirit came to
             his rescue, and he said in a low voice to <character ref="Lois Barclay"
             >Lois</character>:</p>
-        <p> 'That scoundrel Elias, I will give it him! If the letter had but been delivered, thou
+        <p tone="optimism"> <quote>'That scoundrel <character>Elias</character>, I will give it him! If the letter had but been delivered, thou
             wouldst have had a different kind of welcome; but as soon as I have had some victuals, I
             will go out and find the lad, and bring back the letter, and that will make all right,
-            my wench. Nay, don<quote>'t be downhearted, for I cannot stand women'</quote>s tears.
-            Thou'rt just worn out with the shaking and the want of food.'</p>
-        <p>
+            my wench. Nay, don't be downhearted, for I cannot stand women's tears.
+            Thou'rt just worn out with the shaking and the want of food.'</quote></p>
+        <p tone="suspenseful">
             <character ref="Lois Barclay">Lois</character> brushed away her tears, and looking round
             to try and divert her thoughts by fixing them on present object, she caught her cousin
             Manasseh's deep-set eyes furtively watching her. It was with no unfriendly gaze, yet it
@@ -600,7 +604,7 @@
             did not withdraw his looks after he must have seen that she observed him. She was glad
             when her aunt called her into an inner room to see her uncle, and she escaped from the
             steady observance of her gloomy, silent cousin.</p>
-        <p>
+        <p tone="happiness">
             <character ref="Ralph Hickson">Ralph Hickson</character> was much older than his wife,
             and his illness made him look older still. He had never had the force of character that
             Grace, his spouse, possessed, and age and sickness had now rendered him almost childish
@@ -608,10 +612,10 @@
             where he lay bedridden, he gave <character ref="Lois Barclay">Lois</character> an
             unhesitating welcome, never waiting for the confirmation of the missing letter before he
             acknowledged her to be his niece.</p>
-        <p>
+        <p tone="happiness">
             <quote>'Oh! '</quote>tis kind in thee to come all across the sea to make acquaintance
             with thine uncle; kind in Sister Barclay to spare thee!'</p>
-        <p>
+        <p tone="sadness">
             <character ref="Lois Barclay">Lois</character> had to tell him that there was no one
             living to miss her at home in England; that in fact she had no home in England, no
             father nor mother left upon earth; and that she had been bidden by her mother's last
@@ -625,25 +629,25 @@
             jealous dislike to her husband's English relations, which had increased since of late
             years his weakened mind yearned after them, and he forgot the good reason he had had for
             his self-exile, and moaned over the decision which had led to it as the great mistake of
-            his life. <quote>'Come,'</quote> said she, 'it strikes me that, in all this sorrow for
+            his life. <quote>'Come,'</quote> said she,<quote> 'it strikes me that, in all this sorrow for
             the loss of one who died full of years, ye are forgetting in Whose hands life and death
-            are!'</p>
-        <p> True words, but ill-spoken at that time. <character ref="Lois Barclay">Lois</character>
+            are!'</quote></p>
+        <p tone="anger"> True words, but ill-spoken at that time. <character ref="Lois Barclay">Lois</character>
             looked up at her with a scarcely disguised indignation; which increased as she heard the
             contemptuous tone in which her aunt went on talking to <character ref="Ralph Hickson"
                 >Ralph Hickson</character>, even while she was arranging his bed with a regard to
             his greater comfort.</p>
-        <p> 'One would think thou wert a godless man, by the moan thou art always making over spilt
+        <p tone="serious"> '<quote> One would think thou wert a godless man, by the moan thou art always making over spilt
             milk; and truth is, thou art but childish in thine old age. When we were wed, thou left
-            all things to the Lord; I would never have married thee else. Nay, lass,' said she,
-            catching the expression on <character ref="Lois Barclay">Lois</character><quote>'s face,
-                '</quote>thou art never going to browbeat me with thine angry looks. I do my duty as
+            all things to the Lord; I would never have married thee else. Nay, lass,'</quote> said she,
+            catching the expression on <character ref="Lois Barclay">Lois's</character> face,
+                '<quote>thou art never going to browbeat me with thine angry looks. I do my duty as
             I read it, and there is never a man in Salem that dare speak a word to Grace Hickson
             about either her works or her faith. Godly Mr. Cotton Mather hath said, that even he
             might learn of me; and I would advise thee rather to humble thyself, and see if the Lord
             may not convert thee from thy ways, since he has sent thee to dwell, as it were, in
-            Zion, where the precious dew falls daily on Aaron's beard.'</p>
-        <p>
+            Zion, where the precious dew falls daily on Aaron's beard.'</quote></p>
+        <p tone="serious">
             <character ref="Lois Barclay">Lois</character> felt ashamed and sorry to find that her
             aunt had so truly interpreted the momentary expression of her features; she blamed
             herself a little for the feeling that had caused that expression, trying to think how
@@ -653,59 +657,59 @@
             uncle's tender trembling pressure of her hand, as, at her aunt's bidding, she wished him
             good night, and returned into the outer, or <quote>'keeping'</quote>-room, where all the
             family were now assembled, ready for the meal of flour cakes and venison-steaks which
-            Nattee, the Indian servant, was bringing in from the kitchen. No one seemed to have been
+            <character>Nattee</character>, the Indian servant, was bringing in from the kitchen. No one seemed to have been
             speaking to <character ref="Captain Holdernesse">Captain Holdernesse </character>while
-                <character ref="Lois Barclay">Lois</character> had been away. Manasseh sat quiet and
+                <character ref="Lois Barclay">Lois</character> had been away. <character>Manasseh</character> sat quiet and
             silent where he did, with the book open upon his knee, his eyes thoughtfully fixed on
-            vacancy, as if he saw a vision, or dreamed dreams. Faith stood by the table, lazily
-            directing Nattee in her preparations; and Prudence lolled against the door-frame,
+            vacancy, as if he saw a vision, or dreamed dreams. <character>Faith</character> stood by the table, lazily
+            directing <character>Nattee</character> in her preparations; and <character ref="Prudence">Prudence</character> lolled against the door-frame,
             between kitchen and keeping-room, playing tricks on the old Indian woman as she passed
             backwards and forwards, till Nattee appeared to be in a strong state of expressed
             irritation, which he tried in vain to repress, as whenever she showed any sign of it,
-            Prudence only seemed excited to greater mischief. When all was ready, Manasseh lifted
+            <character ref="Prudence">Prudence</character> only seemed excited to greater mischief. When all was ready, <character>Manasseh</character> lifted
             his right hand, and <quote>'asked a blessing,'</quote> as it was termed; but the grace
             became a long prayer for abstract spiritual blessings, for strength to combat Satan, and
             to quench his fiery darts, and at length assumed, so <character ref="Lois Barclay"
                 >Lois</character> thought, a purely personal character, as if the young man had
             forgotten the occasion, and even the people present, but was searching into the nature
             of the diseases that beset his own sick soul, and spreading them out before the Lord. He
-            was brought back by a pluck at the coat from Prudence; he opened his shut eyes, cast an
+            was brought back by a pluck at the coat from <character ref="Prudence">Prudence</character>; he opened his shut eyes, cast an
             angry glance at the child, who made a face at him for sole reply, and then he sat down,
-            and they all fell to. Grace Hickson would have thought her hospitality sadly at fault,
+            and they all fell to. <character>Grace Hickson</character> would have thought her hospitality sadly at fault,
             if she had allowed <character ref="Captain Holdernesse">Captain Holdernesse
             </character>to go out in search of a bed. Skins were spread for him on the floor of the
             keeping-room; a Bible, and a square bottle of spirits were placed on the table, to
             supply his wants during the night; and in spite of all the cares and troubles,
             temptations, or sins of the members of that household, they were all asleep before the
             town clock struck ten.</p>
-        <p> In the morning, the <character ref="Captain Holdernesse">captain's </character>first
-            care was to go out in search of the boy Elias, and the missing letter. He met him
-            bringing it with an easy conscience, for, thought Elias, a few hours sooner or later
+        <p tone="ironic"> In the morning, the <character ref="Captain Holdernesse">captain's </character>first
+            care was to go out in search of the boy <character>Elias</character>, and the missing letter. He met him
+            bringing it with an easy conscience, for, thought <character>Elias</character>, a few hours sooner or later
             will make no difference; to-night or the morrow morning will be all the same. But he was
             startled into a sense of wrong-doing by a sound box on the ear, from the very man who
             had charged him to deliver it speedily, and whom he believed to be at that very moment
-            in Boston city.</p>
-        <p> The letter delivered, all possible proof being given that <character ref="Lois Barclay"
+            in <place>Boston city</place>.</p>
+        <p tone="serious"> The letter delivered, all possible proof being given that <character ref="Lois Barclay"
                 >Lois</character> had a right to claim a home from her nearest relations,<character
                 ref="Captain Holdernesse">Captain Holdernesse</character> thought it best to take
             leave.</p>
-        <p>
+        <p tone="sadness">
             <quote>'Thou'</quote>lt take to them, lass, maybe, when there is no one here to make
             thee think on the old country. Nay, nay! parting is hard work at all times, and best get
             hard work done out of hand. Keep up thine heart, my wench, and I'll come back and see
             thee next spring, if we are all spared till then; and who knows what fine young miller
             mayn't come with me? Don't go and get wed to a praying Puritan, meanwhile. There,
             there—i'm off! God bless thee!'</p>
-        <p> And <character ref="Lois Barclay">Lois</character> was left alone in <place>New
+        <p tone="sadness"> And <character ref="Lois Barclay">Lois</character> was left alone in <place>New
                 England</place>.</p>
     </chapter>
-    <chapter n="2">Chapter 2 <p> It was hard up-hill work for <character ref="Lois Barclay"
+    <chapter n="2">Chapter 2 <p tone="sadness"> It was hard up-hill work for <character ref="Lois Barclay"
                 >Lois</character> to win herself a place in this family. Her aunt was a woman of
             narrow, strong affections. Her love for her husband, if ever she had any, was burnt out
             and dead long ago. What she did for him she did from duty; but duty was not strong
             enough to restrain that little member the tongue; and <character ref="Lois Barclay"
                 >Lois</character>'s heart often bled at the continual flow of contemptuous reproof
-            which Grace constantly addressed to her husband, even while she was sparing no pains or
+            which <character>Grace</character> constantly addressed to her husband, even while she was sparing no pains or
             trouble to minister to his bodily ease and comfort. It was more as a relief to herself
             that she spoke in this way, than with any desire that her speeches should affect him;
             and he was too deadened by illness to feel hurt by them; or, it may be, the constant
@@ -720,7 +724,7 @@
             pleasure, but apparently to no one else in that household. Her aunt looked askance at
             her for many reasons: the first coming of <character ref="Lois Barclay">Lois</character>
             to Salem was inopportune, the expression of disapprobation on her face on that evening
-            still lingered and rankled in Grace's memory, early prejudices, and feelings, and
+            still lingered and rankled in <character>Grace's</character> memory, early prejudices, and feelings, and
             prepossessions of the English girl were all on the side of what would now be called
             Church and State, what was then esteemed in that country a superstitious observance of
             the directions of a Popish rubric, and a servile regard for the family of an oppressing
@@ -731,7 +735,7 @@
             and <character ref="Manasseh">Manasseh</character> it was more than want of sympathy; it
             was positive, active antipathy to all the ideas <character ref="Lois Barclay"
                 >Lois</character> held most dear. The very allusion, however incidentally made, to
-            the little old grey church at Barford, where her father had preached so long,—the
+            the little old grey church at <place>Barford</place>, where her father had preached so long,—the
             occasional reference to the troubles in which her own country had been distracted when
             she left,—and the adherence, in which she had been brought up, to the notion that the
             king could do no wrong, seemed to irritate <character ref="Manasseh"
@@ -739,18 +743,18 @@
             employment when at home, and walk angrily about the room after <character
                 ref="Lois Barclay">Lois</character> had said anything of this kind, muttering to
             himself; and once he had even stopped before her, and in a passionate tone bade her not
-            talk so like a fool. Now this was very different to his mother<quote>'s sarcastic,
+            talk so like a fool. Now this was very different to his mother's sarcastic,
                 contemptuous way of treating all poor <character ref="Lois Barclay"
-                >Lois</character>'</quote>s little loyal speeches. Grace would lead her on—at least
+                >Lois's</character> little loyal speeches. <character>Grace</character> would lead her on—at least
             she did at first, till experience made <character ref="Lois Barclay">Lois</character>
             wiser—to express her thoughts on such subjects, till, just when the girl's heart was
             opening, her aunt would turn round upon her with some bitter sneer that roused all the
-            evil feelings in <character ref="Lois Barclay">Lois</character>'s disposition by its
+            evil feelings in <character ref="Lois Barclay">Lois's</character> disposition by its
             sting. Now <character ref="Manasseh">Manasseh</character> seemed, through all his anger,
             to be so really grieved by what he considered her error, that he went much nearer to
             convincing her that there might be two sides to a question. Only this was a view, that
             it appeared like treachery to her dead father's memory to entertain.</p>
-        <p> Somehow, <character ref="Lois Barclay">Lois</character> felt instinctively that
+        <p tone="serious"> Somehow, <character ref="Lois Barclay">Lois</character> felt instinctively that
                 <character ref="Manasseh">Manasseh</character> was really friendly towards her. He
             was little in the house; there was farming, and some kind of mercantile business to be
             transacted by him, as real head of the house; and as the season drew on, he went
@@ -761,14 +765,14 @@
             generally some household errand to be transacted when any of the women of the family
             went abroad; but once or twice she had caught glimpses of the dreary, dark wood, hemming
             in the cleared land on all sides,—the great wood with its perpetual movement of branch
-            and bough, and its solemn wail, that came into the very streets of Salem when certain
+            and bough, and its solemn wail, that came into the very streets of <place>Salem</place> when certain
             winds blew, bearing the sound of the pine-trees clear upon the ears that had leisure to
             listen. And from all accounts, this old forest, girdling round the settlement, was full
             of dreaded and mysterious beasts, and still more to be dreaded Indians, stealing in and
             out among the shadows, intent on bloody schemes against the Christian people;
             panther-streaked, shaven Indians, in league by their own confession, as well as by the
             popular belief, with evil powers.</p>
-        <p>
+        <p tone="fear">
             <character ref="Nattee">Nattee</character>, the old Indian servant, would occasionally
             make <character ref="Lois Barclay">Lois</character>'s blood run cold as she and
                 <character ref="Faith">Faith</character> and <character ref="Prudence"
@@ -814,14 +818,14 @@
             praiseworthy in some, became, from superstition, cruel persecutors about this time,
             showing no mercy towards any one whom they believed to be in league with the Evil
             One.</p>
-        <p>
+        <p tone="serious">
             <character ref="Faith">Faith</character> was the person with whom the English girl was
             the most intimately associated in her uncle's house. The two were about the same age,
             and certain household employments were shared between them. They took it in turns to
             call in the cows, to make up the butter which had been churned by Hosea, a stiff old
             out-door servant, in whom Grace Hickson placed great confidence; and each lassie had her
             great spinning-wheel for wool, and her lesser for flax, before a month had elapsed after
-                <character ref="Lois Barclay">Lois</character>'s coming. <character ref="Faith"
+                <character ref="Lois Barclay">Lois's</character> coming. <character ref="Faith"
                 >Faith</character> was a grave, silent person, never merry, sometimes very sad,
             though <character ref="Lois Barclay">Lois</character> was a long time in even guessing
             why. She would try in her sweet, simple fashion to cheer her cousin up, when the latter
@@ -829,10 +833,10 @@
                 <character ref="Faith">Faith</character> seemed to care to listen, occasionally she
             did not heed one word, but dreamed on. Whether of the past or of the future, who could
             tell?</p>
-        <p> Stern old ministers came in to pay their pastoral visits. On such occasions, Grace
-            Hickson would put on clean apron and clean cap, and make them more welcome than she was
+        <p tone="cynical"> Stern old ministers came in to pay their pastoral visits. On such occasions, <character>Grace
+            Hickson </character>would put on clean apron and clean cap, and make them more welcome than she was
             ever seen to do no one else, bringing out the best provisions of her store, and setting
-            of all before them. Also, the great Bible was brought forth, and Hosea and <character
+            of all before them. Also, the great Bible was brought forth, and <character>Hosea</character> and <character
                 ref="Nattee">Nattee</character> summoned from their work to listen while the
             minister read a chapter, and, as he read, expounded it at considerable length. After
             this all knelt, while he, standing, lifted up his right hand, and prayed for all
@@ -845,63 +849,63 @@
             his visit, she became aware that he received both his impressions and his knowledge
             through the medium of <quote>'that godly woman, <character ref="Grace Hickson">Grace
                     Hickson</character>;'</quote> and I am afraid she paid less regard to the prayer
-            'for the maiden from another land, who hath brought the errors of that land as a seed
+           <quote> 'for the maiden from another land, who hath brought the errors of that land as a seed
             with her, even across the great ocean, and who is letting even now the little seeds
-            shoot up into an evil tree, in which all unclean creatures may find shelter.'</p>
-        <p>
+            shoot up into an evil tree, in which all unclean creatures may find shelter.'</quote></p>
+        <p tone="serious">
             <quote>'I like the prayers of our Church better,'</quote> said <character
                 ref="Lois Barclay">Lois</character>, one day to <character ref="Faith"
-                >Faith</character>. 'No clergyman in England can pray his own words, and therefore
+                >Faith</character>.<quote> 'No clergyman in England can pray his own words, and therefore
             it is that he cannot judge of others so as to fit his prayers to what he esteems to be
-            their case, as Mr. Tappau did this morning.'</p>
-        <p>
+            their case, as <character>Mr. Tappau </character>did this morning.'</quote></p>
+        <p tone="anger">
             <quote>'I hate Mr. Tappau!'</quote> said <character ref="Faith">Faith</character>,
             shortly, a passionate flash of light coming out of her dark, heavy eyes.</p>
-        <p> 'Why so cousin? It seems to me as if he were a good man, although I like not his
-            prayers.'</p>
-        <p>
+        <p tone="serious"> <quote>'Why so cousin? It seems to me as if he were a good man, although I like not his
+            prayers.'</quote></p>
+        <p tone="anger">
             <character ref="Faith">Faith</character> only repeated her words, <quote>'I hate
                 him.'</quote></p>
-        <p>
+        <p tone="anger">
             <character ref="Lois Barclay">Lois</character> was sorry for this strong bad feeling;
             instinctively sorry, for she was loving herself, delighted in being loved, and felt a
             jar run through her at every sign of want of love in others. But she did not know what
             to say, and was silent at the time. <character ref="Faith">Faith</character>, too, went
             on turning her wheel with vehemence, but spoke never a word until her thread snapped,
             and then she pushed the wheel away hastily and left the room.</p>
-        <p> Then <character ref="Prudence">Prudence</character> crept softly up to <character
-                ref="Lois Barclay">Lois</character>'s side. This strange child seemed to be tossed
+        <p tone="serious"> Then <character ref="Prudence">Prudence</character> crept softly up to <character
+                ref="Lois Barclay">Lois's</character> side. This strange child seemed to be tossed
             about by varying moods: to-day she was caressing and communicative, to-morrow she might
             be deceitful, mocking, and so indifferent to the pain or sorrows of others that you
             could call her almost inhuman.</p>
-        <p>
+        <p tone="suspenseful">
             <quote>'So thou dost not like <character ref="Pastor Tappau">Pastor
-                Tappau</character>'</quote>s prayers?' she whispered.</p>
-        <p>
+                Tappau's</character> prayers?' </quote> she whispered.</p>
+        <p tone="serious">
             <character ref="Lois Barclay">Lois</character> was sorry to have been overheard, but she
             neither would nor could take back her words.</p>
-        <p>
+        <p tone="sadness">
             <quote>'I like them not so well as the prayers I used to hear at home.'</quote></p>
-        <p>
-            <quote>'Mother says thy home was with the ungodly. Nay, don'</quote>t look at me so—it
+        <p tone="suspenseful">
+            <quote>'Mother says thy home was with the ungodly. Nay, don't look at me so—it
             was not I that said it. I'm none so fond of praying myself, nor of <character
                 ref="Pastor Tappau">Pastor Tappau</character> for that matter. But <character
                 ref="Faith">Faith</character> cannot abide him, and I know why. Shall I tell thee,
-            cousin <character ref="Lois Barclay">Lois</character>?'</p>
-        <p>
+            cousin <character ref="Lois Barclay">Lois</character>?'</quote></p>
+        <p tone="serious">
             <quote>'No! <character ref="Faith">Faith</character> did not tell me, and she was the
                 right person to give her own reasons.'</quote></p>
-        <p> 'Ask her where young Mr. Nolan is gone to, and thou wilt hear. I have seen <character
-                ref="Faith">Faith</character> cry by the hour together about Mr. Nolan.'</p>
-        <p>
+        <p tone="suspenseful"> '<quote>Ask her where young <character>Mr. Nolan </character>is gone to, and thou wilt hear. I have seen <character
+                ref="Faith">Faith</character> cry by the hour together about <character>Mr. Nolan</character>.'</quote></p>
+        <p tone="suspenseful">
             <quote>'Hush, child, hush!'</quote> said <character ref="Lois Barclay">Lois</character>,
-            for she heard <character ref="Faith">Faith</character>'s approaching step, and feared
+            for she heard <character ref="Faith">Faith's</character> approaching step, and feared
             lest she should overhear what they were saying.</p>
-        <p> The truth was that, a year or two before, there had been a great struggle in Salem
+        <p tone="serious"> The truth was that, a year or two before, there had been a great struggle in <place>Salem</place>
             village, a great division in the religious body, and <character ref="Pastor Tappau"
                 >Pastor Tappau</character> had been the leader of the more violent, and, ultimately,
-            the successful party. In consequence of this, the less popular minister, Mr. Nolan, had
-            had to leave the place. And him <character ref="Faith">Faith</character> Hickson loved
+            the successful party. In consequence of this, the less popular minister,<character> Mr. Nolan,</character> had
+            had to leave the place. And him <character ref="Faith Hickson">Faith Hickson</character> loved
             with all the strength of her passionate heart, although he never was aware of the
             attachment he had excited, and her own family were too regardless of manifestations of
             mere feeling to ever observe the signs of any emotion on her part. But the old Indian
@@ -915,21 +919,21 @@
             alone of all the white people she loved) avoided the old minister,—would hide in the
             wood-stack sooner than be called in to listen to his exhortations and prayers. With
             savage, untutored people, it is not <quote>'Love me, love my dog,'</quote> they are
-            often jealous of the creature beloved; but it is, 'Whom thou hatest I will hate;<quote>'
-                and <character ref="Nattee">Nattee</character>'</quote>s feeling towards <character
+            often jealous of the creature beloved; but it is, <quote>'Whom thou hatest I will hate;'</quote>
+                and <character ref="Nattee">Nattee</character>'feeling towards <character
                 ref="Pastor Tappau">Pastor Tappau</character> was even an exaggeration of the mute
             unspoken hatred of <character ref="Faith">Faith</character>.</p>
-        <p> For a long time, the cause of her cousin's dislike and avoidance of the minister was a
+        <p tone="serious"> For a long time, the cause of her cousin's dislike and avoidance of the minister was a
             mystery to <character ref="Lois Barclay">Lois</character>; but the name of Nolan
             remained in her memory whether she would or no, and it was more from girlish interest in
             a suspected love affair, than from any indifferent and heartless curiosity, that she
             could not help piecing together little speeches and actions, with <character ref="Faith"
-                >Faith</character>'s interest in the absent banished minister, for an explanatory
+                >Faith's</character> interest in the absent banished minister, for an explanatory
             clue, till not a doubt remained in her mind. And this without any further communication
             with <character ref="Prudence">Prudence</character>, for <character ref="Lois Barclay"
                 >Lois</character> declined hearing any more on the subject from her, and so gave
             deep offence.</p>
-        <p>
+        <p tone="sadness">
             <character ref="Faith">Faith</character> grew sadder and duller as the autumn drew on.
             She lost her appetite, her brown complexion became sallow and colourless, her dark eyes
             looked hollow and wild. The first of November was near at hand. <character
@@ -949,7 +953,7 @@
                 >Faith</character> seemed to be growing restless even to convulsive motions of her
             limbs, <character ref="Lois Barclay">Lois</character> began to speak, to talk about
             England, and the dear old ways at home, without exciting much attention on <character
-                ref="Faith">Faith</character>'s part, until at length she fell upon the subject of
+                ref="Faith">Faith's</character> part, until at length she fell upon the subject of
             Hallow-e'en, and told about customs then and long afterwards practised in England, and
             that have scarcely yet died out in Scotland. As she told of tricks she had often played,
             of the apple eaten facing a mirror, of the dripping sheet, of the basins of water, of
@@ -962,65 +966,65 @@
             all seekers in the accustomed methods, half believing, half incredulous herself, but
             desiring, above all things, to cheer up poor <character ref="Faith"
             >Faith</character>.</p>
-        <p> Suddenly, <character ref="Prudence">Prudence</character> rose up from her truckle-bed in
+        <p tone="suspenseful"> Suddenly, <character ref="Prudence">Prudence</character> rose up from her truckle-bed in
             the dim corner of the room. They had not thought that she was awake, but she had been
             listening long.</p>
-        <p> 'Cousin <character ref="Lois Barclay">Lois</character> may go out and meet Satan by the
+        <p> <quote>'Cousin <character ref="Lois Barclay">Lois</character> may go out and meet Satan by the
             brook-side if she will, but if thou goest, <character ref="Faith">Faith</character>, I
             will tell mother—ay, and I will tell <character ref="Pastor Tappau">Pastor
                 Tappau</character>, too. Hold thy stories, Cousin <character ref="Lois Barclay"
                 >Lois</character>, I am afeard of my very life. I would rather never be wed at all,
             than feel the touch of the creature that would take the apple out of my hand, as I held
-            it over my left shoulder.' The excited girl gave a loud scream of terror at the image
+            it over my left shoulder.'</quote> The excited girl gave a loud scream of terror at the image
             her fancy had conjured up. <character ref="Faith">Faith</character> and <character
                 ref="Lois Barclay">Lois</character> sprang out towards her, flying across the
             moonlit room in their white nightgowns. At the same instant, summoned by the same cry,
                 <character ref="Grace Hickson">Grace Hickson</character> came to her child.</p>
-        <p>
+        <p tone="serious">
             <quote>'Hush! hush!'</quote> said <character ref="Faith">Faith</character>,
             authoritatively.</p>
-        <p>
-            <quote>'What is it, my wench?'</quote> asked Grace. While <character ref="Lois Barclay"
+        <p tone="fear">
+            <quote>'What is it, my wench?'</quote> asked <character>Grace</character>. While <character ref="Lois Barclay"
                 >Lois</character>, feeling as if she had done all the mischief, kept silence.</p>
-        <p>
+        <p tone="fear">
             <quote>'Take her away, take her away!'</quote> screamed <character ref="Prudence"
-                >Prudence</character>. 'Look over her shoulder—her left shoulder—the Evil One is
-            there now, I see him stretching over for the half-bitten apple.'</p>
-        <p>
-            <quote>'What is this she says?'</quote> said Grace, austerely.</p>
-        <p>
+                >Prudence</character>. <quote>'Look over her shoulder—her left shoulder—the Evil One is
+            there now, I see him stretching over for the half-bitten apple.'</quote></p>
+        <p tone="anger">
+            <quote>'What is this she says?'</quote> said <character>Grace</character>, austerely.</p>
+        <p tone="serious">
             <quote>'She is dreaming,'</quote> said <character ref="Faith">Faith</character>;
                     <quote>'<character ref="Prudence">Prudence</character>, hold thy
                 tongue.'</quote> And she pinched the child severely, while <character
                 ref="Lois Barclay">Lois</character> more tenderly tried to soothe the alarms she
             felt that she had conjured up.</p>
-        <p>
+        <p tone="serious">
             <quote>'Be quiet, <character ref="Prudence">Prudence</character>,'</quote> said she,
-            'and go to sleep. I will stay by thee till thou hast gone off into slumber.'</p>
-        <p>
+           <quote> 'and go to sleep. I will stay by thee till thou hast gone off into slumber.'</quote></p>
+        <p tone="anger">
             <quote>'No, go! go away,'</quote> sobbed <character ref="Prudence">Prudence</character>,
             who was really terrified at first, but was now assuming more alarm: than she felt, if
             from the pleasure she received at perceiving herself the centre of attention.
-                '<character ref="Faith">Faith</character> shall stay by me, not you, wicked English
-            witch!'</p>
-        <p> So <character ref="Faith">Faith</character> sat by her sister; and Grace, displeased and
+               <quote> '<character ref="Faith">Faith</character> shall stay by me, not you, wicked English
+            witch!'</quote></p>
+        <p tone="suspenseful"> So <character ref="Faith">Faith</character> sat by her sister; and <character>Grace</character>, displeased and
             perplexed, withdrew to her own bed, purposing to inquire more into the matter in the
             morning. <character ref="Lois Barclay">Lois</character> only hoped it might all be
             forgotten by that time, and resolved never to talk again of such things. But an event
             happened in the remaining hours of the night to change the current of affairs. While
-            Grace had been absent from her room, her husband had had another paralytic stroke:
+            <character>Grace</character> had been absent from her room, her husband had had another paralytic stroke:
             whether he, too, had been alarmed by that eldritch scream no one could ever know. By the
             faint light of the rush candle burning at the bedside, his wife perceived that a great
             change had taken place in his aspect on her return: the irregular breathing came almost
             like snorts—the end was drawing near. The family were roused, and all help given that
             either the doctor or experience could suggest. But before the late November morning
             light, all was ended for <character ref="Ralph Hickson">Ralph Hickson</character>.</p>
-        <p> The whole of the ensuing day, they sat or moved in darkened rooms, and spoke few words,
+        <p tone="serious"> The whole of the ensuing day, they sat or moved in darkened rooms, and spoke few words,
             and those below their breath. <character ref="Manasseh">Manasseh</character> kept at
             home, regretting his father, no doubt, but showing little emotion. <character
                 ref="Faith">Faith</character> was the child that bewailed her loss most grievously;
             she had a warm heart, hidden away somewhere under her moody exterior, and her father had
-            shown her far more passive kindness than ever her mother had done, for Grace made
+            shown her far more passive kindness than ever her mother had done, for <character>Grace</character> made
             distinct favourites of <character ref="Manasseh">Manasseh</character>, her only son, and
                 <character ref="Prudence">Prudence</character>, her youngest child. <character
                 ref="Lois Barclay">Lois</character> was about as unhappy as any of them, for she had
@@ -1031,34 +1035,34 @@
             active part: the change required in their dress, the household preparations for the sad
             feast of the funeral—<character ref="Lois Barclay">Lois</character> had to arrange all
             under her aunt's stern direction.</p>
-        <p> But a day or two afterwards—the last day before the funeral—she went into the yard to
+        <p tone="sadness"> But a day or two afterwards—the last day before the funeral—she went into the yard to
             fetch in some fagots for the oven; it was a solemn, beautiful, starlit evening, and some
             sudden sense of desolation in the midst of the vast universe thus revealed touched
-                <character ref="Lois Barclay">Lois</character>'s heart, and she sat down behind the
+                <character ref="Lois Barclay">Lois's</character> heart, and she sat down behind the
             woodstack, and cried very plentiful tears.</p>
-        <p> She was startled by <character ref="Manasseh">Manasseh</character>, who suddenly turned
+        <p tone="suspenseful"> She was startled by <character ref="Manasseh">Manasseh</character>, who suddenly turned
             the corner of the stack, and stood before her.</p>
-        <p>
+        <p tone="suspenseful">
             <quote>'<character ref="Lois Barclay">Lois</character> crying!'</quote></p>
-        <p>
+        <p tone="suspenseful">
             <quote>'Only a little,'</quote> she said, rising up, and gathering her bundle of fagots,
             for she dreaded being questioned by her grim, impassive cousin. To her surprise, he laid
             his hand on her arm, and said:</p>
-        <p>
+        <p tone="suspenseful">
             <quote>'Stop one minute. Why art thou crying, cousin?'</quote></p>
-        <p>
-            <quote>'I don'</quote>t know,' she said, just like a child questioned in like manner;
+        <p tone="sadness">
+            <quote>'I don't know,' </quote>she said, just like a child questioned in like manner;
             and she was again on the point of weeping.</p>
-        <p> 'My father was very kind to thee, <character ref="Lois Barclay">Lois</character>; I do
+        <p tone="serious"> '<quote>My father was very kind to thee, <character ref="Lois Barclay">Lois</character>; I do
             not wonder that thou grievest after him. But the Lord who taketh away can restore
             tenfold. I will be as kind as my father—yea, kinder. This is not a time to talk of
             marriage and giving in marriage. But after we have buried our dead, I wish to speak to
-            thee.'</p>
-        <p>
+            thee.</quote>'</p>
+        <p tone="suspenseful">
             <character ref="Lois Barclay">Lois</character> did not cry now, but she shrank with
             affright. What did her cousin mean? She would far rather that he had been angry with her
             for unreasonable grieving, for folly.</p>
-        <p> She avoided him carefully—as carefully as she could, without seeming to dread him—for
+        <p tone="fear"> She avoided him carefully—as carefully as she could, without seeming to dread him—for
             the next few days. Sometimes she thought it must have been a bad dream; for if there had
             been no English lover in the case, no other man in the whole world, she could never have
             thought of <character ref="Manasseh">Manasseh</character> as her husband; indeed, till
@@ -1068,7 +1072,7 @@
             black hair, his grey coarse skin, all made her dislike him now—all his personal ugliness
             and ungainliness struck on her senses with a jar, since those few words spoken behind
             the haystack.</p>
-        <p> She knew that sooner or later the time must come for further discussion of this subject;
+        <p tone="serious"> She knew that sooner or later the time must come for further discussion of this subject;
             but, like a coward, she tried to put it off, by clinging to her aunt's apron-string, for
             she was sure that <character ref="Grace Hickson">Grace Hickson</character> had far
             different views for her only son. As, indeed, she had, for she was an ambitious, as well
@@ -1081,19 +1085,19 @@
             actions. The righteousness and godliness were patent to every one's eyes. So <character
                 ref="Grace Hickson">Grace Hickson</character> thought herself entitled to pick and
             choose among the maidens, before she should meet with one fitted to be <character
-                ref="Manasseh">Manasseh</character>'s wife. None in Salem came up to her imaginary
+                ref="Manasseh">Manasseh</character>'s wife. None in <place>Salem</place> came up to her imaginary
             standard. She had it in her mind even at this very time—so soon after her husband's
-            death—to go to Boston, and take counsel with the leading ministers there, with worthy
-            Mr. Cotton Mather at their head, and see if they could tell her of a well-favoured and
+            death—to go to <place>Boston</place>, and take counsel with the leading ministers there, with worthy
+           <character> Mr. Cotton Mather</character> at their head, and see if they could tell her of a well-favoured and
             godly young maiden in their congregations worthy of being the wife of her son. But,
             besides good looks and godliness, the wench must have good birth, and good wealth, or
                 <character ref="Grace Hickson">Grace Hickson</character> would have put her
             contemptuously on one side. When once this paragon was found, the ministers had
-            approved, Grace anticipated no difficulty on her son's part. So <character
+            approved, <character>Grace</character> anticipated no difficulty on her son's part. So <character
                 ref="Lois Barclay">Lois</character> was right in feeling that her aunt would dislike
             any speech of marriage between <character ref="Manasseh">Manasseh</character> and
             herself.</p>
-        <p> But the girl was brought to bay one day in this wise. <character ref="Manasseh"
+        <p tone="suspenseful"> But the girl was brought to bay one day in this wise. <character ref="Manasseh"
                 >Manasseh</character> had ridden forth on some business, which every one said would
             occupy him the whole day; but, meeting the man with whom he had to transact his affairs,
             he returned earlier than any one expected. He missed <character ref="Lois Barclay"
@@ -1107,96 +1111,96 @@
             hardly aware of his approach, until she lifted up her head and saw him standing close
             before her. She dropped the apple she was holding, went a little paler than her wont,
             and faced him in silence.</p>
-        <p>
-            <quote>'<character ref="Lois Barclay">Lois</character>,'</quote> he said, 'thou
+        <p tone="serious">
+            <quote>'<character ref="Lois Barclay">Lois</character>,'</quote> he said, <quote>'thou
             rememberest the words that I spoke while we yet mourned over my father. I think that I
             am called to marriage now, as the head of this household. And I have seen no maiden so
-            pleasant in my sight as thou art, <character ref="Lois Barclay">Lois</character>!' He
+            pleasant in my sight as thou art, <character ref="Lois Barclay">Lois</character>!'</quote> He
             tried to take her hand. But she put it behind her with a childish shake of her head,
             and, half-crying, said:</p>
-        <p> 'Please, Cousin <character ref="Manasseh">Manasseh</character>, do not say this to me. I
+        <p tone="sadness"> <quote>'Please, Cousin <character ref="Manasseh">Manasseh</character>, do not say this to me. I
             dare say you ought to be married, being the head of the household now; but I don't want
-            to be married. I would rather not.'</p>
-        <p>
-            <quote>'That is well spoken,'</quote> replied he, frowning a little, nevertheless. 'I
+            to be married. I would rather not.'</quote></p>
+        <p tone="serious">
+            <quote>'That is well spoken,'</quote> replied he, frowning a little, nevertheless. <quote>'I
             should not like to take to wife an over-forward maiden, ready to jump at wedlock.
             Besides, the congregation might talk, if we were to be married too soon after my
             father's death. We have, perchance, said enough, even now. But I wished thee to have thy
             mind set at ease as to thy future well-doing. Thou wilt have leisure to think of it, and
-            to bring thy mind more fully round to it.' Again he held out his hand. This time she
+            to bring thy mind more fully round to it.' </quote>Again he held out his hand. This time she
             took hold of it with a free, frank gesture.</p>
-        <p> 'I owe you somewhat for your kindness to me ever since I came, Cousin <character
+        <p tone="serious"> <quote>'I owe you somewhat for your kindness to me ever since I came, Cousin <character
                 ref="Manasseh">Manasseh</character>; and I have no way of paying you but by telling
-            you truly I can love you as a dear friend, if you will let me, but never as a wife.'</p>
-        <p> He flung her hand away, but did not take his eyes off her face, though his glance was
+            you truly I can love you as a dear friend, if you will let me, but never as a wife.'</quote></p>
+        <p tone="serious"> He flung her hand away, but did not take his eyes off her face, though his glance was
             lowering and gloomy. He muttered something which she did not quite hear, and so she went
             on bravely although she kept trembling a little, and had much ado to keep from
             crying.</p>
-        <p> 'Please let me tell you all. There was a young man in Barford—nay, <character
+        <p tone="serious"> <quote>'Please let me tell you all. There was a young man in Barford—nay, <character
                 ref="Manasseh">Manasseh</character>, I cannot speak if you are so angry; it is hard
             work to tell you any how—he said that he wanted to marry me; but I was poor, and his
             father would have none of it, and I do not want to marry any one; but if I did, it would
-            be—' Her voice dropped, and her blushes told the rest. <character ref="Manasseh"
+            be—' </quote>Her voice dropped, and her blushes told the rest. <character ref="Manasseh"
                 >Manasseh</character> stood looking at her with sullen, hollow eyes, that had a
             glittering touch of wilderness in them, and then he said:</p>
-        <p> 'It is borne in upon me—verily I see it as in a vision—that thou must be my spouse, and
+        <p tone="serious"> <quote>'It is borne in upon me—verily I see it as in a vision—that thou must be my spouse, and
             no other man's. Thou canst not escape what is foredoomed. Months ago, when I set myself
             to read the old godly books in which my soul used to delight until thy coming, I saw no
             letters of printers' ink marked on the page, but I saw a gold and ruddy type of some
-            unknown language, the meaning whereof was whispered into my soul; it was, "Marry
+            unknown language, the meaning whereof was whispered into my soul; it was, <quote>"Marry
                 <character ref="Lois Barclay">Lois</character>! marry <character ref="Lois Barclay"
-                >Lois</character>!" And when my father died, I knew it was the beginning of the end.
-            It is the Lord<quote>'s will, <character ref="Lois Barclay">Lois</character>, and thou
+                >Lois</character>!"</quote> And when my father died, I knew it was the beginning of the end.
+            It is the Lord's will, <character ref="Lois Barclay">Lois</character>, and thou
                 canst not escape from it.'</quote> And again he would have taken her hand and drawn
             her towards him. But this time she eluded him with ready movement.</p>
-        <p>
-            <quote>'I do not acknowledge it be the Lord'</quote>s will, <character ref="Manasseh"
-                >Manasseh</character>,<quote>' said she. '</quote>It is not "borne in upon me," as
+        <p tone="serious">
+            <quote>'I do not acknowledge it be the Lord's will, <character ref="Manasseh"
+                >Manasseh</character>,'</quote> said she. '<quote>It is not "borne in upon me," as
             you Puritans call it, that I am to be your wife. I am none so set upon wedlock as to
             take you, even though there be no other chance for me. For I do not care for you as I
             ought to care for my husband. But I could have cared for you very much as a cousin—as a
-            kind cousin.'</p>
-        <p> She stopped speaking; she could not choose the right words with which to speak to him of
+            kind cousin.'</quote></p>
+        <p tone="sadness"> She stopped speaking; she could not choose the right words with which to speak to him of
             her gratitude and friendliness, which yet could never be any feeling nearer and dearer,
             no more than two parallel lines can ever meet.</p>
-        <p> But he was so convinced, by what he considered the spirit of prophecy, that <character
+        <p tone="serious"> But he was so convinced, by what he considered the spirit of prophecy, that <character
                 ref="Lois Barclay">Lois</character> was to be his wife, that he felt rather more
             indignant at what he considered to be her resistance to the preordained decree, than
             really anxious as to the result. Again he tried to convince her that neither he nor she
             had any choice in the matter, by saying:</p>
-        <p>
-            <quote>'The voice said unto me "Marry <character ref="Lois Barclay">Lois</character>,"
-                and I said, "I will, Lord."'</quote></p>
-        <p>
+        <p tone="serious">
+            <quote>'The voice said unto me <quote>"Marry <character ref="Lois Barclay">Lois</character>,"</quote>
+                and I said, <quote>"I will, Lord."</quote>'</quote></p>
+        <p tone="serious">
             <quote>'But,'</quote>
-            <character ref="Lois Barclay">Lois</character> replied, 'the voice, as you call it, has
-            never spoken such a word to me.'</p>
-        <p>
+            <character ref="Lois Barclay">Lois</character> replied,<quote> 'the voice, as you call it, has
+            never spoken such a word to me.'</quote></p>
+        <p tone="serious">
             <quote>'<character ref="Lois Barclay">Lois</character>,'</quote> he answered, solemnly,
-            'it will speak. And then wilt thou obey, even as Samuel did?'</p>
-        <p>
-            <quote>'No, indeed I cannot!'</quote> she answered, briskly. 'I may take a dream to be
+         <quote>   'it will speak. And then wilt thou obey, even as Samuel did?'</quote></p>
+        <p tone="serious">
+            <quote>'No, indeed I cannot!'</quote> she answered, briskly.<quote> 'I may take a dream to be
             truth, and hear my own fancies, if I think about them too long. But I cannot marry any
-            one from obedience.'</p>
-        <p> '<character ref="Lois Barclay">Lois</character>, <character ref="Lois Barclay"
+            one from obedience.'</quote></p>
+        <p tone="serious"><quote> '<character ref="Lois Barclay">Lois</character>, <character ref="Lois Barclay"
                 >Lois</character>, thou art as yet unregenerate; but I have seen thee in a vision as
             one of the elect, robed in white. As yet thy faith is too weak for thee to obey meekly,
             but it shall not always be so. I will pray that thou mayest see thy preordained course.
-            Meanwhile, I will smooth away all worldly obstacles.'</p>
-        <p>
+            Meanwhile, I will smooth away all worldly obstacles.'</quote></p>
+        <p tone="serious">
             <quote>'Cousin <character ref="Manasseh">Manasseh</character>! Cousin <character
                     ref="Manasseh">Manasseh</character>!'</quote> cried <character
-                ref="Lois Barclay">Lois</character> after him, as he was leaving the room, 'come
+                ref="Lois Barclay">Lois</character> after him, as he was leaving the room, <quote>'come
             back. I cannot put it in strong enough words. <character ref="Manasseh"
                 >Manasseh</character>, there is no power in heaven or earth that can make me love
             thee enough to marry thee, or to wed thee without such love. And this I say solemnly,
-            because it is better that this should end at once.'</p>
-        <p> For a moment he was staggered; then he lifted up his hands, and said,</p>
-        <p> 'God forgive thee thy blasphemy! Remember Hazael, who said, "Is thy servant a dog, that
-            he should do this great thing?" and went straight and did it, because his evil courses
+            because it is better that this should end at once.'</quote></p>
+        <p tone="serious"> For a moment he was staggered; then he lifted up his hands, and said,</p>
+        <p tone="serious"> <quote>'God forgive thee thy blasphemy! Remember Hazael, who said, <quote>"Is thy servant a dog, that
+            he should do this great thing?"</quote> and went straight and did it, because his evil courses
             were fixed and appointed for him from before the foundation of the world. And shall not
-            thy paths be laid out among the godly as it hath been foretold to me?'</p>
-        <p> He went away; and for a minute or two <character ref="Lois Barclay">Lois</character>
+            thy paths be laid out among the godly as it hath been foretold to me?</quote>'</p>
+        <p tone="suspenseful"> He went away; and for a minute or two <character ref="Lois Barclay">Lois</character>
             felt as if his words must come true, and that, struggle as she would, hate her doom as
             she would, she must become his wife; and, under the circumstances, many a girl would
             have succumbed to her apparent fate. Isolated from all previous connections, hearing no
@@ -1230,8 +1234,8 @@
             memorable time of <year>1691</year>-2, seem strange, and haunted, and terrific to many:
             peculiarly weird and awful to the English girl in her first year's sojourn in
             America.</p>
-        <p> And now imagine <character ref="Lois Barclay">Lois</character> worked upon perpetually
-            by <character ref="Manasseh">Manasseh</character>'s conviction that it was decreed that
+        <p tone="suspenseful"> And now imagine <character ref="Lois Barclay">Lois</character> worked upon perpetually
+            by <character ref="Manasseh">Manasseh's</character> conviction that it was decreed that
             she should be his wife, and you will see that she was not without courage and spirit to
             resist as she did, steadily, firmly, and yet sweetly. Take one instance out of many,
             when her nerves were subjected to a shock, slight in relation it is true, but then
@@ -1251,23 +1255,23 @@
             lowered tones. She sang, however, as she went, <quote>'to keep her courage
             up'</quote>—sang, however, in a subdued voice, the evening hymn she had so often sung in
             Barford church:</p>
-        <p>
+        <p tone="suspenseful">
             <quote>'Glory to Thee, my God, this night—'</quote></p>
-        <p> and so it was, I suppose, that she never heard the breathing or motion of any creature
+        <p tone="suspenseful"> and so it was, I suppose, that she never heard the breathing or motion of any creature
             near her till, just as she was loading herself with flax to carry down, she heard some
             one—it was <character ref="Manasseh">Manasseh</character>—say close to her ear:</p>
-        <p> 'Has the voice spoken yet? Speak, <character ref="Lois Barclay">Lois</character>! Has
-            the voice spoken yet to thee—that speaketh to me day and night, "Marry <character
-                ref="Lois Barclay">Lois</character>?"'</p>
-        <p> She started and turned a little sick, but spoke almost directly in a brave, clear
+        <p tone="serious"> <quote>'Has the voice spoken yet? Speak, <character ref="Lois Barclay">Lois</character>! Has
+            the voice spoken yet to thee—that speaketh to me day and night, <quote>"Marry <character
+                ref="Lois Barclay">Lois</character>?"</quote>'</quote></p>
+        <p tone="serious"> She started and turned a little sick, but spoke almost directly in a brave, clear
             manner:</p>
-        <p>
+        <p tone="serious">
             <quote>'No! Cousin <character ref="Manasseh">Manasseh</character>. And it never
                 will.'</quote></p>
-        <p>
+        <p tone="serious">
             <quote>'Then I must wait yet longer,'</quote> he replied, hoarsely, as if to himself.
-            'But all submission—all submission.'</p>
-        <p> At last a break came upon the monotony of the long, dark winter. The parishioners once
+           <quote> 'But all submission—all submission.'</quote></p>
+        <p tone="serious"> At last a break came upon the monotony of the long, dark winter. The parishioners once
             more raised the discussion whether—the parish extending as it did—it was not absolutely
             necessary for <character ref="Pastor Tappau">Pastor Tappau</character> to have help.
             This question had been mooted once before; and then <character ref="Pastor Tappau"
@@ -1278,24 +1282,24 @@
                 Tappau</character> could have been supposed to entertain so evil a passion. However
             that might be, two parties were speedily formed, the younger and more ardent being in
             favour of Mr. Nolan, the elder and more persistent—and, at the time, the more
-            numerous—clinging to the old grey-headed, dogmatic Mr. Tappau, who had married them,
+            numerous—clinging to the old grey-headed, dogmatic <character>Mr. Tappau</character>, who had married them,
             baptized their children, and was to them literally as a <quote>'pillar of the
-                church.'</quote> So Mr. Nolan left Salem, carrying away with him, possibly, more
-            hearts than that of <character ref="Faith">Faith</character> Hickson's; but certainly
+                church.'</quote> So<character> Mr. Nolan</character> left <place>Salem</place>, carrying away with him, possibly, more
+            hearts than that of <character ref="Faith Hickson">Faith Hickson's</character> ; but certainly
             she had never been the same creature since.</p>
-        <p> But now—Christmas, <year>1691</year>—one or two of the older members of the congregation
-            being dead, and some who were younger men having come to settle in Salem—Mr. Tappau
+        <p tone="serious"> But now—Christmas, <year>1691</year>—one or two of the older members of the congregation
+            being dead, and some who were younger men having come to settle in <place>Salem</place>—<character>Mr. Tappau</character>
             being also older, and, some charitably supposed, wiser—a fresh effort had been made, and
-            Mr. Nolan was returning to labour in ground apparently smoothed over. <character
+            <character>Mr. Nolan</character> was returning to labour in ground apparently smoothed over. <character
                 ref="Lois Barclay">Lois</character> had taken a keen interest in all the proceedings
-            for <character ref="Faith">Faith</character>'s sake,—far more than the latter did for
-            herself, any spectator would have said. <character ref="Faith">Faith</character>'s wheel
+            for <character ref="Faith">Faith's</character> sake,—far more than the latter did for
+            herself, any spectator would have said. <character ref="Faith">Faith's </character> wheel
             never went faster or slower, her thread never broke, her colour never came, her eyes
-            were never uplifted with sudden interest, all the time these discussions respecting Mr.
-            Nolan's return were going on. But <character ref="Lois Barclay">Lois</character>, after
+            were never uplifted with sudden interest, all the time these discussions respecting <character>Mr.
+            Nolan's </character>return were going on. But <character ref="Lois Barclay">Lois</character>, after
             the hint given by <character ref="Prudence">Prudence</character>, had found a clue to
             many a sigh and look of despairing sorrow, even without the help of <character
-                ref="Nattee">Nattee</character>'s improvised songs, in which, under strange
+                ref="Nattee">Nattee's</character> improvised songs, in which, under strange
             allegories, the helpless love of her favourite was told to ears heedless of all meaning,
             except those of the tender-hearted and sympathetic <character ref="Lois Barclay"
                 >Lois</character>. Occasionally, she heard a strange chant of the old Indian
@@ -1303,9 +1307,9 @@
             pipkin, from which the smell was, to say the least, unearthly. Once, on perceiving this
             odour in the keeping-room, <character ref="Grace Hickson">Grace Hickson</character>
             suddenly exclaimed:</p>
-        <p> '<character ref="Nattee">Nattee</character> is at her heathen ways again; we shall have
-            some mischief unless she is stayed.'</p>
-        <p> But <character ref="Faith">Faith</character>, moving quicker than ordinary, said
+        <p tone="serious"> <quote>'<character ref="Nattee">Nattee</character> is at her heathen ways again; we shall have
+            some mischief unless she is stayed.'</quote></p>
+        <p tone="serious"> But <character ref="Faith">Faith</character>, moving quicker than ordinary, said
             something about putting a stop to it, and so forestalled her mother's evident intention
             of going into the kitchen. <character ref="Faith">Faith</character> shut the door
             between the two rooms, and entered upon some remonstrance with <character ref="Nattee"

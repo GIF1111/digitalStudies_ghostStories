@@ -10,5 +10,5 @@ place = element place {text} #LS Does every story have places we can mark up?
 character = element character {(text,ref)} #LS can we mark characters consistently 
 ref = attribute ref {text}
 year = element year {xsd:int} 
-tone = attribute tone {'anger' | 'happiness' | 'cynical' | 'ironic' | 'suspenseful' | 'fear' | 'sadness' | 'serious'}
+tone = attribute tone {'anger' | 'happiness' | 'cynical' | 'ironic' | 'suspenseful' | 'fear' | 'sadness' | 'serious'| 'optimism' | 'n/a'}
 quote = element quote {(text|character|place|year|quote)*}
