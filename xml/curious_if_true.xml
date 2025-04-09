@@ -2,9 +2,9 @@
 <!-- The Project Gutenberg eBook of Curious, if True -->
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title tone="ironic">CURIOUS, IF TRUE</title>
-    <p>(Extract from a letter from <character ref="Richard Whittingham">Richard Whittingham</character>, Esq.)</p>
-    <p>
+    <title>CURIOUS, IF TRUE</title>
+    <p tone="n/a">(Extract from a letter from <character ref="Richard Whittingham">Richard Whittingham</character>, Esq.)</p>
+    <p tone="ironic">
        You were formerly so much amused at my pride in my descent from that
             sister of Calvin's, who married a <character ref="Richard Whittingham">Whittingham</character>, Dean of <place>Durham</place>, that I doubt if you will
             be able to enter into the regard for my distinguished relation that has led me to
@@ -14,7 +14,7 @@
             hear of them; but something so curious befell me one evening last August, that if I had
             not been perfectly certain I was wide awake, I might have taken it for a
         dream.</p>
-    <p>For the purpose I have named, it was necessary that I should make
+    <p tone="ironic">For the purpose I have named, it was necessary that I should make
             <place>Tours</place> my head-quarters for a time. I had traced descendants of the Calvin family out of
             <place>Normandy</place> into the centre of <place>France</place>; but I found it was necessary to have a kind of
             permission from the bishop of the diocese before I could see certain family papers,
@@ -31,7 +31,7 @@
             better employed in lounging on a bench in the Boulevards, lazily listening to the
             distant band, and noticing with equal laziness the faces and figures of the women who
             passed by.</p>
-    <p> One Thursday evening, the 18th of August it was, I think, I
+    <p tone="suspenseful"> One Thursday evening, the 18th of August it was, I think, I
             had gone further than usual in my walk, and I found that it was later than I had
             imagined when I paused to turn back. I fancied I could make a round; I had enough notion
             of the direction in which I was, to see that by turning up a narrow straight lane to my
@@ -64,7 +64,7 @@
             going up into the dim starlight. And more to the purpose still, though I could not see
             the details of the building that I was now facing, it was plain enough that there were
             lights in many windows, as if some great entertainment was going on.</p>
-    <p>
+    <p tone="ironic">
         
             <quote>'They are hospitable people, at any rate,'</quote> thought I. <quote>'Perhaps
                 they will give me a bed. I don't suppose French propriétaires have traps and
@@ -73,7 +73,7 @@
             animal, <place>Lion d'Or</place>. I am not proud, and I am dog-tired. I am not above hanging on behind,
                 if need be.'</quote>
     </p>
-    <p>So, putting a little briskness and spirit into my walk, I went
+    <p tone="suspenseful">So, putting a little briskness and spirit into my walk, I went
             up to the door, which was standing open, most hospitably, and showing a large lighted
             hall, all hung round with spoils of the chase, armour, the details of which I had not
             time to notice, for the instant I stood on the threshold a huge porter appeared, in a
@@ -113,12 +113,12 @@
             salon, with nobody knew how many ladies and gentlemen assembled; but the obstinate old
             man was evidently bent upon taking me straight to his master, and paid no heed to my
             words.</p>
-    <p>The doors flew open, and I was ushered into a saloon curiously
+    <p tone="suspenseful">The doors flew open, and I was ushered into a saloon curiously
             full of pale light, which did not culminate on any spot, nor proceed from any centre,
             nor flicker with any motion of the air, but filled every nook and corner, making all
             things deliciously distinct; different from our light of gas or candle, as is the
             difference between a clear southern atmosphere and that of our misty <place>England</place>.</p>
-    <p>At the first moment, my arrival excited no attention, the
+    <p tone="suspenseful">At the first moment, my arrival excited no attention, the
             apartment was so full of people, all intent on their own conversation. But my friend the
             porter went up to a handsome lady of middle age, richly attired in that antique manner
             which fashion has brought round again of late years, and, waiting first in an attitude
@@ -126,7 +126,7 @@
             me, as far as I could guess from the gestures of the one and the sudden glance of the
             eye of the other.
     </p>
-    <p>She immediately came towards me with the most friendly actions of
+    <p tone="ironic">She immediately came towards me with the most friendly actions of
             greeting, even before she had advanced near enough to speak. Then,—and was it not
             strange?—her words and accent were that of the commonest peasant of the country. Yet she
             herself looked highbred, and would have been dignified had she been a shade less
@@ -138,7 +138,7 @@
             very extreme of that style of dress. I thought to myself that in <place>France</place>, as in <place>England</place>,
             it is the provincials who carry fashion to such an excess as to become
             ridiculous.</p>
-    <p>However, he spoke (still in the patois) of his pleasure in
+    <p tone="suspenseful">However, he spoke (still in the patois) of his pleasure in
             making my acquaintance, and led me to a strange uneasy easy-chair, much of a piece with
             the rest of the furniture, which might have taken its place without any anachronism by
             the side of that in the <place>Hôtel Cluny</place>. Then again began the clatter of French voices,
@@ -151,7 +151,7 @@
             small, but rather coarse-grained in texture, not quite so clean as they might have been,
             and altogether not so aristocratic-looking as the charming face. Her dress was of superb
             black velvet, ermine-trimmed, with diamonds thrown all abroad over it.</p>
-    <p>Not far from her stood the least little man I had ever seen; of
+    <p tone="ironic">Not far from her stood the least little man I had ever seen; of
             such admirable proportions no one could call him a dwarf, because with that word we
             usually associate something of deformity; but yet with an elfin look of shrewd, hard,
             worldly wisdom in his face that marred the impression which his delicate regular little
@@ -170,7 +170,7 @@
                 Besides, to settle the question, I once heard him addressed as Monsieur <character ref="Monsieur Poucet">Poucet</character>,
                 without any aristocratic '</quote>de' for a prefix; and nearly every one else in the
             room was a marquis, at any rate. </p>
-    <p>I say, <quote>'nearly every one;'</quote> for some strange
+    <p tone="suspenseful">I say, <quote>'nearly every one;'</quote> for some strange
             people had the entrée; unless, indeed, they were, like me, benighted. One of the guests
             I should have taken for a servant, but for the extraordinary influence he seemed to have
             over the man I took for his master, and who never did anything without, apparently,
@@ -194,7 +194,7 @@
             seemed to have obtained most complete sway over his master or patron, whose looks he
             watched, and whose steps he followed, with a kind of distrustful interest that puzzled
             me greatly.</p>
-    <p>There were several other groups in the more distant part of the
+    <p tone="ironic">There were several other groups in the more distant part of the
             saloon, all of the stately old school, all grand and noble, I conjectured from their
             bearing. They seemed perfectly well acquainted with each other, as if they were in the
             habit of meeting. But I was interrupted in my observations by the tiny little gentleman
@@ -202,7 +202,7 @@
             difficult matter to a Frenchman to slide into conversation, and so gracefully did my
             pigmy friend keep up the character of the nation, that we were almost confidential
             before ten minutes had elapsed.</p>
-    <p>Now I was quite aware that the welcome which all had extended to
+    <p tone="ironic">Now I was quite aware that the welcome which all had extended to
             me, from the porter up to the vivacious lady and meek lord of the castle, was intended
             for some other person. But it required either a degree of moral courage, of which I
             cannot boast, or the self-reliance and conversational powers of a bolder and cleverer
@@ -210,7 +210,7 @@
             the little man by my side insinuated himself so much into my confidence, that I had half
             a mind to tell him of my exact situation, and to turn him into a friend and an
             ally.</p>
-    <p><quote>'Madame is perceptibly growing older,'</quote> said he, in
+    <p tone="ironic"><quote>'Madame is perceptibly growing older,'</quote> said he, in
             the midst of my perplexity, glancing at our hostess. <quote>'Madame is still a very fine
                 woman,'</quote> replied I. <quote>'Now, is it not strange,'</quote> continued he,
             lowering his voice, <quote>'how women almost invariably praise the absent, or departed,
@@ -232,7 +232,7 @@
             the inquiry, as monsieur's face was bent down to mine with a look of polite anxiety; so
             I, in my turn, assumed an expression of gratitude, and assured him that, to the best of
             my belief, my cat was in remarkably good health.</p>
-    <p><quote>'And the climate agrees with her?'</quote>
+    <p tone="cynical"><quote>'And the climate agrees with her?'</quote>
             <quote>'Perfectly,'</quote> said I, in a maze of wonder at this deep solicitude in a
             tailless cat who had lost one foot and half an ear in some cruel trap. My host smiled a
             sweet smile, and, addressing a few words to my little neighbour, passed on. <quote>'How
@@ -266,7 +266,7 @@
             quite unconscious of his annoyance, or the smiles of the company, or the automatic
             solemnity of the waiting footman, or the perplexed anxiety of monsieur and
             madame.</p>
-    <p>My little friend sat down with a sneer, as if his curiosity was
+    <p tone="cynical">My little friend sat down with a sneer, as if his curiosity was
             quenched in contempt. <quote>'Moralists would make an infinity of wise remarks on that
                 scene,'</quote> said he. <quote>'In the first place, note the ridiculous position
                 into which their superstitious reverence for rank and title puts all these people.
@@ -276,7 +276,7 @@
                 experience, those poor lacqueys may have to stand for a century before that happens.
                 Next—always speaking as a moralist, you will observe—note how difficult it is to
                 break off bad habits acquired in youth!'</quote></p>
-    <p>Just then the prince succeeded, by what means I did not see, in
+    <p tone="ironic">Just then the prince succeeded, by what means I did not see, in
             awaking the beautiful sleeper. But at first she did not remember where she was, and
             looking up at her husband with loving eyes, she smiled and said: <quote>'Is it you, my
                 prince?'</quote> But he was too conscious of the suppressed amusement of the
@@ -286,7 +286,7 @@
             courage was in rather better plight than before, and I told my cynical little
             neighbour—whom I must say I was beginning to dislike—that I had lost my way in the wood,
             and had arrived at the <place>château</place> quite by mistake.</p>
-    <p>He seemed mightily amused at my story; said that the same thing
+    <p tone="cynical">He seemed mightily amused at my story; said that the same thing
             had happened to himself more than once; and told me that I had better luck than he had
             on one of these occasions, when, from his account, he must have been in considerable
             danger of his life. He ended his story by making me admire his boots, which he said he
@@ -296,7 +296,7 @@
                 railroads would seem to supersede the necessity for this description of
                 boots.'</quote>
     </p>
-    <p>When I consulted him as to whether I ought to make myself known
+    <p tone="cynical">When I consulted him as to whether I ought to make myself known
             to my host and hostess as a benighted traveller, instead of the guest whom they had
             taken me for, he exclaimed, <quote>'By no means! I hate such squeamish
                 morality.'</quote> And he seemed much offended by my innocent question, as if it
@@ -314,7 +314,7 @@
             pleasant smile, <quote>'I thought it was possible you might be weary of the malicious
                 sayings of your little neighbour. He has not borne the best character in his youth,
                 and such men are sure to be cynical in their old age.'</quote></p>
-    <p><quote>'Who is he?'</quote> asked I, with English abruptness.
+    <p tone="ironic"><quote>'Who is he?'</quote> asked I, with English abruptness.
                 <quote>'His name is <character ref="Monsieur Poucet">Poucet</character>, and his father was, I believe, a woodcutter, or charcoal
                 burner, or something of the sort. They do tell sad stories of connivance at murder,
                 ingratitude, and obtaining money on false pretences—but you will think me as bad as
@@ -338,7 +338,7 @@
                 the marquis, say it—say, "And both are charming."'</quote>
             <quote>'And both are charming,'</quote> was spoken aloud by another voice. I turned, and
             saw the wily cat-like chasseur, prompting his master to make civil speeches.</p>
-    <p>The ladies bowed with that kind of haughty acknowledgement which
+    <p tone="cynical">The ladies bowed with that kind of haughty acknowledgement which
             shows that compliments from such a source are distasteful. But our trio of conversation
             was broken up, and I was sorry for it. The marquis looked as if he had been stirred up
             to make that one speech, and hoped that he would not be expected to say more; while
@@ -349,7 +349,7 @@
             talking to himself in a growling tone of voice. I had fallen a little into the
             background at this interruption in a conversation which promised to be so pleasant, and
             I could not help hearing his words.</p>
-    <p><quote>'Really, De Carabas grows more stupid every day. I have a
+    <p tone="cynical"><quote>'Really, De Carabas grows more stupid every day. I have a
                 great mind to throw off his boots, and leave him to his fate. I was intended for a
                 court, and to a court I will go, and make my own fortune as I have made his. The
                 emperor will appreciate my talents.'</quote> And such are the habits of the French,
@@ -360,7 +360,7 @@
             there was a bit of colour about her. I thought I heard her making, as she came along, a
             little noise of pleasure, not exactly like the singing of a tea-kettle, nor yet like the
             cooing of a dove, but reminding me of each sound.</p>
-    <p><quote>'<character ref="Madame de Mioumiou">Madame de Mioumiou</character> was anxious to see you,'</quote> said he,
+    <p tone="cynical"><quote>'<character ref="Madame de Mioumiou">Madame de Mioumiou</character> was anxious to see you,'</quote> said he,
             addressing the lady with the roses, <quote>'so I have brought her across to give you a
                 pleasure!'</quote> What an honest, good face! but oh! how ugly! And yet I liked his
             ugliness better than most persons<quote>' beauty. There was a look of pathetic
@@ -375,7 +375,7 @@
             fiery dilation of his eyes—one might see that commonplace sounds affected them both in a
             manner very different to the rest of the company. The ugly husband of the lovely lady
             with the roses now addressed himself to me.</p>
-    <p><quote>'We are much disappointed,'</quote> he said, <quote>'in
+    <p tone="ironic"><quote>'We are much disappointed,'</quote> he said, <quote>'in
                 finding that monsieur is not accompanied by his countryman—le grand Jean
             d'</quote>Angleterre; I cannot pronounce his name rightly'—and he looked at me to help
             him out. <quote>'Le grand Jean d'</quote>Angleterre!<quote>' now who was le grand Jean
@@ -399,14 +399,14 @@
             been present at such an agreeable gathering of friends. He bowed, and then the lame lady
             took up the word.
     </p>
-    <p> <quote>'To-night is the night when, of all the year, this
+    <p tone="suspenseful"> <quote>'To-night is the night when, of all the year, this
                 great old forest surrounding the castle is said to be haunted by the phantom of a
                 little peasant girl who once lived hereabouts; the tradition is that she was
                 devoured by a wolf. In former days I have seen her on this night out of yonder
                 window at the end of the gallery. Will you, ma belle, take monsieur to see the view
                 outside by the moonlight (you may possibly see the phantom-child); and leave me to a
                 little tête-à-tête with your husband?'</quote></p>
-    <p>With a gentle movement the lady with the roses complied with
+    <p tone="suspenseful">With a gentle movement the lady with the roses complied with
             the other<quote>'s request, and we went to a great window, looking down on the forest,
                 in which I had lost my way. The tops of the far-spreading and leafy trees lay
                 motionless beneath us in the pale, wan light, which shows objects almost as distinct
@@ -418,7 +418,7 @@
             was turned, there went a wolf. I could almost have said it was licking her hand, as if
             in penitent love, if either penitence or love had ever been a quality of wolves,—but
             though not of living, perhaps it may be of phantom wolves.</p>
-    <p><quote>'There, we have seen her!'</quote> exclaimed my
+    <p tone="suspenseful"><quote>'There, we have seen her!'</quote> exclaimed my
             beautiful companion. <quote>'Though so long dead, her simple story of household goodness
                 and trustful simplicity still lingers in the hearts of all who have ever heard of
                 her; and the country-people about here say that seeing that phantom-child on this
@@ -426,19 +426,19 @@
                 traditionary good fortune. Ah! here is <character ref="Madame de Retz">Madame de Retz</character>—she retains the name of her
                 first husband, you know, as he was of higher rank than the present.'</quote> We were
             joined by our hostess.</p>
-    <p><quote>'If monsieur is fond of the beauties of nature and
+    <p tone="ironic"><quote>'If monsieur is fond of the beauties of nature and
                 art,'</quote> said she, perceiving that I had been looking at the view from the
             great window, <quote>'he will perhaps take pleasure in seeing the picture.'</quote> Here
             she sighed, with a little affectation of grief. <quote>'You know the picture I allude
                 to,'</quote> addressing my companion, who bowed assent, and smiled a little
             maliciously, as I followed the lead of madame.</p>
-    <p>I went after her to the other end of the saloon, noting by
+    <p tone="suspenseful">I went after her to the other end of the saloon, noting by
             the way with what keen curiosity she caught up what was passing either in word or action
             on each side of her. When we stood opposite to the end wall, I perceived a full-length
             picture of a handsome, peculiar-looking man, with—in spite of his good looks—a very
             fierce and scowling expression. My hostess clasped her hands together as her arms hung
             down in front, and sighed once more. Then, half in soliloquy, she said:</p>
-    <p><quote>'He was the love of my youth; his stern yet manly character
+    <p tone="cynical"><quote>'He was the love of my youth; his stern yet manly character
                 first touched this heart of mine. When—when shall I cease to deplore his
                 loss!'</quote> Not being acquainted with her enough to answer this question (if,
             indeed, it were not sufficiently answered by the fact of her second marriage), I felt
@@ -460,7 +460,7 @@
                     nécessaires dans l'amitié; et cinq ou six coups d'épée entre gens qui s'aiment
                     ne font que ragaillardir l'affection."</quote> You observe the colouring is not
                 quite what it should be?'</quote></p>
-    <p><quote>'In this light the beard is of rather a peculiar
+    <p tone="cynical"><quote>'In this light the beard is of rather a peculiar
                 tint,'</quote> said I. <quote>'Yes: the painter did not do it justice. It was most
                 lovely, and gave him such a distinguished air, quite different from the common herd.
                 Stay, I will show you the exact colour, if you will come near this
