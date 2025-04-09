@@ -120,14 +120,14 @@
     <p tone="fear"> the fiend who had enslaved me through the awful watches of the night; and, harassed and
         nervous, I rose to the duties of the day.</p>
 
-    <p> I had—I can't say exactly why, but it may have been from the exquisite anguish and profound
+    <p tone="ironic"> I had—I can't say exactly why, but it may have been from the exquisite anguish and profound
         impressions of unearthly horror, with which this strange phantasmagoria was associated—an
         insurmountable antipathy to describing the exact nature of my nightly troubles to my friend
         and comrade. Generally, however, I told him that I was haunted by abominable dreams; and,
         true to the imputed materialism of medicine, we put our heads together to dispel my horrors,
         not by exorcism, but by a tonic.</p>
 
-    <p> I will do this tonic justice, and frankly admit that the accursed portrait began to intermit
+    <p tone="cynical"> I will do this tonic justice, and frankly admit that the accursed portrait began to intermit
         its visits under its influence. What of that? Was this singular apparition—as full of
         character as of terror—therefore the creature of my fancy, or the invention of my poor
         stomach? Was it, in short, subjective (to borrow the technical slang of the day) and not the
@@ -143,7 +143,7 @@
         indispensable to the production of certain spiritual phenomena. The operation succeeds
         sometimes—sometimes fails—that is all.</p>
 
-    <p> I found afterwards that my would-be sceptical companion had his troubles too. But of these I
+    <p tone="suspenseful"> I found afterwards that my would-be sceptical companion had his troubles too. But of these I
         knew nothing yet. One night, for a wonder, I was sleeping soundly, when I was roused by a
         step on the lobby outside my room, followed by the loud clang of what turned out to be a
         large brass candlestick, flung with all his force by poor <character ref="Tom Ludlow">Tom Ludlow</character>
@@ -151,73 +151,73 @@
         concurrently with this, <character ref="Tom Ludlow">Tom</character> burst open my door, and bounced into my room backwards, in a
         state of extraordinary agitation.</p>
 
-    <p> I had jumped out of bed and clutched him by the arm before I had any distinct idea of my own
+    <p tone="suspenseful"> I had jumped out of bed and clutched him by the arm before I had any distinct idea of my own
         whereabouts. There we were—in our shirts—standing before the open door—staring through the
         great old banister opposite, at the lobby window, through which the sickly light of a
         clouded moon was gleaming.</p>
 
-    <p> What's the matter, <character ref="Tom Ludlow">Tom</character>? What's the matter with you? What the devil's the matter with you,
+    <p tone="fear"> What's the matter, <character ref="Tom Ludlow">Tom</character>? What's the matter with you? What the devil's the matter with you,
         <character ref="Tom Ludlow">Tom</character>? I demanded shaking him with nervous impatience.</p>
 
-    <p> He took a long breath before he answered me, and then it was not very coherently.</p>
+    <p tone="suspenseful"> He took a long breath before he answered me, and then it was not very coherently.</p>
 
-    <p> It's nothing, nothing at all—did I speak?—what did I say?—where's the candle, Richard? It's
+    <p tone="fear"> It's nothing, nothing at all—did I speak?—what did I say?—where's the candle, Richard? It's
         dark; I—I had a candle!</p>
 
-    <p> Yes, dark enough, I said; but what's the matter?—what is it?—why don't you speak, <character ref="Tom Ludlow">Tom</character>?—have
+    <p tone="fear"> Yes, dark enough, I said; but what's the matter?—what is it?—why don't you speak, <character ref="Tom Ludlow">Tom</character>?—have
         you lost your wits?—what is the matter?</p>
 
-    <p> The matter?—oh, it is all over. It must have been a dream—nothing at all but a dream—don't
+    <p tone="cynical"> The matter?—oh, it is all over. It must have been a dream—nothing at all but a dream—don't
         you think so? It could not be anything more than a dream.</p>
 
-    <p> Of course said I, feeling uncommonly nervous, it was a dream.</p>
+    <p tone="fear"> Of course said I, feeling uncommonly nervous, it was a dream.</p>
 
-    <p> I thought, he said, there was a man in my room, and—and I jumped out of bed; and—and—where's
+    <p tone="fear"> I thought, he said, there was a man in my room, and—and I jumped out of bed; and—and—where's
         the candle?</p>
 
-    <p> In your room, most likely, I said, shall I go and bring it?</p>
+    <p tone="n/a"> In your room, most likely, I said, shall I go and bring it?</p>
 
-    <p> No; stay here—don't go; it's no matter—don't, I tell you; it was all a dream. Bolt the door,
+    <p tone="fear"> No; stay here—don't go; it's no matter—don't, I tell you; it was all a dream. Bolt the door,
         Dick; I'll stay here with you—I feel nervous. So, Dick, like a good fellow, light your
         candle and open the window—I am in a shocking state.</p>
 
-    <p> I did as he asked me, and robing himself like Granuaile in one of my blankets, he seated
+    <p tone="ironic"> I did as he asked me, and robing himself like Granuaile in one of my blankets, he seated
         himself close beside my bed.</p>
 
-    <p> Every body knows how contagious is fear of all sorts, but more especially that particular
+    <p tone="cynical"> Every body knows how contagious is fear of all sorts, but more especially that particular
         kind of fear under which poor Tom was at that moment labouring. I would not have heard, nor
         I believe would he have recapitulated, just at that moment, for half the world, the details
         of the hideous vision which had so unmanned him.</p>
 
-    <p> Don't mind telling me anything about your nonsensical dream, Tom, said I, affecting
+    <p tone="cynical"> Don't mind telling me anything about your nonsensical dream, Tom, said I, affecting
         contempt, really in a panic; let us talk about something else; but it is quite plain that
         this dirty old house disagrees with us both, and hang me if I stay here any longer, to be
         pestered with indigestion and—and—bad nights, so we may as well look out for lodgings—don't
         you think so?—at once.</p>
 
-    <p> Tom agreed, and, after an interval, said----</p>
+    <p tone="suspenseful"> Tom agreed, and, after an interval, said----</p>
 
-    <p> I have been thinking, Richard, that it is a long time since I saw my father, and I have made
+    <p tone="serious"> I have been thinking, Richard, that it is a long time since I saw my father, and I have made
         up my mind to go down to-morrow and return in a day or two, and you can take rooms for us in
         the meantime.</p>
 
-    <p> I fancied that this resolution, obviously the result of the vision which had so profoundly
+    <p tone="cynical"> I fancied that this resolution, obviously the result of the vision which had so profoundly
         scared him, would probably vanish next morning with the damps and shadows of night. But I
         was mistaken. Off went Tom at peep of day to the country, having agreed that so soon as I
         had secured suitable lodgings, I was to recall him by letter from his visit to my
             <character ref="Uncle Ludlow">Uncle Ludlow</character>.</p>
 
-    <p> Now, anxious as I was to change my quarters, it so happened, owing to a series of petty
+    <p tone="ironic"> Now, anxious as I was to change my quarters, it so happened, owing to a series of petty
         procrastinations and accidents, that nearly a week elapsed before my bargain was made and my
         letter of recall on the wing to Tom; and, in the meantime, a trifling adventure or two had
         occurred to your humble servant, which, absurd as they now appear, diminished by distance,
         did certainly at the time serve to whet my appetite for change considerably.</p>
 
-    <p> A night or two after the departure of my comrade, I was sitting by my bedroom fire, the door
+    <p tone="ironic"> A night or two after the departure of my comrade, I was sitting by my bedroom fire, the door
         locked, and the ingredients of a tumbler of hot whisky-punch upon the crazy spider-table;
         for, as the best mode of keeping the Black spirits and white,</p>
 
-    <p> Blue spirits and grey,</p>
+    <p tone="ironic"> Blue spirits and grey,</p>
 
     <p> with which I was environed, at bay, I had adopted the practice recommended by the wisdom of
         my ancestors, and kept my spirits up by pouring spirits down. I had thrown aside my volume
