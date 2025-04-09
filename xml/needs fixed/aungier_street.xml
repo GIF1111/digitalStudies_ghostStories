@@ -400,18 +400,18 @@
 
     <p tone="suspenseful"> Tom stopped for a while, and then said----</p>
 
-    <p> That awful countenance, which living or dying I never can forget, disclosed what he was.
+    <p tone="fear"> That awful countenance, which living or dying I never can forget, disclosed what he was.
         Without turning to the right or left, he passed beside me, and entered the closet by the
         bed's head.</p>
 
-    <p> While this fearful and indescribable type of death and guilt was passing, I felt that I had
+    <p tone="fear"> While this fearful and indescribable type of death and guilt was passing, I felt that I had
         no more power to speak or stir than if I had been myself a corpse. For hours after it had
         disappeared, I was too terrified and weak to move. As soon as daylight came, I took courage,
         and examined the room, and especially the course which the frightful intruder had seemed to
         take, but there was not a vestige to indicate anybody's having passed there; no sign of any
         disturbing agency visible among the lumber that strewed the floor of the closet.</p>
 
-    <p> I now began to recover a little. I was fagged and exhausted, and at last, overpowered by a
+    <p tone="fear"> I now began to recover a little. I was fagged and exhausted, and at last, overpowered by a
         feverish sleep. I came down late; and finding you out of spirits, on account of your dreams
         about the portrait, whose original I am now certain disclosed himself to me, I did not care
         to talk about the infernal vision. In fact, I was trying to persuade myself that the whole
@@ -419,7 +419,7 @@
         of the past night—or to risk the constancy of my scepticism, by recounting the tale of my
         sufferings.</p>
 
-    <p> It required some nerve, I can tell you, to go to my haunted chamber next night, and lie down
+    <p tone="optimism"> It required some nerve, I can tell you, to go to my haunted chamber next night, and lie down
         quietly in the same bed, continued Tom. I did so with a degree of trepidation, which, I am
         not ashamed to say, a very little matter would have sufficed to stimulate to downright
         panic. This night, however, passed off quietly enough, as also the next; and so too did two
@@ -427,7 +427,7 @@
         spectral illusions, with which I had at first vainly tried to impose upon my
         convictions.</p>
 
-    <p> The apparition had been, indeed, altogether anomalous. It had crossed the room without any
+    <p tone="cynical"> The apparition had been, indeed, altogether anomalous. It had crossed the room without any
         recognition of my presence: I had not disturbed it, and it had no mission to me. What, then,
         was the imaginable use of its crossing the room in a visible shape at all? Of course it
         might have been in the closet instead of going there, as easily as it introduced itself into
@@ -436,19 +436,19 @@
         saw it as distinctly, in colouring and outline, as ever I beheld human form! A cataleptic
         dream would explain it all; and I was determined that a dream it should be.</p>
 
-    <p> One of the most remarkable phenomena connected with the practice of mendacity is the vast
+    <p tone="cynical"> One of the most remarkable phenomena connected with the practice of mendacity is the vast
         number of deliberate lies we tell ourselves, whom, of all persons, we can least expect to
         deceive. In all this, I need hardly tell you, Dick, I was simply lying to myself, and did
         not believe one word of the wretched humbug. Yet I went on, as men will do, like persevering
         charlatans and impostors, who tire people into credulity by the mere force of reiteration;
         so I hoped to win myself over at last to a comfortable scepticism about the ghost.</p>
 
-    <p> He had not appeared a second time—that certainly was a comfort; and what, after all, did I
+    <p tone="cynical"> He had not appeared a second time—that certainly was a comfort; and what, after all, did I
         care for him, and his queer old toggery and strange looks? Not a fig! I was nothing the
         worse for having seen him, and a good story the better. So I tumbled into bed, put out my
         candle, and, cheered by a loud drunken quarrel in the back lane, went fast asleep.</p>
 
-    <p> From this deep slumber I awoke with a start. I knew I had had a horrible dream; but what it
+    <p tone="fear"> From this deep slumber I awoke with a start. I knew I had had a horrible dream; but what it
         was I could not remember. My heart was thumping furiously; I felt bewildered and feverish; I
         sate up in the bed and looked about the room. A broad flood of moonlight came in through the
         curtainless window; everything was as I had last seen it; and though the domestic squabble
@@ -458,13 +458,13 @@
         did my best to think of nothing else but the song, which was every moment growing fainter in
         the distance:---- 'Twas Murphy Delany, so funny and frisky,</p>
 
-    <p> Stept into a shebeen shop to get his skin full;</p>
+    <p tone="cynical"> Stept into a shebeen shop to get his skin full;</p>
 
-    <p> He reeled out again pretty well lined with whiskey,</p>
+    <p tone="cynical"> He reeled out again pretty well lined with whiskey,</p>
 
-    <p> As fresh as a shamrock, as blind as a bull.</p>
+    <p tone="ironic"> As fresh as a shamrock, as blind as a bull.</p>
 
-    <p> The singer, whose condition I dare say resembled that of his hero, was soon too far off to
+    <p tone="ironic"> The singer, whose condition I dare say resembled that of his hero, was soon too far off to
         regale my ears any more; and as his music died away, I myself sank into a doze, neither
         sound nor refreshing. Somehow the song had got into my head, and I went meandering on
         through the adventures of my respectable fellow-countryman, who, on emerging from the
@@ -474,22 +474,22 @@
         when an angry altercation and a pitched battle between the body and the coroner winds up the
         lay with due spirit and pleasantry.</p>
 
-    <p> Through this ballad I continued with a weary monotony to plod, down to the very last line,
+    <p tone="fear"> Through this ballad I continued with a weary monotony to plod, down to the very last line,
         and then da capo, and so on, in my uncomfortable half-sleep, for how long, I can't
         conjecture. I found myself at last, however, muttering, 'dead as a door-nail, so there was
         an end'; and something like another voice within me, seemed to say, very faintly, but
         sharply, 'dead! dead! dead! and may the Lord have mercy on your soul!' and instantaneously I
         was wide awake, and staring right before me from the pillow.</p>
 
-    <p> Now—will you believe it, Dick?—I saw the same accursed figure standing full front, and
+    <p tone="fear"> Now—will you believe it, Dick?—I saw the same accursed figure standing full front, and
         gazing at me with its stony and fiendish countenance, not two yards from the bedside.</p>
 
-    <p> Tom stopped here, and wiped the perspiration from his face. I felt very queer. The girl was
+    <p tone="suspenseful"> Tom stopped here, and wiped the perspiration from his face. I felt very queer. The girl was
         as pale as Tom; and, assembled as we were in the very scene of these adventures, we were
         all, I dare say, equally grateful for the clear daylight and the resuming bustle out of
         doors.</p>
 
-    <p> For about three seconds only I saw it plainly; then it grew indistinct; but, for a long
+    <p tone="fear"> For about three seconds only I saw it plainly; then it grew indistinct; but, for a long
         time, there was something like a column of dark vapour where it had been standing, between
         me and the wall; and I felt sure that he was still there. After a good while, this
         appearance went too. I took my clothes downstairs to the hall, and dressed there, with the
@@ -499,26 +499,26 @@
         especially as I had always talked philosophy, and treated your ghosts with contempt. I
         concluded you would give me no quarter; and so kept my tale of horror to myself.</p>
 
-    <p> Now, Dick, you will hardly believe me, when I assure you, that for many nights after this
+    <p tone="fear"> Now, Dick, you will hardly believe me, when I assure you, that for many nights after this
         last experience, I did not go to my room at all. I used to sit up for a while in the
         drawing-room after you had gone up to your bed; and then steal down softly to the hall-door,
         let myself out, and sit in the 'Robin Hood' tavern until the last guest went off; and then I
         got through the night like a sentry, pacing the streets till morning.</p>
 
-    <p> For more than a week I never slept in bed. I sometimes had a snooze on a form in the 'Robin
+    <p tone="fear"> For more than a week I never slept in bed. I sometimes had a snooze on a form in the 'Robin
         Hood,' and sometimes a nap in a chair during the day; but regular sleep I had absolutely
         none.</p>
 
-    <p> I was quite resolved that we should get into another house; but I could not bring myself to
+    <p tone="fear"> I was quite resolved that we should get into another house; but I could not bring myself to
         tell you the reason, and I somehow put it off from day to day, although my life was, during
         every hour of this procrastination, rendered as miserable as that of a felon with the
         constables on his track. I was growing absolutely ill from this wretched mode of life.</p>
 
-    <p> One afternoon I determined to enjoy an hour's sleep upon your bed. I hated mine; so that I
+    <p tone="fear"> One afternoon I determined to enjoy an hour's sleep upon your bed. I hated mine; so that I
         had never, except in a stealthy visit every day to unmake it, lest Martha should discover
         the secret of my nightly absence, entered the ill-omened chamber.</p>
 
-    <p> As ill-luck would have it, you had locked your bedroom, and taken away the key. I went into
+    <p tone="serious"> As ill-luck would have it, you had locked your bedroom, and taken away the key. I went into
         my own to unsettle the bedclothes, as usual, and give the bed the appearance of having been
         slept in. Now, a variety of circumstances concurred to bring about the dreadful scene
         through which I was that night to pass. In the first place, I was literally overpowered with
@@ -530,7 +530,7 @@
         was to prevent my enjoying an hour's nap here? The whole air was resonant with the cheerful
         hum of life, and the broad matter-of-fact light of day filled every corner of the room.</p>
 
-    <p> I yielded—stifling my qualms—to the almost overpowering temptation; and merely throwing off
+    <p tone="serious"> I yielded—stifling my qualms—to the almost overpowering temptation; and merely throwing off
         my coat, and loosening my cravat, I lay down, limiting myself to half-an-hour's doze in the
         unwonted enjoyment of a feather bed, a coverlet, and a bolster.</p>
 
