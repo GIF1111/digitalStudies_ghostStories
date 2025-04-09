@@ -5,7 +5,7 @@
 
     <title>An Account of Some Strange Disturbances in Aungier Street</title>
 
-    <p tone=""> It is not worth telling, this story of mine—at least, not worth writing. Told, indeed, as I
+    <p tone="suspenseful"> It is not worth telling, this story of mine—at least, not worth writing. Told, indeed, as I
         have sometimes been called upon to tell it, to a circle of intelligent and eager faces,
         lighted up by a good after-dinner fire on a winter's evening, with a cold wind rising and
         wailing outside, and all snug and cosy within, it has gone off—though I say it, who should
@@ -17,27 +17,27 @@
         heart. Well, then, these conditions presupposed, I shall waste no more words, but tell you
         simply how it all happened.</p>
 
-    <p> My cousin (<character ref="Tom Ludlow">Tom Ludlow</character>) and I studied medicine together. I think he
+    <p tone="serious"> My cousin (<character ref="Tom Ludlow">Tom Ludlow</character>) and I studied medicine together. I think he
         would have succeeded, had he stuck to the profession; but he preferred the Church, poor
         fellow, and died early, a sacrifice to contagion, contracted in the noble discharge of his
         duties. For my present purpose, I say enough of his character when I mention that he was of
         a sedate but frank and cheerful nature; very exact in his observance of truth, and not by
         any means like myself—of an excitable or nervous temperament.</p>
 
-    <p> My <character ref="Uncle Ludlow">Uncle Ludlow</character>—Tom's father—while we were attending lectures,
+    <p tone="serious"> My <character ref="Uncle Ludlow">Uncle Ludlow</character>—Tom's father—while we were attending lectures,
         purchased three or four old houses in <place>Aungier Street</place>, one of which was
         unoccupied. He resided in the country, and Tom proposed that we should take up our abode in
         the untenanted house, so long as it should continue unlet; a move which would accomplish the
         double end of settling us nearer alike to our lecture-rooms and to our amusements, and of
         relieving us from the weekly charge of rent for our lodgings.</p>
 
-    <p> Our furniture was very scant—our whole equipage remarkably modest and primitive; and, in
+    <p tone="cynical"> Our furniture was very scant—our whole equipage remarkably modest and primitive; and, in
         short, our arrangements pretty nearly as simple as those of a bivouac. Our new plan was,
         therefore, executed almost as soon as conceived. The front drawing-room was our
         sitting-room. I had the bedroom over it, and Tom the back bedroom on the same floor, which
         nothing could have induced me to occupy.</p>
 
-    <p> The house, to begin with, was a very old one. It had been, I believe, newly fronted about
+    <p tone="suspenseful"> The house, to begin with, was a very old one. It had been, I believe, newly fronted about
         fifty years before; but with this exception, it had nothing modern about it. The agent who
         bought it and looked into the titles for my uncle, told me that it was sold, along with much
         other forfeited property, at Chichester House, I think, in 1702; and had belonged to Sir
@@ -46,7 +46,7 @@
         that mysterious and saddened air, at once exciting and depressing, which belongs to most old
         mansions.</p>
 
-    <p> There had been very little done in the way of modernising details; and, perhaps, it was
+    <p tone="cynical"> There had been very little done in the way of modernising details; and, perhaps, it was
         better so; for there was something queer and by-gone in the very walls and ceilings—in the
         shape of doors and windows—in the odd diagonal site of the chimney-pieces—in the beams and
         ponderous cornices—not to mention the singular solidity of all the woodwork, from the
@@ -54,7 +54,7 @@
         emphatically proclaimed their antiquity through any conceivable amount of modern finery and
         varnish.</p>
 
-    <p> An effort had, indeed, been made, to the extent of papering the drawing-rooms; but somehow,
+    <p tone="cynical"> An effort had, indeed, been made, to the extent of papering the drawing-rooms; but somehow,
         the paper looked raw and out of keeping; and the old woman, who kept a little dirt-pie of a
         shop in the lane, and whose daughter—a girl of two and fifty—was our solitary handmaid,
         coming in at sunrise, and chastely receding again as soon as she had made all ready for tea
@@ -65,7 +65,7 @@
         with fine venison and rare old port. In those halcyon days, the drawing-rooms were hung with
         gilded leather, and, I dare say, cut a good figure, for they were really spacious rooms.</p>
 
-    <p> The bedrooms were wainscoted, but the front one was not gloomy; and in it the cosiness of
+    <p tone="fear"> The bedrooms were wainscoted, but the front one was not gloomy; and in it the cosiness of
         antiquity quite overcame its sombre associations. But the back bedroom, with its two
         queerly-placed melancholy windows, staring vacantly at the foot of the bed, and with the
         shadowy recess to be found in most old houses in Dublin, like a large ghostly closet, which,
@@ -79,11 +79,11 @@
         and the safe, and raised indefinable suspicions and apprehensions of the imagination. On the
         whole, as I began by saying, nothing could have induced me to pass a night alone in it.</p>
 
-    <p> I had never pretended to conceal from poor Tom my superstitious weakness; and he, on the
+    <p tone="ironic"> I had never pretended to conceal from poor Tom my superstitious weakness; and he, on the
         other hand, most unaffectedly ridiculed my tremors. The sceptic was, however, destined to
         receive a lesson, as you shall hear.</p>
 
-    <p> We had not been very long in occupation of our respective dormitories, when I began to
+    <p tone="suspenseful"> We had not been very long in occupation of our respective dormitories, when I began to
         complain of uneasy nights and disturbed sleep. I was, I suppose, the more impatient under
         this annoyance, as I was usually a sound sleeper, and by no means prone to nightmares. It
         was now, however, my destiny, instead of enjoying my customary repose, every night to sup
@@ -91,10 +91,10 @@
         troubles took a definite form, and the same vision, without an appreciable variation in a
         single detail, visited me at least (on an average) every second night in the week.</p>
 
-    <p> Now, this dream, nightmare, or infernal illusion—which you please—of which I was the
+    <p tone="suspenseful"> Now, this dream, nightmare, or infernal illusion—which you please—of which I was the
         miserable sport, was on this wise:----</p>
 
-    <p> I saw, or thought I saw, with the most abominable distinctness, although at the time in
+    <p tone="fear"> I saw, or thought I saw, with the most abominable distinctness, although at the time in
         profound darkness, every article of furniture and accidental arrangement of the chamber in
         which I lay. This, as you know, is incidental to ordinary nightmare. Well, while in this
         clairvoyant condition, which seemed but the lighting up of the theatre in which was to be
@@ -117,7 +117,7 @@
         returned it with the inexplicable fascination of nightmare, for what appeared to me to be
         hours of agony. At last---- The cock he crew, away then flew</p>
 
-    <p> the fiend who had enslaved me through the awful watches of the night; and, harassed and
+    <p tone="fear"> the fiend who had enslaved me through the awful watches of the night; and, harassed and
         nervous, I rose to the duties of the day.</p>
 
     <p> I had—I can't say exactly why, but it may have been from the exquisite anguish and profound
