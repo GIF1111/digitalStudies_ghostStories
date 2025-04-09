@@ -219,7 +219,7 @@
 
     <p tone="ironic"> Blue spirits and grey,</p>
 
-    <p> with which I was environed, at bay, I had adopted the practice recommended by the wisdom of
+    <p tone="suspenseful"> with which I was environed, at bay, I had adopted the practice recommended by the wisdom of
         my ancestors, and kept my spirits up by pouring spirits down. I had thrown aside my volume
         of Anatomy, and was treating myself by way of a tonic, preparatory to my punch and bed, to
         half-a-dozen pages of the Spectator, when I heard a step on the flight of stairs descending
@@ -230,7 +230,7 @@
         perfectly bare, measuring the descent with something between a pound and a flop, very ugly
         to hear.</p>
 
-    <p> I knew quite well that my attendant had gone away many hours before, and that nobody but
+    <p tone="suspenseful"> I knew quite well that my attendant had gone away many hours before, and that nobody but
         myself had any business in the house. It was quite plain also that the person who was coming
         down stairs had no intention whatever of concealing his movements; but, on the contrary,
         appeared disposed to make even more noise, and proceed more deliberately, than was at all
@@ -241,7 +241,7 @@
         drawing-rooms, and thence, after another pause, down the next flight, and so on to the hall,
         whence I heard no more.</p>
 
-    <p> Now, by the time the sound had ceased, I was wound up, as they say, to a very unpleasant
+    <p tone="suspenseful"> Now, by the time the sound had ceased, I was wound up, as they say, to a very unpleasant
         pitch of excitement. I listened, but there was not a stir. I screwed up my courage to a
         decisive experiment—opened my door, and in a stentorian voice bawled over the banisters,
         Who's there? There was no answer but the ringing of my own voice through the empty old
@@ -253,11 +253,11 @@
         retreat should be cut off, I got again into my room as quickly as I could, where I remained
         in a state of imaginary blockade, and very uncomfortable indeed, till morning.</p>
 
-    <p> Next night brought no return of my barefooted fellow-lodger; but the night following, being
+    <p tone="suspenseful"> Next night brought no return of my barefooted fellow-lodger; but the night following, being
         in my bed, and in the dark—somewhere, I suppose, about the same hour as before, I distinctly
         heard the old fellow again descending from the garrets.</p>
 
-    <p> This time I had had my punch, and the morale of the garrison was consequently excellent. I
+    <p tone="suspenseful"> This time I had had my punch, and the morale of the garrison was consequently excellent. I
         jumped out of bed, clutched the poker as I passed the expiring fire, and in a moment was
         upon the lobby. The sound had ceased by this time—the dark and chill were discouraging; and,
         guess my horror, when I saw, or thought I saw, a black monster, whether in the shape of a
@@ -273,7 +273,7 @@
         and double-locked the door. Then, in a minute more, I heard the horrid bare feet walk down
         the stairs, till the sound ceased in the hall, as on the former occasion.</p>
 
-    <p> If the apparition of the night before was an ocular delusion of my fancy sporting with the
+    <p tone="serious"> If the apparition of the night before was an ocular delusion of my fancy sporting with the
         dark outlines of our cupboard, and if its horrid eyes were nothing but a pair of inverted
         teacups, I had, at all events, the satisfaction of having launched the poker with admirable
         effect, and in true fancy phrase, knocked its two daylights into one, as the commingled
@@ -284,11 +284,11 @@
         stirring? Confound it!--the whole affair was abominable. I was out of spirits, and dreaded
         the approach of night.</p>
 
-    <p> It came, ushered ominously in with a thunder-storm and dull torrents of depressing rain.
+    <p tone="suspenseful"> It came, ushered ominously in with a thunder-storm and dull torrents of depressing rain.
         Earlier than usual the streets grew silent; and by twelve o'clock nothing but the
         comfortless pattering of the rain was to be heard.</p>
 
-    <p> I made myself as snug as I could. I lighted two candles instead of one. I forswore bed, and
+    <p tone="suspenseful"> I made myself as snug as I could. I lighted two candles instead of one. I forswore bed, and
         held myself in readiness for a sally, candle in hand; for, coûte qui coûte, I was resolved
         to see the being, if visible at all, who troubled the nightly stillness of my mansion. I was
         fidgetty and nervous and tried in vain to interest myself with my books. I walked up and
@@ -298,7 +298,7 @@
         of subdued accompaniment to all the fantastic and horrible speculations which chased one
         another through my brain.</p>
 
-    <p> Silence, meanwhile, grew more silent, and darkness darker. I listened in vain for the rumble
+    <p tone="suspenseful"> Silence, meanwhile, grew more silent, and darkness darker. I listened in vain for the rumble
         of a vehicle, or the dull clamour of a distant row. There was nothing but the sound of a
         rising wind, which had succeeded the thunder-storm that had travelled over the Dublin
         mountains quite out of hearing. In the middle of this great city I began to feel myself
@@ -307,7 +307,7 @@
         nerve and firmness the lumpy, flabby, naked feet deliberately descending the stairs
         again.</p>
 
-    <p> I took a candle, not without a tremour. As I crossed the floor I tried to extemporise a
+    <p tone="fear"> I took a candle, not without a tremour. As I crossed the floor I tried to extemporise a
         prayer, but stopped short to listen, and never finished it. The steps continued. I confess I
         hesitated for some seconds at the door before I took heart of grace and opened it. When I
         peeped out the lobby was perfectly empty—there was no monster standing on the staircase; and
@@ -317,88 +317,88 @@
         Goliah's foot—it was grey, heavy, and flapped with a dead weight from one step to another.
         As I am alive, it was the most monstrous grey rat I ever beheld or imagined.</p>
 
-    <p> Shakespeare says—Some men there are cannot abide a gaping pig, and some that are mad if they
+    <p tone="fear"> Shakespeare says—Some men there are cannot abide a gaping pig, and some that are mad if they
         behold a cat. I went well-nigh out of my wits when I beheld this rat; for, laugh at me as
         you may, it fixed upon me, I thought, a perfectly human expression of malice; and, as it
         shuffled about and looked up into my face almost from between my feet, I saw, I could swear
         it—I felt it then, and know it now, the infernal gaze and the accursed countenance of my old
         friend in the portrait, transfused into the visage of the bloated vermin before me.</p>
 
-    <p> I bounced into my room again with a feeling of loathing and horror I cannot describe, and
+    <p tone="anger"> I bounced into my room again with a feeling of loathing and horror I cannot describe, and
         locked and bolted my door as if a lion had been at the other side. D—n him or it; curse the
         portrait and its original! I felt in my soul that the rat—yes, the rat, the RAT I had just
         seen, was that evil being in masquerade, and rambling through the house upon some infernal
         night lark.</p>
 
-    <p> Next morning I was early trudging through the miry streets; and, among other transactions,
+    <p tone="optimism"> Next morning I was early trudging through the miry streets; and, among other transactions,
         posted a peremptory note recalling Tom. On my return, however, I found a note from my absent
         chum, announcing his intended return next day. I was doubly rejoiced at this, because I had
         succeeded in getting rooms; and because the change of scene and return of my comrade were
         rendered specially pleasant by the last night's half ridiculous half horrible adventure.</p>
 
-    <p> I slept extemporaneously in my new quarters in Digges' Street that night, and next morning
+    <p tone="happiness"> I slept extemporaneously in my new quarters in Digges' Street that night, and next morning
         returned for breakfast to the haunted mansion, where I was certain Tom would call
         immediately on his arrival.</p>
 
-    <p> I was quite right—he came; and almost his first question referred to the primary object of
+    <p tone="n/a"> I was quite right—he came; and almost his first question referred to the primary object of
         our change of residence.</p>
 
-    <p> Thank God, he said with genuine fervour, on hearing that all was arranged. On your account I
+    <p tone="happiness"> Thank God, he said with genuine fervour, on hearing that all was arranged. On your account I
         am delighted. As to myself, I assure you that no earthly consideration could have induced me
         ever again to pass a night in this disastrous old house.</p>
 
-    <p> Confound the house! I ejaculated, with a genuine mixture of fear and detestation, we have
+    <p tone="anger"> Confound the house! I ejaculated, with a genuine mixture of fear and detestation, we have
         not had a pleasant hour since we came to live here; and so I went on, and related
         incidentally my adventure with the plethoric old rat.</p>
 
-    <p> Well, if that were all, said my cousin, affecting to make light of the matter, I don't think
+    <p tone="cynical"> Well, if that were all, said my cousin, affecting to make light of the matter, I don't think
         I should have minded it very much.</p>
 
-    <p> Ay, but its eye—its countenance, my dear Tom, urged I; if you had seen that, you would have
+    <p tone="serious"> Ay, but its eye—its countenance, my dear Tom, urged I; if you had seen that, you would have
         felt it might be anything but what it seemed.</p>
 
-    <p> I inclined to think the best conjurer in such a case would be an able-bodied cat, he said,
+    <p tone="ironic"> I inclined to think the best conjurer in such a case would be an able-bodied cat, he said,
         with a provoking chuckle.</p>
 
-    <p> But let us hear your own adventure, I said tartly.</p>
+    <p tone="cynical"> But let us hear your own adventure, I said tartly.</p>
 
-    <p> At this challenge he looked uneasily round him. I had poked up a very unpleasant
+    <p tone="suspenseful"> At this challenge he looked uneasily round him. I had poked up a very unpleasant
         recollection.</p>
 
-    <p> You shall hear it, Dick; I'll tell it to you, he said. Begad, sir, I should feel quite
+    <p tone="cynical"> You shall hear it, Dick; I'll tell it to you, he said. Begad, sir, I should feel quite
         queer, though, telling it here, though we are too strong a body for ghosts to meddle with
         just now.</p>
 
-    <p> Though he spoke this like a joke, I think it was serious calculation. Our Hebe was in a
+    <p tone="serious"> Though he spoke this like a joke, I think it was serious calculation. Our Hebe was in a
         corner of the room, packing our cracked delft tea and dinner-services in a basket. She soon
         suspended operations, and with mouth and eyes wide open became an absorbed listener. Tom's
         experiences were told nearly in these words:----</p>
 
-    <p> I saw it three times, Dick—three distinct times; and I am perfectly certain it meant me some
+    <p tone="fear"> I saw it three times, Dick—three distinct times; and I am perfectly certain it meant me some
         infernal harm. I was, I say, in danger—in extreme danger; for, if nothing else had happened,
         my reason would most certainly have failed me, unless I had escaped so soon. Thank God. I
         did escape.</p>
 
-    <p> The first night of this hateful disturbance, I was lying in the attitude of sleep, in that
+    <p tone="sadness"> The first night of this hateful disturbance, I was lying in the attitude of sleep, in that
         lumbering old bed. I hate to think of it. I was really wide awake, though I had put out my
         candle, and was lying as quietly as if I had been asleep; and although accidentally
         restless, my thoughts were running in a cheerful and agreeable channel.</p>
 
-    <p> I think it must have been two o'clock at least when I thought I heard a sound in that—that
+    <p tone="suspenseful"> I think it must have been two o'clock at least when I thought I heard a sound in that—that
         odious dark recess at the far end of the bedroom. It was as if someone was drawing a piece
         of cord slowly along the floor, lifting it up, and dropping it softly down again in coils. I
         sate up once or twice in my bed, but could see nothing, so I concluded it must be mice in
         the wainscot. I felt no emotion graver than curiosity, and after a few minutes ceased to
         observe it.</p>
 
-    <p> While lying in this state, strange to say; without at first a suspicion of anything
+    <p tone="fear"> While lying in this state, strange to say; without at first a suspicion of anything
         supernatural, on a sudden I saw an old man, rather stout and square, in a sort of roan-red
         dressing-gown, and with a black cap on his head, moving stiffly and slowly in a diagonal
         direction, from the recess, across the floor of the bedroom, passing my bed at the foot, and
         entering the lumber-closet at the left. He had something under his arm; his head hung a
         little at one side; and, merciful God! when I saw his face.</p>
 
-    <p> Tom stopped for a while, and then said----</p>
+    <p tone="suspenseful"> Tom stopped for a while, and then said----</p>
 
     <p> That awful countenance, which living or dying I never can forget, disclosed what he was.
         Without turning to the right or left, he passed beside me, and entered the closet by the
