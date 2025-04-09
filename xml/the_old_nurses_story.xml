@@ -2,9 +2,9 @@
 <!-- The Project Gutenberg eBook of Curious, if True -->
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title tone="fear">THE OLD NURSE'S STORY</title>
+    <title>THE OLD NURSE'S STORY</title>
     
-    <p> You know, my dears, that your mother was an orphan, and an only child; and I daresay
+    <p tone="sadness"> You know, my dears, that your mother was an orphan, and an only child; and I daresay
         you have heard that your grandfather was a clergyman up in <place>Westmoreland</place>, where I come from.
         I was just a girl in the village school, when, one day, your grandmother came in to ask the
         mistress if there was any scholar there who would do for a nurse-maid; and mighty proud I
@@ -32,7 +32,7 @@
         she sighed away her life. My mistress had asked me, on her death-bed, never to leave Miss
         Rosamond; but if she had never spoken a word, I would have gone with the little child to the
         end of the world.</p>
-    <p> The next thing, and before we had well stilled our sobs, the executors and guardians
+    <p tone="sadness"> The next thing, and before we had well stilled our sobs, the executors and guardians
         came to settle the affairs. They were my poor young mistress's own cousin, <character ref="Lord Furnivall">Lord Furnivall</character>,
         and <character ref="Mr. Esthwaite">Mr. Esthwaite</character>, my master's brother, a shopkeeper in <place>Manchester</place>; not so well to do then
         as he was afterwards, and with a large family rising about him. Well! I don't know if it
@@ -45,17 +45,17 @@
         looked at—who was like a sunbeam in any family, be it never so grand—I was well pleased that
         all the folks in the Dale should stare and admire, when they heard I was going to be young
         lady's maid at my <character ref="Lord Furnivall">Lord Furnivall</character>'s at Furnivall Manor.</p>
-    <p> But I made a mistake in thinking we were to go and live where my lord did. It turned
+    <p tone="suspenseful"> But I made a mistake in thinking we were to go and live where my lord did. It turned
         out that the family had left <place>Furnivall Manor House</place> <time>fifty years or more</time>. I could not hear
         that my poor young mistress had never been there, though she had been brought up in the
         family; and I was sorry for that, for I should have liked <character ref="Miss Rosamond">Miss Rosamond</character>'s youth to have
         passed where her mother's had been.</p>
-    <p> My lord's gentleman, from whom I asked as many questions as I durst, said that the
+    <p tone="optimism"> My lord's gentleman, from whom I asked as many questions as I durst, said that the
         Manor House was at the foot of the <place>Cumberland Fells</place>, and a very grand place; that an old
         <character ref="Grace Furnivall">Miss Furnivall</character>, a great-aunt of my lord's, lived there, with only a few servants; but that
         it was a very healthy place, and my lord had thought that it would suit <character ref="Miss Rosamond">Miss Rosamond</character> very
         well for a few years, and that her being there might perhaps amuse his old aunt.</p>
-    <p> I was bidden by my lord to have <character ref="Miss Rosamond">Miss Rosamond</character>'s things ready by a certain day. He was
+    <p tone="sadness"> I was bidden by my lord to have <character ref="Miss Rosamond">Miss Rosamond</character>'s things ready by a certain day. He was
         a stern, proud man, as they say all the Lords Furnivall were; and he never spoke a word more
         than was necessary. Folk did say he had loved my young mistress; but that, because she knew
         that his father would object, she would never listen to him, and married <character ref="Mr. Esthwaite">Mr. Esthwaite</character>; but
@@ -74,7 +74,7 @@
         lord. We had left all signs of a town, or even a village, and were then inside the gates of
         a large wild park—not like the parks here in the south, but with rocks, and the noise of
         running water, and gnarled thorn-trees, and old oaks, all white and peeled with age.</p>
-    <p> The road went up about two miles, and then we saw a great and stately house, with many
+    <p tone="suspenseful"> The road went up about two miles, and then we saw a great and stately house, with many
         trees close around it, so close that in some places their branches dragged against the walls
         when the wind blew; and some hung broken down; for no one seemed to take much charge of the
         place;—to lop the wood, or to keep the moss-covered carriage-way in order. Only in front of
@@ -87,7 +87,7 @@
         from the west front; it had been scooped out of the thick, dark wood for some old Lady
         Furnivall; but the branches of the great forest-trees had grown and overshadowed it again,
         and there were very few flowers that would live there at that time.</p>
-    <p> When we drove up to the great front entrance, and went into the hall, I thought we
+    <p tone="happiness"> When we drove up to the great front entrance, and went into the hall, I thought we
         would be lost—it was so large, and vast and grand. There was a chandelier all of bronze,
         hung down from the middle of the ceiling; and I had never seen one before, and looked at it
         all in amaze. Then, at one end of the hall, was a great fire-place, as large as the sides of
@@ -97,7 +97,7 @@
         part of that end. Beyond it, on the same side, was a door; and opposite, on each side of the
         fire-place, were also doors leading to the east front; but those I never went through as
         long as I stayed in the house, so I can't tell you what lay beyond.</p>
-    <p> The afternoon was closing in, and the hall, which had no fire lighted in it, looked
+    <p tone="fear"> The afternoon was closing in, and the hall, which had no fire lighted in it, looked
         dark and gloomy, but we did not stay there a moment. The old servant, who had opened the
         door for us, bowed to Mr. Henry, and took us in through the door at the further side of the
         great organ, and led us through several smaller halls and passages into the west
@@ -117,7 +117,7 @@
         message from my lord, and then he bowed good-by to us all,—taking no notice of my sweet
         little <character ref="Miss Rosamond">Miss Rosamond</character>'s outstretched hand—and left us standing there, being looked at by the
         two old ladies through their spectacles.</p>
-    <p> I was right glad when they rung for the old footman who had shown us in at first, and
+    <p tone="happiness"> I was right glad when they rung for the old footman who had shown us in at first, and
         told him to take us to our rooms. So we went out of that great drawing-room and into another
         sitting-room, and out of that, and then up a great flight of stairs, and along a broad
         gallery—which was something like a library, having books all down one side, and windows and
@@ -152,7 +152,7 @@
         darkened by the sweeping boughs of the trees, and the ivy which had overgrown them; but, in
         the green gloom, we could manage to see old china jars and carved ivory boxes, and great
         heavy books, and, above all, the old pictures!</p>
-    <p> Once, I remember, my darling would have <character ref="Dorothy">Dorothy</character> go with us to tell us who they all
+    <p tone="serious"> Once, I remember, my darling would have <character ref="Dorothy">Dorothy</character> go with us to tell us who they all
         were; for they were all portraits of some of my lord's family, though <character ref="Dorothy">Dorothy</character> could not tell
         us the names of every one. We had gone through most of the rooms, when we came to the old
         state drawing-room over the hall, and there was a picture of <character ref="Grace Furnivall">Miss Furnivall</character>; or, as she was
@@ -164,17 +164,17 @@
         young; a hat of some soft white stuff like beaver, pulled a little over her brows, and a
         beautiful plume of feathers sweeping round it on one side; and her gown of blue satin was
         open in front to a quilted white stomacher.</p>
-    <p>
+    <p tone="cynical">
         <quote>Well, to be sure!</quote> said I, when I had gazed my fill. <quote>Flesh is grass,
             they do say; but who would have thought that <character ref="Grace Furnivall">Miss Furnivall</character> had been such an out-and-out
             beauty, to see her now.</quote></p>
-    <p>
+    <p tone="suspenseful">
         <quote>Yes,</quote> said <character ref="Dorothy">Dorothy</character>. <quote>Folks change sadly. But if what my master</quote>s
         father used to say was true, <character ref="Grace Furnivall">Miss Furnivall</character>, the elder sister, was handsomer than Miss
         Grace. Her picture is here somewhere; but, if I show it you, you must never let on, even to
         <character ref="James">James</character>, that you have seen it. Can the little lady hold her tongue, think you?' asked
         she.</p>
-    <p> I was not so sure, for she was such a little sweet, bold, open-spoken child, so I set
+    <p tone="serious"> I was not so sure, for she was such a little sweet, bold, open-spoken child, so I set
         her to hide herself; and then I helped <character ref="Dorothy">Dorothy</character> to turn a great picture, that leaned with its
         face towards the wall, and was not hung up as the others were. To be sure, it beat Miss
         Grace for beauty; and, I think, for scornful pride, too, though in that matter it might be
@@ -184,7 +184,7 @@
         child to go. I was a brave, high-spirited girl, and thought little of what the old woman
         said, for I liked hide-and-seek as well as any child in the parish; so off I ran to find my
         little one.</p>
-    <p> As winter drew on, and the days grew shorter, I was sometimes almost certain that I
+    <p tone="suspenseful"> As winter drew on, and the days grew shorter, I was sometimes almost certain that I
         heard a noise as if someone was playing on the great organ in the hall. I did not hear it
         every evening; but, certainly, I did very often, usually when I was sitting with Miss
         Rosamond, after I had put her to bed, and keeping quite still and silent in the bedroom.
@@ -223,7 +223,7 @@
         sad, and <character ref="Mrs. Stark">Mrs. Stark</character> so dull; but she and I were merry enough; and by-and-by, I got not to
         care for that weird rolling music, which did one no harm, if we did not know where it came
         from.</p>
-    <p> That winter was very cold. In the middle of October the frosts began, and lasted
+    <p tone="serious"> That winter was very cold. In the middle of October the frosts began, and lasted
         many, many weeks. I remember one day, at dinner, <character ref="Grace Furnivall">Miss Furnivall</character> lifted up her sad, heavy
         eyes, and said to <character ref="Mrs. Stark">Mrs. Stark</character>, <quote>I am afraid we shall have a terrible winter,</quote> in
         a strange kind of meaning way. But <character ref="Mrs. Stark">Mrs. Stark</character> pretended not to hear, and talked very loud of
@@ -239,7 +239,7 @@
         glad enough to promise, and was so fond of the child, that all seemed well; and <character ref="Bessy">Bessy</character> and I
         set off very briskly, though the sky hung heavy and black over the white earth, as if the
         night had never fully gone away, and the air, though still, was very biting and keen.</p>
-    <p>
+    <p tone="serious">
         <quote>We shall have a fall of snow,</quote> said <character ref="Bessy">Bessy</character> to me. And sure enough, even while
         we were in church, it came down thick, in great large flakes,—so thick, it almost darkened
         the windows. It had stopped snowing before we came out, but it lay soft, thick and deep
@@ -259,25 +259,25 @@
         ways,—and that she had persuaded them to look as if they knew nothing about her; so I went
         softly peeping under this sofa, and behind that chair, making believe I was sadly frightened
         at not finding her.</p>
-    <p>
+    <p tone="suspenseful">
         <quote>What's the matter, <character ref="Hester">Hester</character>?</quote> said <character ref="Mrs. Stark">Mrs. Stark</character>, sharply. I don't know if Miss
         Furnivall had seen me, for, as I told you, she was very deaf, and she sat quite still, idly
         staring into the fire, with her hopeless face. <quote>I'm only looking for my little Rosy
             Posy,</quote> replied I, still thinking that the child was there, and near me, though I
         could not see her.</p>
-    <p>
+    <p tone="serious">
         <quote><character ref="Miss Rosamond">Miss Rosamond</character> is not here,</quote> said <character ref="Mrs. Stark">Mrs. Stark</character>. <quote>She went away, more than
             an hour ago, to find <character ref="Dorothy">Dorothy</character>.</quote> And she, too, turned and went on looking into the
         fire.</p>
-    <p> My heart sank at this, and I began to wish I had never left my darling. I went back
+    <p tone="fear"> My heart sank at this, and I began to wish I had never left my darling. I went back
         to <character ref="Dorothy">Dorothy</character> and told her. <character ref="James">James</character> was gone out for the day, but she, and me, and <character ref="Bessy">Bessy</character> took
         lights, and went up into the nursery first; and then we roamed over the great, large house,
         calling and entreating <character ref="Miss Rosamond">Miss Rosamond</character> to come out of her hiding-place, and not frighten us to
         death in that way. But there was no answer; no sound.</p>
-    <p>
+    <p tone="fear">
         <quote>Oh!</quote> said I, at last, <quote>can she have got into the east wing and hidden
             there?</quote></p>
-    <p> But <character ref="Dorothy">Dorothy</character> said it was not possible, for that she herself had never been in there;
+    <p tone="fear"> But <character ref="Dorothy">Dorothy</character> said it was not possible, for that she herself had never been in there;
         that the doors were always locked, and my lord's steward had the keys, she believed; at any
         rate, neither she nor <character ref="James">James</character> had ever seen them: so I said I would go back, and see if, after
         all, she was not hidden in the drawing-room, unknown to the old ladies; and if I found her
@@ -310,7 +310,7 @@
         and held her near my own warm neck and heart, and felt the life stealing slowly back again
         into her little gentle limbs. But she was still insensible when we reached the hall, and I
         had no breath for speech. We went in by the kitchen-door.</p>
-    <p>
+    <p tone="happiness">
         <quote>Bring me the warming-pan,</quote> said I; and I carried her upstairs and began
         undressing her by the nursery fire, which <character ref="Bessy">Bessy</character> had kept up. I called my little lammie all
         the sweet and playful names I could think of,—even while my eyes were blinded by my tears;
@@ -319,7 +319,7 @@
         by my darling's bedside the live-long night. She fell away into a soft sleep as soon as her
         pretty head had touched the pillow, and I watched by her till morning light; when she
         wakened up bright and clear—or so I thought at first—and, my dears, so I think now.</p>
-    <p> She said, that she had fancied that she should like to go to <character ref="Dorothy">Dorothy</character>, for that both
+    <p tone="happiness"> She said, that she had fancied that she should like to go to <character ref="Dorothy">Dorothy</character>, for that both
         the old ladies were asleep, and it was very dull in the drawing-room; and that, as she was
         going through the west lobby, she saw the snow through the high window falling—falling—soft
         and steady; but she wanted to see it lying pretty and white on the ground; so she made her
@@ -329,18 +329,18 @@
             out; and oh, she was so pretty and so sweet, I could not choose but go.</quote> And then
         this other little girl had taken her by the hand, and side by side the two had gone round
         the east corner.</p>
-    <p>
+    <p tone="serious">
         <quote>Now you are a naughty little girl, and telling stories,</quote> said I. <quote>What
             would your good mamma, that is in heaven, and never told a story in her life, say to her
             little Rosamond, if she heard her—and I daresay she does—telling stories!</quote></p>
-    <p>
+    <p tone="sadness">
         <quote>Indeed, <character ref="Hester">Hester</character>,</quote> sobbed out my child, 'I'm telling you true. Indeed I am.'</p>
-    <p>
+    <p tone="serious">
         <quote>Don't tell me! said I, very stern. </quote><quote>I tracked you by your foot-marks
             through the snow; there were only yours to be seen: and if you had had a little girl to
             go hand-in-hand with you up the hill, don't you think the footprints would have gone
             along with yours?</quote></p>
-    <p>
+    <p tone="sadness">
         <quote>I can't help it, dear, dear <character ref="Hester">Hester</character>,</quote> said she, crying, <quote>if they did not;
             I never looked at her feet, but she held my hand fast and tight in her little one, and
             it was very, very cold. She took me up the Fell-path, up to the holly-trees; and there I
@@ -353,7 +353,7 @@
         and that they wanted to speak to me. They had both been into the night-nursery the evening
         before, but it was after <character ref="Miss Rosamond">Miss Rosamond</character> was asleep; so they had only looked at her—not asked
         me any questions.</p>
-    <p>
+    <p tone="fear">
         <quote>I shall catch it,</quote> thought I to myself, as I went along the north gallery.
             <quote>And yet,</quote> I thought, taking courage, <quote>it was in their charge I left
             her; and it's they that's to blame for letting her steal away unknown and
@@ -362,14 +362,14 @@
         girl out in the snow, coaxing and tempting her out, and willing her up to the grand and
         beautiful lady by the holly-tree, she threw her arms up—her old and withered arms—and cried
         aloud, <quote>Oh! Heaven forgive! Have mercy!</quote></p>
-    <p> <character ref="Mrs. Stark">Mrs. Stark</character> took hold of her; roughly enough, I thought; but she was past <character ref="Mrs. Stark">Mrs. Stark</character>'s
+    <p tone="serious"> <character ref="Mrs. Stark">Mrs. Stark</character> took hold of her; roughly enough, I thought; but she was past <character ref="Mrs. Stark">Mrs. Stark</character>'s
         management, and spoke to me, in a kind of wild warning and authority.</p>
-    <p>
+    <p tone="fear">
         <quote><character ref="Hester">Hester</character>! keep her from that child! It will lure her to her death! That evil child!
             Tell her it is a wicked, naughty child.</quote> Then, <character ref="Mrs. Stark">Mrs. Stark</character> hurried me out of the
         room; where, indeed, I was glad enough to go; but <character ref="Grace Furnivall">Miss Furnivall</character> kept shrieking out,
             <quote>Oh, have mercy! Wilt Thou never forgive! It is many a long year ago——</quote></p>
-    <p> I was very uneasy in my mind after that. I durst never leave <character ref="Miss Rosamond">Miss Rosamond</character>, night or
+    <p tone="fear"> I was very uneasy in my mind after that. I durst never leave <character ref="Miss Rosamond">Miss Rosamond</character>, night or
         day, for fear lest she might slip off again, after some fancy or other; and all the more,
         because I thought I could make out that <character ref="Grace Furnivall">Miss Furnivall</character> was crazy, from their odd ways about
         her; and I was afraid lest something of the same kind (which might be in the family, you
@@ -386,9 +386,9 @@
         whatever she did); and, by-and-by, without our noticing it, it grew dusk indoors, though it
         was still light in the open air, and I was thinking of taking her back into the nursery,
         when, all of a sudden, she cried out,</p>
-    <p>
+    <p tone="optimism">
         <quote>Look, <character ref="Hester">Hester</character>! look! there is my poor little girl out in the snow!</quote></p>
-    <p> I turned towards the long narrow windows, and there, sure enough, I saw a little
+    <p tone="fear"> I turned towards the long narrow windows, and there, sure enough, I saw a little
         girl, less than my <character ref="Miss Rosamond">Miss Rosamond</character>—dressed all unfit to be out-of-doors such a bitter
         night—crying, and beating against the window-panes, as if she wanted to be let in. She
         seemed to sob and wail, till <character ref="Miss Rosamond">Miss Rosamond</character> could bear it no longer, and was flying to the
@@ -401,15 +401,15 @@
         sound had so stunned me into terror; but this I know, I caught up <character ref="Miss Rosamond">Miss Rosamond</character> before she
         got the hall-door opened, and clutched her, and carried her away, kicking and screaming,
         into the large, bright kitchen, where <character ref="Dorothy">Dorothy</character> and <character ref="Agnes">Agnes</character> were busy with their mince-pies. </p>
-    <p>
+    <p tone="fear">
         <quote>What is the matter with my sweet one?</quote> cried <character ref="Dorothy">Dorothy</character>, as I bore in Miss
         Rosamond, who was sobbing as if her heart would break.</p>
-    <p>
+    <p tone="fear">
         <quote>She won't let me open the door for my little girl to come in; and she'll die if she
             is out on the Fells all night. Cruel, naughty <character ref="Hester">Hester</character>,</quote> she said, slapping me; but
         she might have struck harder, for I had seen a look of ghastly terror on <character ref="Dorothy">Dorothy</character>'s face,
         which made my very blood run cold.</p>
-    <p>
+    <p tone="fear">
         <quote>Shut the back-kitchen door fast, and bolt it well,</quote> said she to <character ref="Agnes">Agnes</character>. She
         said no more; she gave me raisins and almonds to quiet <character ref="Miss Rosamond">Miss Rosamond</character>; but she sobbed about
         the little girl in the snow, and would not touch any of the good things. I was thankful when
@@ -421,7 +421,7 @@
         always without any sound or noise—with the dark wound on its right shoulder; and that Miss
         Rosamond had known it again for the phantom that had nearly lured her to her death (which
         <character ref="Dorothy">Dorothy</character> knew was true); I would stand it no longer.</p>
-    <p> I saw <character ref="Dorothy">Dorothy</character> change colour once or twice. When I had done, she told me she did not
+    <p tone="fear"> I saw <character ref="Dorothy">Dorothy</character> change colour once or twice. When I had done, she told me she did not
         think I could take <character ref="Miss Rosamond">Miss Rosamond</character> with me, for that she was my lord's ward, and I had no
         right over her; and she asked me would I leave the child that I was so fond of just for
         sounds and sights that could do me no harm; and that they had all had to get used to in
@@ -430,10 +430,10 @@
         to do with the spectre child while it was alive. And I taunted her so, that she told me all
         she knew at last; and then I wished I had never been told, for it only made me more afraid
         than ever.</p>
-    <p> She said she had heard the tale from old neighbours that were alive when she was
+    <p tone="suspenseful"> She said she had heard the tale from old neighbours that were alive when she was
         first married; when folks used to come to the hall sometimes, before it had got such a bad
         name on the country side: it might not be true, or it might, what she had been told.</p>
-    <p> The old lord was <character ref="Grace Furnivall">Miss Furnivall</character>'s father—Miss Grace, as <character ref="Dorothy">Dorothy</character> called her, for Miss
+    <p> The old lord was <character ref="Grace Furnivall">Miss Furnivall</character>'s father—<character ref="Miss Grace">Miss Grace</character>, as <character ref="Dorothy">Dorothy</character> called her, for Miss
         Maude was the elder, and <character ref="Grace Furnivall">Miss Furnivall</character> by rights. The old lord was eaten up with pride.
         Such a proud man was never seen or heard of; and his daughters were like him. No one was
         good enough to wed them, although they had choice enough; for they were the great beauties
@@ -451,14 +451,14 @@
         the great organ brought from Holland, and built up in the hall, where it stood now. He
         taught the old lord to play on it; but many and many a time, when <character ref="Lord Furnivall">Lord Furnivall</character> was
         thinking of nothing but his fine organ, and his finer music, the dark foreigner was walking
-        abroad in the woods with one of the young ladies; now <character ref="Maude Furnivall">Miss Maude</character>, and then Miss Grace.</p>
+        abroad in the woods with one of the young ladies; now <character ref="Maude Furnivall">Miss Maude</character>, and then <character ref="Miss Grace">Miss Grace</character>.</p>
     <p> <character ref="Maude Furnivall">Miss Maude</character> won the day and carried off the prize, such as it was; and he and she were
         married, all unknown to any one; and before he made his next yearly visit, she had been
-        confined of a little girl at a farm-house on the Moors, while her father and Miss Grace
+        confined of a little girl at a farm-house on the Moors, while her father and <character ref="Miss Grace">Miss Grace</character>
         thought she was away at Doncaster Races. But though she was a wife and a mother, she was not
         a bit softened, but as haughty and as passionate as ever; and perhaps more so, for she was
-        jealous of Miss Grace, to whom her foreign husband paid a deal of court—by way of blinding
-        her—as he told his wife. But Miss Grace triumphed over <character ref="Maude Furnivall">Miss Maude</character>, and <character ref="Maude Furnivall">Miss Maude</character> grew
+        jealous of <character ref="Miss Grace">Miss Grace</character>, to whom her foreign husband paid a deal of court—by way of blinding
+        her—as he told his wife. But <character ref="Miss Grace">Miss Grace</character> triumphed over <character ref="Maude Furnivall">Miss Maude</character>, and <character ref="Maude Furnivall">Miss Maude</character> grew
         fiercer and fiercer, both with her husband and with her sister; and the former—who could
         easily shake off what was disagreeable, and hide himself in foreign countries—went away a
         month before his usual time that summer, and half-threatened that he would never come back
@@ -469,7 +469,7 @@
         soothed down his awful temper, of which (<character ref="Dorothy">Dorothy</character> said) some terrible tales could be told. He
         grew infirm too, and had to walk with a crutch; and his son—that was the present Lord
         Furnivall's father—was with the army in America, and the other son at sea; so <character ref="Maude Furnivall">Miss Maude</character> had
-        it pretty much her own way, and she and Miss Grace grew colder and bitterer to each other
+        it pretty much her own way, and she and <character ref="Miss Grace">Miss Grace</character> grew colder and bitterer to each other
         every day; till at last they hardly ever spoke, except when the old lord was by. The foreign
         musician came again the next summer, but it was for the last time; for they led him such a
         life with their jealousy and their passions, that he grew weary, and went away, and never
@@ -477,7 +477,7 @@
         when her father should be dead, was left now a deserted wife, whom nobody knew to have been
         married, with a child that she dared not own, although she loved it to distraction; living
         with a father whom she feared, and a sister whom she hated. When the next summer passed
-        over, and the dark foreigner never came, both <character ref="Maude Furnivall">Miss Maude</character> and Miss Grace grew gloomy and sad;
+        over, and the dark foreigner never came, both <character ref="Maude Furnivall">Miss Maude</character> and <character ref="Miss Grace">Miss Grace </character>grew gloomy and sad;
         they had a haggard look about them, though they looked handsome as ever. But, by-and-by,
         Maude brightened; for her father grew more and more infirm, and more than ever carried away
         by his music; and she and Miss Grace lived almost entirely apart, having separate rooms, the
