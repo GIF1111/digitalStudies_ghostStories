@@ -433,7 +433,7 @@
     <p tone="suspenseful"> She said she had heard the tale from old neighbours that were alive when she was
         first married; when folks used to come to the hall sometimes, before it had got such a bad
         name on the country side: it might not be true, or it might, what she had been told.</p>
-    <p> The old lord was <character ref="Grace Furnivall">Miss Furnivall</character>'s father—<character ref="Miss Grace">Miss Grace</character>, as <character ref="Dorothy">Dorothy</character> called her, for Miss
+    <p tone="serious"> The old lord was <character ref="Grace Furnivall">Miss Furnivall</character>'s father—<character ref="Miss Grace">Miss Grace</character>, as <character ref="Dorothy">Dorothy</character> called her, for Miss
         Maude was the elder, and <character ref="Grace Furnivall">Miss Furnivall</character> by rights. The old lord was eaten up with pride.
         Such a proud man was never seen or heard of; and his daughters were like him. No one was
         good enough to wed them, although they had choice enough; for they were the great beauties
@@ -452,7 +452,7 @@
         taught the old lord to play on it; but many and many a time, when <character ref="Lord Furnivall">Lord Furnivall</character> was
         thinking of nothing but his fine organ, and his finer music, the dark foreigner was walking
         abroad in the woods with one of the young ladies; now <character ref="Maude Furnivall">Miss Maude</character>, and then <character ref="Miss Grace">Miss Grace</character>.</p>
-    <p> <character ref="Maude Furnivall">Miss Maude</character> won the day and carried off the prize, such as it was; and he and she were
+    <p tone="serious"> <character ref="Maude Furnivall">Miss Maude</character> won the day and carried off the prize, such as it was; and he and she were
         married, all unknown to any one; and before he made his next yearly visit, she had been
         confined of a little girl at a farm-house on the Moors, while her father and <character ref="Miss Grace">Miss Grace</character>
         thought she was away at Doncaster Races. But though she was a wife and a mother, she was not
@@ -492,7 +492,7 @@
         husband. The colour left Miss Grace's cheek and lips that very day for ever, and she was
         heard to say many a time that sooner or later she would have her revenge; and <character ref="Mrs. Stark">Mrs. Stark</character> was
         for ever spying about the east rooms.</p>
-    <p> One fearful night, just after the New Year had come in, when the snow was lying thick
+    <p tone="fear"> One fearful night, just after the New Year had come in, when the snow was lying thick
         and deep; and the flakes were still falling—fast enough to blind any one who might be out
         and abroad—there was a great and violent noise heard, and the old lord's voice above all,
         cursing and swearing awfully, and the cries of a little child, and the proud defiance of a
@@ -510,7 +510,7 @@
             <quote>it was the frost and the cold. Every wild creature was in its hole, and every
             beast in its fold, while the child and its mother were turned out to wander on the
             Fells! And now you know all! and I wonder if you are less frightened now?</quote></p>
-    <p> I was more frightened than ever; but I said I was not. I wished <character ref="Miss Rosamond">Miss Rosamond</character> and
+    <p tone="fear"> I was more frightened than ever; but I said I was not. I wished <character ref="Miss Rosamond">Miss Rosamond</character> and
         myself well out of that dreadful house for ever; but I would not leave her, and I dared not
         take her away. But oh, how I watched her, and guarded her! We bolted the doors, and shut the
         window-shutters fast, an hour or more before dark, rather than leave them open five minutes
@@ -526,7 +526,7 @@
         she came to those words, she would listen, and start up from her knees, and say, <quote>I
             hear my little girl plaining and crying very sad—oh, let her in, or she will
             die!</quote></p>
-    <p> One night—just after New Year's Day had come at last, and the long winter had taken a
+    <p tone="fear"> One night—just after New Year's Day had come at last, and the long winter had taken a
         turn, as I hoped—I heard the west drawing-room bell ring three times, which was the signal
         for me. I would not leave <character ref="Miss Rosamond">Miss Rosamond</character> alone, for all she was asleep—for the old lord had
         been playing wilder than ever—and I feared lest my darling should waken to hear the spectre
@@ -540,13 +540,13 @@
         said <character ref="Grace Furnivall">Miss Furnivall</character> wanted me to undo some work she had done wrong, and which neither of
         them could see to unpick. So I laid my pretty dear on the sofa, and sat down on a stool by
         them, and hardened my heart against them, as I heard the wind rising and howling.</p>
-    <p> <character ref="Miss Rosamond">Miss Rosamond</character> slept on sound, for all the wind blew so <character ref="Grace Furnivall">Miss Furnivall</character> said never a
+    <p tone="suspenseful"> <character ref="Miss Rosamond">Miss Rosamond</character> slept on sound, for all the wind blew so <character ref="Grace Furnivall">Miss Furnivall</character> said never a
         word, nor looked round when the gusts shook the windows. All at once she started up to her
         full height, and put up one hand, as if to bid us to listen.</p>
-    <p>
+    <p tone="fear">
         <quote>I hear voices!</quote> said she. <quote>I hear terrible screams—I hear my father's
             voice!</quote></p>
-    <p> Just at that moment my darling wakened with a sudden start: <quote>My little girl is
+    <p tone="fear"> Just at that moment my darling wakened with a sudden start: <quote>My little girl is
             crying, oh, how she is crying!</quote> and she tried to get up and go to her, but she
         got her feet entangled in the blanket, and I caught her up; for my flesh had begun to creep
         at these noises, which they heard while we could catch no sound. In a minute or two the
@@ -563,30 +563,30 @@
         darling closer to me. But as I did so the east door shook, and she, suddenly struggling to
         get free from me, cried, <quote><character ref="Hester">Hester</character>! I must go. My little girl is there! I hear her; she
             is coming! <character ref="Hester">Hester</character>, I must go!</quote></p>
-    <p> I held her tight with all my strength; with a set will, I held her. If I had died, my
+    <p tone="fear"> I held her tight with all my strength; with a set will, I held her. If I had died, my
         hands would have grasped her still, I was so resolved in my mind. <character ref="Grace Furnivall">Miss Furnivall</character> stood
         listening, and paid no regard to my darling, who had got down to the ground, and whom I,
         upon my knees now, was holding with both my arms clasped round her neck; she still striving
         and crying to get free.</p>
-    <p> All at once, the east door gave way with a thundering crash, as if torn open in a
+    <p tone="fear"> All at once, the east door gave way with a thundering crash, as if torn open in a
         violent passion, and there came into that broad and mysterious light, the figure of a tall
         old man, with grey hair and gleaming eyes. He drove before him, with many a relentless
         gesture of abhorrence, a stern and beautiful woman, with a little child clinging to her
         dress.</p>
-    <p>
+    <p tone="fear">
         <quote>Oh, <character ref="Hester">Hester</character>! <character ref="Hester">Hester</character>!</quote> cried <character ref="Miss Rosamond">Miss Rosamond</character>; <quote>it's the lady! the lady below
             the holly-trees; and my little girl is with her. <character ref="Hester">Hester</character>! <character ref="Hester">Hester</character>! let me go to her; they
             are drawing me to them. I feel them—I feel them. I must go!</quote></p>
-    <p> Again she was almost convulsed by her efforts to get away; but I held her tighter and
+    <p tone="fear"> Again she was almost convulsed by her efforts to get away; but I held her tighter and
         tighter, till I feared I should do her a hurt; but rather that than let her go towards those
         terrible phantoms. They passed along towards the great hall-door, where the winds howled and
         ravened for their prey; but before they reached that, the lady turned; and I could see that
         she defied the old man with a fierce and proud defiance; but then she quailed—and then she
         threw up her arms wildly and piteously to save her child—her little child—from a blow from
         his uplifted crutch.</p>
-    <p> And <character ref="Miss Rosamond">Miss Rosamond</character> was torn as by a power stronger than mine and writhed in my arms,
+    <p tone="fear"> And <character ref="Miss Rosamond">Miss Rosamond</character> was torn as by a power stronger than mine and writhed in my arms,
         and sobbed (for by this time the poor darling was growing faint).</p>
-    <p>
+    <p tone="fear">
         <quote>They want me to go with them on to the Fells—they are drawing me to them. Oh, my
             little girl! I would come, but cruel, wicked <character ref="Hester">Hester</character> holds me very tight.</quote> But
         when she saw the uplifted crutch, she swooned away, and I thanked God for it. Just at this
@@ -603,7 +603,7 @@
         the little child, and the younger sister looked on, stony, and deadly serene. But at that
         moment, the dim lights, and the fire that gave no heat, went out of themselves, and Miss
         Furnivall lay at our feet stricken down by the palsy—death-stricken.</p>
-    <p> Yes! she was carried to her bed that night never to rise again. She lay with her face
+    <p tone="sadness"> Yes! she was carried to her bed that night never to rise again. She lay with her face
         to the wall, muttering low, but muttering always: <quote>Alas! alas! what is done in youth
             can never be undone in age! What is done in youth can never be undone in
         age!</quote></p>
