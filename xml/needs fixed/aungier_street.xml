@@ -40,8 +40,8 @@
     <p tone="suspenseful"> The house, to begin with, was a very old one. It had been, I believe, newly fronted about
         fifty years before; but with this exception, it had nothing modern about it. The agent who
         bought it and looked into the titles for my uncle, told me that it was sold, along with much
-        other forfeited property, at Chichester House, I think, in 1702; and had belonged to Sir
-        Thomas Hacket, who was Lord Mayor of Dublin in James II.'s time. How old it was then, I
+        other forfeited property, at <place>Chichester House</place>, I think, in <year>1702</year>; and had belonged to Sir
+        Thomas Hacket, who was Lord Mayor of <place>Dublin</place> in James II.'s time. How old it was then, I
         can't say; but, at all events, it had seen years and changes enough to have contracted all
         that mysterious and saddened air, at once exciting and depressing, which belongs to most old
         mansions.</p>
@@ -56,7 +56,7 @@
 
     <p tone="cynical"> An effort had, indeed, been made, to the extent of papering the drawing-rooms; but somehow,
         the paper looked raw and out of keeping; and the old woman, who kept a little dirt-pie of a
-        shop in the lane, and whose daughter—a girl of two and fifty—was our solitary handmaid,
+        shop in the <place>lane</place>, and whose daughter—a girl of two and fifty—was our solitary handmaid,
         coming in at sunrise, and chastely receding again as soon as she had made all ready for tea
         in our state apartment;—this woman, I say, remembered it, when old <character ref=" Judge Horrocks">Judge Horrocks</character> (who,
         having earned the reputation of a particularly hanging judge, ended by hanging himself, as
@@ -68,7 +68,7 @@
     <p tone="fear"> The bedrooms were wainscoted, but the front one was not gloomy; and in it the cosiness of
         antiquity quite overcame its sombre associations. But the back bedroom, with its two
         queerly-placed melancholy windows, staring vacantly at the foot of the bed, and with the
-        shadowy recess to be found in most old houses in Dublin, like a large ghostly closet, which,
+        shadowy recess to be found in most old houses in <place>Dublin</place>, like a large ghostly closet, which,
         from congeniality of temperament, had amalgamated with the bedchamber, and dissolved the
         partition. At night-time, this alcove—as our maid was wont to call it—had, in my eyes, a
         specially sinister and suggestive character. <character ref="Tom Ludlow">Tom</character>'s distant and solitary candle glimmered
@@ -161,7 +161,7 @@
 
     <p tone="suspenseful"> He took a long breath before he answered me, and then it was not very coherently.</p>
 
-    <p tone="fear"> It's nothing, nothing at all—did I speak?—what did I say?—where's the candle, Richard? It's
+    <p tone="fear"> It's nothing, nothing at all—did I speak?—what did I say?—where's the candle, <character ref="Richard">Richard</character>? It's
         dark; I—I had a candle!</p>
 
     <p tone="fear"> Yes, dark enough, I said; but what's the matter?—what is it?—why don't you speak, <character ref="Tom Ludlow">Tom</character>?—have
@@ -178,7 +178,7 @@
     <p tone="n/a"> In your room, most likely, I said, shall I go and bring it?</p>
 
     <p tone="fear"> No; stay here—don't go; it's no matter—don't, I tell you; it was all a dream. Bolt the door,
-        Dick; I'll stay here with you—I feel nervous. So, Dick, like a good fellow, light your
+        <character ref="Richard">Dick</character>; I'll stay here with you—I feel nervous. So, <character ref="Richard">Dick</character>, like a good fellow, light your
         candle and open the window—I am in a shocking state.</p>
 
     <p tone="ironic"> I did as he asked me, and robing himself like Granuaile in one of my blankets, he seated
@@ -197,7 +197,7 @@
 
     <p tone="suspenseful"> <character ref="Tom Ludlow">Tom</character> agreed, and, after an interval, said----</p>
 
-    <p tone="serious"> I have been thinking, Richard, that it is a long time since I saw my father, and I have made
+    <p tone="serious"> I have been thinking, <character ref="Richard">Richard</character>, that it is a long time since I saw my father, and I have made
         up my mind to go down to-morrow and return in a day or two, and you can take rooms for us in
         the meantime.</p>
 
@@ -300,7 +300,7 @@
 
     <p tone="suspenseful"> Silence, meanwhile, grew more silent, and darkness darker. I listened in vain for the rumble
         of a vehicle, or the dull clamour of a distant row. There was nothing but the sound of a
-        rising wind, which had succeeded the thunder-storm that had travelled over the Dublin
+        rising wind, which had succeeded the thunder-storm that had travelled over the <place>Dublin</place>
         mountains quite out of hearing. In the middle of this great city I began to feel myself
         alone with nature, and Heaven knows what beside. My courage was ebbing. Punch, however,
         which makes beasts of so many, made a man of me again—just in time to hear with tolerable
@@ -336,7 +336,7 @@
         succeeded in getting rooms; and because the change of scene and return of my comrade were
         rendered specially pleasant by the last night's half ridiculous half horrible adventure.</p>
 
-    <p tone="happiness"> I slept extemporaneously in my new quarters in Digges' Street that night, and next morning
+    <p tone="happiness"> I slept extemporaneously in my new quarters in <place>Digges' Street</place> that night, and next morning
         returned for breakfast to the haunted mansion, where I was certain <character ref="Tom Ludlow">Tom</character> would call
         immediately on his arrival.</p>
 
@@ -365,7 +365,7 @@
     <p tone="suspenseful"> At this challenge he looked uneasily round him. I had poked up a very unpleasant
         recollection.</p>
 
-    <p tone="cynical"> You shall hear it, Dick; I'll tell it to you, he said. Begad, sir, I should feel quite
+    <p tone="cynical"> You shall hear it, <character ref="Richard">Dick</character>; I'll tell it to you, he said. Begad, sir, I should feel quite
         queer, though, telling it here, though we are too strong a body for ghosts to meddle with
         just now.</p>
 
@@ -374,7 +374,7 @@
         suspended operations, and with mouth and eyes wide open became an absorbed listener. <character ref="Tom Ludlow">Tom</character>'s
         experiences were told nearly in these words:----</p>
 
-    <p tone="fear"> I saw it three times, Dick—three distinct times; and I am perfectly certain it meant me some
+    <p tone="fear"> I saw it three times, <character ref="Richard">Dick</character>—three distinct times; and I am perfectly certain it meant me some
         infernal harm. I was, I say, in danger—in extreme danger; for, if nothing else had happened,
         my reason would most certainly have failed me, unless I had escaped so soon. Thank God. I
         did escape.</p>
@@ -438,7 +438,7 @@
 
     <p tone="cynical"> One of the most remarkable phenomena connected with the practice of mendacity is the vast
         number of deliberate lies we tell ourselves, whom, of all persons, we can least expect to
-        deceive. In all this, I need hardly tell you, Dick, I was simply lying to myself, and did
+        deceive. In all this, I need hardly tell you, <character ref="Richard">Dick</character>, I was simply lying to myself, and did
         not believe one word of the wretched humbug. Yet I went on, as men will do, like persevering
         charlatans and impostors, who tire people into credulity by the mere force of reiteration;
         so I hoped to win myself over at last to a comfortable scepticism about the ghost.</p>
@@ -446,13 +446,13 @@
     <p tone="cynical"> He had not appeared a second time—that certainly was a comfort; and what, after all, did I
         care for him, and his queer old toggery and strange looks? Not a fig! I was nothing the
         worse for having seen him, and a good story the better. So I tumbled into bed, put out my
-        candle, and, cheered by a loud drunken quarrel in the back lane, went fast asleep.</p>
+        candle, and, cheered by a loud drunken quarrel in the back <place>lane</place>, went fast asleep.</p>
 
     <p tone="fear"> From this deep slumber I awoke with a start. I knew I had had a horrible dream; but what it
         was I could not remember. My heart was thumping furiously; I felt bewildered and feverish; I
         sate up in the bed and looked about the room. A broad flood of moonlight came in through the
         curtainless window; everything was as I had last seen it; and though the domestic squabble
-        in the back lane was, unhappily for me, allayed, I yet could hear a pleasant fellow singing,
+        in the back <place>lane</place> was, unhappily for me, allayed, I yet could hear a pleasant fellow singing,
         on his way home, the then popular comic ditty called, 'Murphy Delany.' Taking advantage of
         this diversion I lay down again, with my face towards the fireplace, and closing my eyes,
         did my best to think of nothing else but the song, which was every moment growing fainter in
@@ -481,7 +481,7 @@
         sharply, 'dead! dead! dead! and may the Lord have mercy on your soul!' and instantaneously I
         was wide awake, and staring right before me from the pillow.</p>
 
-    <p tone="fear"> Now—will you believe it, Dick?—I saw the same accursed figure standing full front, and
+    <p tone="fear"> Now—will you believe it, <character ref="Richard">Dick</character>?—I saw the same accursed figure standing full front, and
         gazing at me with its stony and fiendish countenance, not two yards from the bedside.</p>
 
     <p tone="suspenseful"> <character ref="Tom Ludlow">Tom</character> stopped here, and wiped the perspiration from his face. I felt very queer. The girl was
@@ -494,19 +494,19 @@
         me and the wall; and I felt sure that he was still there. After a good while, this
         appearance went too. I took my clothes downstairs to the hall, and dressed there, with the
         door half open; then went out into the street, and walked about the town till morning, when
-        I came back, in a miserable state of nervousness and exhaustion. I was such a fool, Dick, as
+        I came back, in a miserable state of nervousness and exhaustion. I was such a fool, <character ref="Richard">Dick</character>, as
         to be ashamed to tell you how I came to be so upset. I thought you would laugh at me;
         especially as I had always talked philosophy, and treated your ghosts with contempt. I
         concluded you would give me no quarter; and so kept my tale of horror to myself.</p>
 
-    <p tone="fear"> Now, Dick, you will hardly believe me, when I assure you, that for many nights after this
+    <p tone="fear"> Now, <character ref="Richard">Dick</character>, you will hardly believe me, when I assure you, that for many nights after this
         last experience, I did not go to my room at all. I used to sit up for a while in the
         drawing-room after you had gone up to your bed; and then steal down softly to the hall-door,
-        let myself out, and sit in the 'Robin Hood' tavern until the last guest went off; and then I
+        let myself out, and sit in the '<place>Robin Hood' tavern</place> until the last guest went off; and then I
         got through the night like a sentry, pacing the streets till morning.</p>
 
-    <p tone="fear"> For more than a week I never slept in bed. I sometimes had a snooze on a form in the 'Robin
-        Hood,' and sometimes a nap in a chair during the day; but regular sleep I had absolutely
+    <p tone="fear"> For more than a week I never slept in bed. I sometimes had a snooze on a form in the '<place>Robin
+        Hood</place>,' and sometimes a nap in a chair during the day; but regular sleep I had absolutely
         none.</p>
 
     <p tone="fear"> I was quite resolved that we should get into another house; but I could not bring myself to
@@ -515,7 +515,7 @@
         constables on his track. I was growing absolutely ill from this wretched mode of life.</p>
 
     <p tone="fear"> One afternoon I determined to enjoy an hour's sleep upon your bed. I hated mine; so that I
-        had never, except in a stealthy visit every day to unmake it, lest Martha should discover
+        had never, except in a stealthy visit every day to unmake it, lest <character ref="Martha">Martha</character> should discover
         the secret of my nightly absence, entered the ill-omened chamber.</p>
 
     <p tone="serious"> As ill-luck would have it, you had locked your bedroom, and taken away the key. I went into
@@ -564,11 +564,11 @@
         sensual, so unspeakably dreadful, that my senses were nearly overpowered. I saw and remember
         nothing more, until I found myself in your room.</p>
 
-    <p tone="fear"> I had a wonderful escape, Dick—there is no disputing that—an escape for which, while I live,
+    <p tone="fear"> I had a wonderful escape, <character ref="Richard">Dick</character>—there is no disputing that—an escape for which, while I live,
         I shall bless the mercy of heaven. No one can conceive or imagine what it is for flesh and
         blood to stand in the presence of such a thing, but one who has had the terrific experience.
-        Dick, Dick, a shadow has passed over me—a chill has crossed my blood and marrow, and I will
-        never be the same again—never, Dick—never!</p>
+        <character ref="Richard">Dick</character>, <character ref="Richard">Dick</character>, a shadow has passed over me—a chill has crossed my blood and marrow, and I will
+        never be the same again—never, <character ref="Richard">Dick</character>—never!</p>
 
     <p tone="suspenseful"> Our handmaid, a mature girl of two-and-fifty, as I have said, stayed her hand, as <character ref="Tom Ludlow">Tom</character>'s
         story proceeded, and by little and little drew near to us, with open mouth, and her brows
@@ -578,7 +578,7 @@
         and simplicity, I have omitted in my narration.</p>
 
     <p tone="fear"> It's often I heard tell of it, she now said, but I never believed it rightly till
-        now—though, indeed, why should not I? Does not my mother, down there in the lane, know quare
+        now—though, indeed, why should not I? Does not my mother, down there in the <place>lane</place>, know quare
         stories, God bless us, beyant telling about it? But you ought not to have slept in the back
         bedroom. She was loath to let me be going in and out of that room even in the day time, let
         alone for any Christian to spend the night in it; for sure she says it was his own
@@ -613,7 +613,7 @@
         villain, God rest his soul, to frighten the little girl out of the world the way he did, was
         what was mostly thought and believed by every one. My mother says how the poor little
         crathure was his own child; for he was by all accounts an ould villain every way, an' the
-        hangin'est judge that ever was known in Ireland's ground.</p>
+        hangin'est judge that ever was known in <place>Ireland</place>'s ground.</p>
 
     <p tone="serious"> From what you said about the danger of sleeping in that bedroom, said I, I suppose there
         were stories about the ghost having appeared there to others.</p>
@@ -623,11 +623,11 @@
         than twenty years? and was it not in the alcove he got the rope ready that done his own
         business at last, the way he done many a betther man's in his lifetime?—and was not the body
         lying in the same bed after death, and put in the coffin there, too, and carried out to his
-        grave from it in Pether's churchyard, after the coroner was done? But there was quare
-        stories—my mother has them all—about how one Nicholas Spaight got into trouble on the head
+        grave from it in <place>Pether's churchyard</place>, after the coroner was done? But there was quare
+        stories—my mother has them all—about how one <character ref="Nicholas Spaight">Nicholas Spaight</character> got into trouble on the head
         of it.</p>
 
-    <p tone="serious"> And what did they say of this Nicholas Spaight? I asked.</p>
+    <p tone="serious"> And what did they say of this <character ref="Nicholas Spaight">Nicholas Spaight</character>? I asked.</p>
 
     <p tone="n/a"> Oh, for that matther, it's soon told, she answered.</p>
 
@@ -672,7 +672,7 @@
 
     <p tone="suspenseful"> Then the handmaiden added----</p>
 
-    <p tone="n/a"> I'll go down to the lane, and send up Joe Gavvey to pack up the rest of the taythings, and
+    <p tone="n/a"> I'll go down to the <place>lane</place>, and send up <character ref="Joe Gavvey">Joe Gavvey</character> to pack up the rest of the taythings, and
         bring all the things across to your new lodgings.</p>
 
     <p tone="fear"> And so we all sallied out together, each of us breathing more freely, I have no doubt, as we
