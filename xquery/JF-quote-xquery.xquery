@@ -20,5 +20,5 @@ let $percentage :=
 return
   <story>
     <title>{ $title }</title>
-    <dialogue-percentage>{ $percentage }</dialogue-percentage>
+    <dialogue-percentage>{ $percentage }%</dialogue-percentage>
   </story>
