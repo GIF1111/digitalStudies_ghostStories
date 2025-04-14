@@ -1,20 +1,23 @@
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Tone Analysis Visualization</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
+    
+        body {{
+            font-family: "Arial";
             text-align: center;
-        }
-        .container {
+        }} 
+       
+        .container {{
             width: 500px;
             margin: auto;
-        }
-        svg {
+        }}
+        svg {{
             border: 1px solid #ccc;
-        }
+        }}
+    
     </style>
 </head>
 <body>
@@ -27,7 +30,7 @@
             {
                 let $tones := (
                     for $doc in collection("../xml/?select=*.xml")
-                    return $doc//title/@tone/string()
+                    return $doc//p/@tone/string()
                 )
                 let $tone-counts := map:merge(
                     for $tone in distinct-values($tones)
