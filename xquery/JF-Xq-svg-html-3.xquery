@@ -21,6 +21,7 @@
     </style>
 </head>
 <body>
+    
     <div class="container">
         <h1>Tone Analysis from XML Data</h1>
         <p>This bar chart visualizes the occurrence of different tones found in the XML dataset.</p>
@@ -35,6 +36,7 @@
                 let $tone-counts := map:merge(
                     for $tone in distinct-values($tones)
                     return map:entry($tone, count($tones[. eq $tone]))
+                    
                 )
                 let $max-count := max((map:keys($tone-counts) ! $tone-counts(.), 0))
                 
