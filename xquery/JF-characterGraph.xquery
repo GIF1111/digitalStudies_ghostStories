@@ -33,7 +33,7 @@ declare namespace svg = "http://www.w3.org/2000/svg";
     </style>
   </head>
   <body>
-  <nav><a href="index.html">Home</a><a href="tonepage.html">Tone Analysis</a><a href="#">Mystery</a><a href="about.html">About</a></nav>
+  
   
     <h1>Character Frequency Visualization</h1>
 
