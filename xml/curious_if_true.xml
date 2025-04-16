@@ -3,7 +3,7 @@
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title>CURIOUS, IF TRUE</title>
-    <p tone="n/a">(Extract from a letter from <character ref="Richard Whittingham">Richard Whittingham</character>, Esq.)</p>
+  <chapter n="1">  <p tone="n/a">(Extract from a letter from <character ref="Richard Whittingham">Richard Whittingham</character>, Esq.)</p>
     <p tone="ironic">
        You were formerly so much amused at my pride in my descent from that
             sister of Calvin's, who married a <character ref="Richard Whittingham">Whittingham</character>, Dean of <place>Durham</place>, that I doubt if you will
@@ -484,4 +484,4 @@
             oak-tree, with the slanting glory of the dawning day shining full in my face, and
             thousands of little birds and delicate insects piping and warbling out their welcome to
             the ruddy splendour. </p>
-</story>
+</chapter></story>

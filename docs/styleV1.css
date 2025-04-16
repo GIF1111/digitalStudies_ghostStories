@@ -2,95 +2,118 @@
 @import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
 
 /* Global Styles */
-html {
-    font-size: 20px;
-    background-color: #1c1c1c; /* Dark background for spooky vibes */
-    color: black; /* Light text */
-    text-align: center;
-    
-}
 
 
-/* LS: Menu Bar */
-nav {
-    font-family: 'Creepster', serif; /* Spooky font */
-
-    position: sticky;
-    top: 0;
-    left: 0;
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    background: #000000; /* Dark background for menu */
-}
-
-a {
-    color: blue;
-    text-decoration: none;
-}
-
-.dropDown {
-    padding: 12px 0px;
-    position: relative;
-    cursor: pointer;
-}
-
-.dropDown > a {
-    padding: 0px 30px;
-    gap: 2px;
-}
-
-/* LS: Dropdown Menu */
-.dropDown:hover .menu {
-    opacity: 1;
-    visibility: visible;
-}
-
-.menu {
-    position: absolute;
-    top: 45px;
-    display: grid;
-    background: #252525; /* Dark dropdown background */
-    opacity: 0;
-    visibility: hidden;
-    transition: .25s;
-}
-
-nav a {
-    color: #ffffff; /* LS: Color for links in the menu bar (white) */
-}
-
-.menu > a {
-    font-size: 20px;
-    padding: 12px 20px;
-    color: white;
-}
-
-.menu > a:hover, .dropDown:hover {
-    color: #fffcfd;
-    background: black;
-}
-
-.section-divider {
-    display: block;
-    height: 1px;
-    margin: 0;
-    border: none;
-    background-color: #252525;
-    width: 85%;
-    margin: auto;
-}
 
 
-    main {
-    max-width: 1000px;
-    margin: 20px auto;
-    padding: 5px;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    
-}
+ body, html {
+            margin: 0;
+            padding: 0;
+            font-family: 'Georgia', serif;
+            color: #f5f5f5;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-around;
+            background: #000;
+            padding: 1rem;
+        }
+
+        nav a {
+            color: #eee;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: red;
+        }
+
+        .title {
+            background-image: url('../images/gothic-7180565.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .title h1 {
+            font-size: 3rem;
+            color: white;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+        }
+
+        .subtitle {
+            color: red;
+            font-size: 1.5rem;
+            margin-top: 0.5rem;
+        }
+
+        main {
+            background-color: #111;
+            padding: 2rem;
+        }
+
+        .intro p {
+            font-size: 1.2rem;
+            margin: 0.5rem 0;
+        }
+
+        .stories h2 {
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .story-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .story-card {
+            background: #222;
+            padding: 1rem;
+            border-radius: 8px;
+        }
+
+        .story-card h3 {
+            color: #fff;
+            font-size: 1.3rem;
+        }
+
+        .story-card p {
+            color: #ccc;
+        }
+
+        .image-section {
+            background: #1a1a1a;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .image-box {
+            background-image: url('../images/london-6717244.jpg');
+            background-size: cover;
+            background-position: center;
+            padding: 4rem 2rem;
+            color: white;
+            border-radius: 10px;
+        }
+
+        footer {
+            text-align: center;
+            background: #000;
+            padding: 1rem;
+            color: red;
+            font-size: 0.9rem;
+        }
+
+  
 
     .background-container {
     background-image: url('images/istockphoto-165038551-612x612.jpg');
@@ -100,9 +123,6 @@ nav a {
     color: white; 
     padding: 20px; 
     min-height: 100vh; 
-}
-main a {
-    color: blue !important;
 }
 
 /* Footer */
@@ -115,7 +135,7 @@ footer {
     font-size: 18px;
     text-shadow: 0px 0px 8px red; /* Red glowing text */
     animation: flicker 1.5s infinite alternate; /* Flickering text effect */
-}
+
 
 /* Flickering Effect */
 @keyframes flicker {

@@ -1,165 +1,74 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    exclude-result-prefixes="xs" version="3.0">
+    exclude-result-prefixes="xs"
+    version="3.0">
     
+    <xsl:output method="html" indent="yes" encoding="UTF-8" doctype-system="" doctype-public=""/>
+    <xsl:mode on-no-match="shallow-copy"/>
     
-    <xsl:output method="html" encoding="UTF-8" indent="yes"/>
+    <!-- Load all story XML files -->
+    <xsl:variable name="files" select="collection('file:../xml/?select=*.xml')"/>
     
-    <!-- Variable to store the collection of XML data -->
-    <xsl:variable name="digitalStudies_ghostStoriesProject" select="collection('../xml/?select=*.xml')"/>
-    
-    
-    
-    <!-- Main template for the Collection of Stories page -->
-    <xsl:template match="/">
-        <html>
-            <head>
-                <title>Collection of Stories</title>
-                <link type="text/css" href="styleV1.css" rel="stylesheet"/>
-            </head>
+    <xsl:template name="xsl:initial-template">
+        <xsl:for-each select="$files">
+            <xsl:variable name="story" select="/*"/>
+            <xsl:variable name="title" select="normalize-space($story/title)"/>
+            <xsl:variable name="year" select="normalize-space(($story//year)[1])"/>
+            <xsl:variable name="safe-title"
+                select="lower-case(translate(replace($title, '[^A-Za-z0-9 ]', ''), ' ', '-'))"/>
+            <xsl:variable name="filename" select="concat($safe-title, '.html')"/>
             
-            <body>
-                
-                
-                <!-- Start main content section -->
-                <main>
-                    
-                    <h1>Collection of Stories</h1>
-                    <!-- -LS This is the menu bar!-->
-                    <nav>
-                        <div class="dropDown">
-                            <a href="index.html">Home</a>
-                        </div>
-                        <div class="dropDown">
-                            <a href="genstory.html">Ghost Stories</a>
-                        </div>
-                        <div class="dropDown">
-                            <a href="timeline.html">Timeline</a>
-                        </div>
-                        <div class="dropDown">
-                            <a href="">INSERT</a>
-                        </div>
-                        <div class="dropDown">
-                            <a href="about.html">About</a>
-                            <div class="menu">
-                                <a href="">Team</a>
-                                <div class="section-divider"></div>
-                            </div>
-                        </div>
-                    </nav>
-                    <ul>
-                        <xsl:apply-templates select="$digitalStudies_ghostStoriesProject//story">
-                            
-                        </xsl:apply-templates>
-                    </ul>
-                </main>
-                
-
-            </body>
-        </html>
-    </xsl:template>
-    
-    <xsl:template match="//story">
-        <li>
-            <!-- Title and Year in the same line with a space and colon between them -->
-            <strong>
-                <a href="{translate(descendant::title, ' ', '-')}.html">
-                    <xsl:value-of select="descendant::title"/>
-                </a>
-            </strong>
-            <span> </span> <!-- Add colon and space between title and year -->
-        </li>
-            <xsl:choose>
-                <xsl:when test="descendant::year">
-                    <xsl:value-of select="descendant::year"/>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:text>(Not Recorded)</xsl:text>
-                </xsl:otherwise>
-            </xsl:choose>
+            <!-- Optional: Dynamically call XQuery if supported -->
+            <!-- Example assumes the timeline is generated externally and saved to includes/ folder -->
+            <xsl:variable name="timeline-file" select="concat('../includes/timeline-', $safe-title, '.html')"/>
             
-    
-        
-        <!-- Generate individual story pages -->
-        <xsl:call-template name="generate-story-page">
-            <xsl:with-param name="title" select="descendant::title"/>
-            <xsl:with-param name="year" select="descendant::year"/>
-            
-            <xsl:with-param name="p" select="descendant::p"/>
-   
-            <xsl:with-param name="characters" select="descendant::characters/char"/>
-        </xsl:call-template>
-    </xsl:template>
-    
-    <!-- Template to generate individual story pages -->
-    <xsl:template name="generate-story-page">
-        <xsl:param name="title"/>
-        <xsl:param name="year"/>
-        
-        <xsl:param name="p"/>
-        
-        <xsl:param name="characters"/>
-        
-        <xsl:result-document href="../docs/{translate($title, ' ', '-')}.html" method="html">
-            <html>
-                <head>
-                    <title>
-                        <xsl:value-of select="$title"/>
-                    </title>
-                    <link type="text/css" href="styleV1.css" rel="stylesheet" />
-                </head>
-                <body>
-                    
-                    
-                    <!-- Main content section -->
-                    <main>
-                        <!-- -LS This is the menu bar!-->
+            <xsl:result-document href="{$filename}">
+                <html>
+                    <head>
+                        <title><xsl:value-of select="$title"/></title>
+                        <link rel="stylesheet" href="styleV1.css"/>
+                    </head>
+                    <body>
                         <nav>
-                            <div class="dropDown">
-                                <a href="index.html">Home</a>
-                            </div>
-                            <div class="dropDown">
-                                <a href="genstory.html">Ghost Stories</a>
-                            </div>
-                            <div class="dropDown">
-                                <a href="timeline.html">Timeline</a>
-                            </div>
-                            <div class="dropDown">
-                                <a href="">INSERT</a>
-                            </div>
-                            <div class="dropDown">
-                                <a href="about.html">About</a>
-                                <div class="menu">
-                                    <a href="">Team</a>
-                                    <div class="section-divider"></div>
-                                </div>
-                            </div>
+                            <a href="index.html">Home</a>
+                            <a href="genstory.html">Ghost Stories</a>
+                            <a href="timeline.html">Timeline</a>
+                            <a href="#">Mystery</a>
+                            <a href="about.html">About</a>
                         </nav>
                         
-                        <h1><xsl:value-of select="$title"/></h1>
-                        <h2>
-                            <xsl:choose>
-                                <xsl:when test="$year">
-                                    <xsl:value-of select="$year"/>
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:text>(Not Recorded)</xsl:text>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                        </h2>
+                        <main class="background-container">
+                            <!-- Embed unique SVG timeline with highlight -->
+                            <xsl:copy-of select="unparsed-text($timeline-file)" disable-output-escaping="yes"/>
+                            
+                            <h1><xsl:value-of select="$title"/></h1>
+                            <xsl:apply-templates select="$story/node()"/>
+                        </main>
                         
-                       
-                       
-                        
-                        <!-- Back link -->
-                        <a href="genstory.html">Back to Stories</a>
-                        <hr/>
-                    </main>
-                    
-                
-                </body>
-            </html></xsl:result-document>
-    </xsl:template></xsl:stylesheet>
-   
-
- 
+                        <footer>
+                            <p>Ghost Stories Project | Styled with styleV1.css</p>
+                        </footer>
+                    </body>
+                </html>
+            </xsl:result-document>
+        </xsl:for-each>
+    </xsl:template>
+    
+    <!-- Template for <p> and inline tags -->
+    <xsl:template match="p">
+        <p>
+            <xsl:if test="@tone">
+                <span style="font-style: italic;">[Tone: <xsl:value-of select="@tone"/>]</span><br/>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    
+    <xsl:template match="character|place|quote|year">
+        <span class="{name()}"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="text()">
+        <xsl:value-of select="."/>
+    </xsl:template>
+</xsl:stylesheet>
