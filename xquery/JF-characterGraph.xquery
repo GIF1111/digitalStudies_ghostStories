@@ -33,6 +33,8 @@ declare namespace svg = "http://www.w3.org/2000/svg";
     </style>
   </head>
   <body>
+  
+  
     <h1>Character Frequency Visualization</h1>
 
     {
