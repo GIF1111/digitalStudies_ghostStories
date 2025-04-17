@@ -3,7 +3,7 @@
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title>THE OLD NURSE'S STORY</title>
-    
+    <p tone="n/a"> <year>1852</year></p>
     <p tone="sadness"> You know, my dears, that your mother was an orphan, and an only child; and I daresay
         you have heard that your grandfather was a clergyman up in <place>Westmoreland</place>, where I come from.
         I was just a girl in the village school, when, one day, your grandmother came in to ask the

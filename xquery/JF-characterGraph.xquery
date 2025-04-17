@@ -38,7 +38,7 @@ declare namespace svg = "http://www.w3.org/2000/svg";
     {
       for $doc in collection("../xml/?select=*.xml")
       let $title := normalize-space($doc//title/string())
-      let $refs := $doc//character/@ref/string()
+      let $refs := $doc//tone/string()
       where count($refs) > 0
 
       let $norms := for $r in $refs return normalize-space(lower-case($r))
@@ -48,8 +48,8 @@ declare namespace svg = "http://www.w3.org/2000/svg";
         for $name in $distinct
         let $count := count($norms[. = $name])
         let $display := (
-          for $char in $doc//character
-          let $ref := normalize-space(lower-case($char/@ref))
+          for $tone in $doc//tone
+          let $ref := normalize-space(lower-case($tone))
           where $ref = $name
           return normalize-space(string($char))
         )[1]
