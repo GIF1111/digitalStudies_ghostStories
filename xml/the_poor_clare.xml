@@ -330,8 +330,8 @@
     <p tone="serious"><quote>'Please your worship,'</quote> said humbled Dickon, <quote>'Mistress Bridget had a
             daughter—one Mistress Mary—who went abroad, and has never been heard on since; and folk
             do say that has crazed her mother.'</quote></p>
-    <p>Mr. Gisborne shaded his eyes with his hand.</p>
-    <p><quote>'I could wish she had not cursed me,'</quote> he muttered. <quote>'She may have
+    <p tone="serious">Mr. Gisborne shaded his eyes with his hand.</p>
+    <p tone="serious"><quote>'I could wish she had not cursed me,'</quote> he muttered. <quote>'She may have
             power—no one else could.'</quote> After a while, he said aloud, no one understanding
         rightly what he meant, <quote>'Tush! it'</quote>s impossible!'—and called for claret; and he
         and the other gentlemen set to to a drinking-bout.</p></chapter>
@@ -343,8 +343,8 @@
         became an eminent attorney in London, and my father took orders. Like most poor clergymen,
         he had a large family; and I have no doubt was glad enough when my London uncle, who was a
         bachelor, offered to take charge of me, and bring me up to be his successor in business.</p>
-    <p>In this way I came to live in London, in my uncle<quote>'s house, not far from Gray'</quote>s
-        Inn, and to be treated and esteemed as his son, and to labour with him in his office. I was
+    <p>In this way I came to live in London, in my uncle's house, not far from Gray's Inn, and to be 
+        treated and esteemed as his son, and to labour with him in his office. I was
         very fond of the old gentleman. He was the confidential agent of many country squires, and
         had attained to his present position as much by knowledge of human nature as by knowledge of
         law; though he was learned enough in the latter. He used to say his business was law, his
