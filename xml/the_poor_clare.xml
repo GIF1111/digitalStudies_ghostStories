@@ -267,7 +267,7 @@
         he would spare neither man nor beast. Otherwise, those who knew him well, used to say he had
         a good heart, when he was neither drunk, nor angry, nor in any way vexed. He had altered
         much when I came to know him.</p>
-    <p tone="suspensful">One day, the gentlemen had all been out shooting, and with but little success, I believe;
+    <p tone="suspenseful">One day, the gentlemen had all been out shooting, and with but little success, I believe;
         anyhow, Mr. Gisborne had had none, and was in a black humour accordingly. He was coming
         home, having his gun loaded, sportsman-like, when little Mignon crossed his path, just as he
         turned out of the wood by Bridget's cottage. Partly for wantonness, partly to vent
@@ -282,23 +282,23 @@
             Mary's dog, who had wandered and sorrowed with her for years. She walked right
             into Mr. Gisborne's path, and fixed his unwilling, sullen look with her dark and
         terrible eye.</p>
-    <p><quote>'Those never throve that did me harm,'</quote> said she. <quote>'I'</quote>m alone in
+    <p tone="sadness"><quote>'Those never throve that did me harm,'</quote> said she. <quote>'I'm alone in
         the world, and helpless; the more do the Saints in Heaven hear my prayers. Hear me, ye
         blessed ones! hear me while I ask for sorrow on this bad, cruel man. He has killed the only
         creature that loved me—the dumb beast that I loved. Bring down heavy sorrow on his head for
         it, O ye Saints! He thought that I was helpless, because he saw me lonely and poor; but are
-        not the armies of Heaven for the like of me?'</p>
-    <p><quote>'Come, come,'</quote> said he, half-remorseful, but not one whit afraid.
-            <quote>'Here'</quote>s a crown to buy thee another dog. Take it, and leave off cursing!
-        I care none for thy threats.'</p>
-    <p><quote>'Don't you?'</quote> said she, coming a step closer, and changing her
+        not the armies of Heaven for the like of me?'</quote></p>
+    <p tone="serious"><quote>'Come, come,'</quote> said he, half-remorseful, but not one whit afraid.
+            <quote>'Here's a crown to buy thee another dog. Take it, and leave off cursing!
+                I care none for thy threats.'</quote></p>
+    <p tone="suspenseful"><quote>'Don't you?'</quote> said she, coming a step closer, and changing her
             imprecatory cry for a whisper which made the gamekeeper's lad, following Mr.
         Gisborne, creep all over. <quote>'You shall live to see the creature you love best, and who
             alone loves you—ay, a human creature, but as innocent and fond as my poor, dead
             darling—you shall see this creature, for whom death would be too happy, become a terror
             and a loathing to all, for this blood'</quote>s sake. Hear me, O holy Saints, who never
         fail them that have no other help!'</p>
-    <p>She threw up her right hand, filled with poor Mignon<quote>'s life-drops; they spirted, one
+    <p tone="suspenseful">She threw up her right hand, filled with poor Mignon<quote>'s life-drops; they spirted, one
             or two of them, on his shooting-dress,—an ominous sight to the follower. But the master
             only laughed a little, forced, scornful laugh, and went on to the Hall. Before he got
             there, however, he took out a gold piece, and bade the boy carry it to the old woman on
@@ -309,25 +309,25 @@
         wildly, as her outstretched arms betokened. The lad shrank away in redoubled terror; and
         contented himself with slipping the gold-piece under the ill-fitting door. The next day it
         was thrown out upon the midden; and there it lay, no one daring to touch it.</p>
-    <p>Meanwhile Mr. Gisborne, half curious, half uneasy, thought to lessen his uncomfortable
+    <p tone="serious">Meanwhile Mr. Gisborne, half curious, half uneasy, thought to lessen his uncomfortable
         feelings by asking Sir Philip who Bridget was? He could only describe her—he did not know
         her name. Sir Philip was equally at a loss. But an old servant of the Starkeys, who had
         resumed his livery at the Hall on this occasion—a scoundrel whom Bridget had saved from
         dismissal more than once during her palmy days—said:—</p>
-    <p><quote>'It will be the old witch, that his worship means. She needs a ducking, if ever woman
+    <p tone="serious"><quote>'It will be the old witch, that his worship means. She needs a ducking, if ever woman
             did, does that Bridget Fitzgerald.'</quote></p>
-    <p><quote>'Fitzgerald!'</quote> said both the gentlemen at once. But Sir Philip was the first to
+    <p tone="serious"><quote>'Fitzgerald!'</quote> said both the gentlemen at once. But Sir Philip was the first to
         continue:</p>
-    <p><quote>'I must have no talk of ducking her, Dickon. Why, she must be the very woman poor
+    <p tone="serious"><quote>'I must have no talk of ducking her, Dickon. Why, she must be the very woman poor
             Starkey bade me have a care of; but when I came here last she was gone, no one knew
             where. I'</quote>ll go and see her tomorrow. But mind you, sirrah, if any harm comes to
         her, or any more talk of her being a witch—I<quote>'ve a pack of hounds at home, who can
             follow the scent of a lying knave as well as ever they followed a dog-fox; so take care
             how you talk about ducking a faithful old servant of your dead master'</quote>s.'</p>
-    <p><quote>'Had she ever a daughter?'</quote> asked Mr. Gisborne, after a while.</p>
-    <p><quote>'I don'</quote>t know—yes! I<quote>'ve a notion she had; a kind of waiting-woman to
+    <p tone="serious"><quote>'Had she ever a daughter?'</quote> asked Mr. Gisborne, after a while.</p>
+    <p tone="serious"><quote>'I don't know—yes! I've a notion she had; a kind of waiting-woman to
             Madam Starkey.'</quote></p>
-    <p><quote>'Please your worship,'</quote> said humbled Dickon, <quote>'Mistress Bridget had a
+    <p tone="serious"><quote>'Please your worship,'</quote> said humbled Dickon, <quote>'Mistress Bridget had a
             daughter—one Mistress Mary—who went abroad, and has never been heard on since; and folk
             do say that has crazed her mother.'</quote></p>
     <p>Mr. Gisborne shaded his eyes with his hand.</p>
