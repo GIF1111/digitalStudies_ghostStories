@@ -6,6 +6,7 @@ declare namespace svg = "http://www.w3.org/2000/svg";
   <head>
     <meta charset="UTF-8"/>
     <title>Character Frequency Visualization</title>
+    <link type="text/css" href="styleV1.css" rel="stylesheet"/>
     <style>
       h1 {{
         text-align: center;
@@ -14,7 +15,6 @@ declare namespace svg = "http://www.w3.org/2000/svg";
       body {{
     background-color: black;
     color: white;
-    font-family: sans-serif;
       }}
   
     h1, h2, p {{
@@ -33,7 +33,7 @@ declare namespace svg = "http://www.w3.org/2000/svg";
     </style>
   </head>
   <body>
-  
+  <nav><a href="index.html">Home</a><a href="tonepage.html">Tone Analysis</a><a href="character-Analysis.html">Character Analysis</a><a href="about.html">About</a></nav>
   
     <h1>Character Frequency Visualization</h1>
 
