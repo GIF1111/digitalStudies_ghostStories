@@ -65,7 +65,7 @@ declare namespace svg = "http://www.w3.org/2000/svg";
       let $bar-gap := 10
       let $max-height := 300
       let $max-count := max($grouped/count ! xs:double(.))
-      let $svg-width := count($grouped) * ($bar-width + $bar-gap)
+      let $svg-width := count($grouped) * ($bar-width + $bar-gap) +50
       let $svg-height := $max-height + 50
 
       return (
