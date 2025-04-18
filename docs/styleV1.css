@@ -97,7 +97,7 @@
         }
 
         .image-box {
-            background-image: url('../images/london-6717244.jpg');
+            background-image: url('images/london-6717244.jpg');
             background-size: cover;
             background-position: center;
             padding: 4rem 2rem;
