@@ -12,7 +12,7 @@
         remembrance, than to watching the events—though these may have far more interest for the
         multitude—immediately passing before their eyes. If this should be the case with the
         generality of old people, how much more so with me!... If I am to enter upon that strange
-        story connected with poor Lucy, I must begin a long way back. I myself only came to the
+        story connected with poor <character ref="Lucy">Lucy</character>, I must begin a long way back. I myself only came to the
         knowledge of her family history after I knew her; but, to make the tale clear to any one
         else, I must arrange events in the order in which they occurred—not that in which I became
         acquainted with them.</p>
@@ -46,12 +46,13 @@
         mortar—anything to keep out the weather. The fires were made in the centre of these rude
         dwellings, a hole in the roof forming the only chimney. No Highland hut or Irish cabin could
         be of rougher construction.</p>
-    <p tone="serious">The owner of this property, at the beginning of the present century, was a Mr. Patrick Byrne
-        Starkey. His family had kept to the old faith, and were staunch Roman Catholics, esteeming
+        <p tone="serious">The owner of this property, at the beginning of the present century, was a <character ref="Mr. Patrick Byrne
+            Starkey">Mr. Patrick Byrne Starkey</character>. His family had kept to the old faith, and were staunch Roman Catholics, esteeming
         it even a sin to marry any one of Protestant descent, however willing he or she might have
-        been to embrace the Romish religion. Mr. Patrick Starkey's father had been a follower
+        been to embrace the Romish religion. <character ref="Mr. Patrick Byrne
+            Starkey">Mr. Patrick Starkey</character>'s father had been a follower
             of James the Second; and, during the disastrous Irish campaign of that monarch, he had
-            fallen in love with an Irish beauty, a Miss Byrne, as zealous for her religion and for
+            fallen in love with an Irish beauty, a <character ref="Miss Bryne">Miss Byrne</character>, as zealous for her religion and for
             the Stuarts as himself. He had returned to Ireland after his escape to France, and
             married her, bearing her back to the court at St. Germains. But some licence on the part
             of the disorderly gentlemen who surrounded King James in his exile, had insulted his
@@ -366,7 +367,7 @@
             Gray's Inn Lane. It was the summons for me, and I went into his private room
         just as a gentleman—whom I knew well enough by sight as an Irish lawyer of more reputation
         than he deserved—was leaving.</p>
-    <p>My uncle was slowly rubbing his hands together and considering. I was there two or three
+    <p tone="serious">My uncle was slowly rubbing his hands together and considering. I was there two or three
         minutes before he spoke. Then he told me that I must pack up my portmanteau that very
         afternoon, and start that night by post-horse for West Chester. I should get there, if all
         went well, at the end of five days' time, and must then wait for a packet to cross over to
