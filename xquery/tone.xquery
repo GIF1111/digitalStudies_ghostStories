@@ -78,8 +78,7 @@ declare namespace svg = "http://www.w3.org/2000/svg";
             let $y := $max-height - $height
             return (
               <svg:rect x="{ $x }" y="{ $y }" width="{ $bar-width }" height="{ $height }" fill="steelblue"/>,
-              <svg:text x="{ $x + $bar-width div 2 }" y="{ $max-height + 25 }" font-size="10" text-anchor="end"
-                        transform="rotate(45, { $x + $bar-width div 2 }, { $max-height + 25 })">{ $tone }</svg:text>,
+              <svg:text x="{ $x + $bar-width div 2 }" y="{ $max-height + 25 }" font-size="10" text-anchor="middle">{ $tone }</svg:text>,
               <svg:text x="{ $x + $bar-width div 2 }" y="{ max((5, $y - 5)) }" font-size="10" text-anchor="middle">{ $count }</svg:text>
             )
           }
