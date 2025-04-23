@@ -13,27 +13,32 @@ declare namespace svg = "http://www.w3.org/2000/svg";
       }}
       
       body {{
-    background-color: black;
-    color: white;
+        background-color: black;
+        color: white;
       }}
   
-    h1, h2, p {{
+      h1, h2, p {{
         color: white;
         text-align: center;
-    }}
+      }}
       svg {{
         margin-bottom: 40px;
         display: block;
         margin-left: auto;
         margin-right: auto;
       }}
-      text{{
+      text {{
         fill: white;
-    }}
+      }}
     </style>
   </head>
   <body>
-  <nav><a href="index.html">Home</a><a href="tonepage.html">Tone Analysis</a><a href="character-Analysis.html">Character Analysis</a><a href="about.html">About</a></nav>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="tonepage.html">Tone Analysis</a>
+      <a href="character-Analysis.html">Character Analysis</a>
+      <a href="about.html">About</a>
+    </nav>
   
     <h1>Character Frequency Visualization</h1>
 
@@ -61,29 +66,41 @@ declare namespace svg = "http://www.w3.org/2000/svg";
           <count>{ $count }</count>
         </group>
 
+      let $filtered := $grouped[xs:double(count) > 1]
       let $bar-width := 40
-      let $bar-gap := 10
+      let $bar-gap := 20
       let $max-height := 300
-      let $max-count := max($grouped/count ! xs:double(.))
-      let $svg-width := count($grouped) * ($bar-width + $bar-gap) +50
-      let $svg-height := $max-height + 50
+      let $max-count := max($filtered/count ! xs:double(.))
+      let $svg-width := count($filtered) * ($bar-width + $bar-gap) + 50
+      let $svg-height := $max-height + 70
 
       return (
         <h2>{ $title }</h2>,
-        <p>Characters found: { count($grouped) }</p>,
+        <p>Characters shown (appeared more than once): { count($filtered) }</p>,
         <svg:svg width="{ $svg-width }" height="{ $svg-height }" xmlns:svg="http://www.w3.org/2000/svg">
           {
-            for $g at $pos in $grouped
+            for $g at $pos in $filtered
             let $name := string($g/name)
             let $count := xs:double($g/count)
             let $height := $count div $max-count * $max-height
             let $x := ($pos - 1) * ($bar-width + $bar-gap)
             let $y := $max-height - $height
+
+            let $words := tokenize($name, "\s+")
+            let $truncated := if (count($words) > 3)
+                              then (subsequence($words, 1, 2) || ("…"))
+                              else $words
+
             return (
               <svg:rect x="{ $x }" y="{ $y }" width="{ $bar-width }" height="{ $height }" fill="steelblue"/>,
-              <svg:text x="{ $x + $bar-width div 2 }" y="{ $max-height + 25 }" font-size="10" text-anchor="end"
-  transform="rotate(45, { $x + $bar-width div 2 }, { $max-height + 25 })">{ $name }</svg:text>,
-              <svg:text x="{ $x + $bar-width div 2 }" y="{ max((5, $y - 5)) }" font-size="10" text-anchor="middle">{ $count }</svg:text>            )
+              for $word at $i in $truncated
+              return <svg:text x="{ $x + $bar-width div 2 }"
+                               y="{ $max-height + 25 + (($i - 1) * 12) }"
+                               font-size="10"
+                               text-anchor="middle">{ $word }</svg:text>,
+              <svg:text x="{ $x + $bar-width div 2 }" y="{ max((5, $y - 5)) }"
+                        font-size="10" text-anchor="middle">{ $count }</svg:text>
+            )
           }
         </svg:svg>
       )
