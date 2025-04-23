@@ -1,8 +1,13 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+namespace xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+namespace svg = "http://www.w3.org/2000/svg"
+namespace xlink = "http://www.w3.org/1999/xlink"
 
 start = story
-story = element story {title, (chapter | p)*}
+story = element story {title, timeline, (chapter | p)*}
 title = element title {text}
+timeline =element timeline {svg-content*}
+svg-content =element svg:* {attribute * { text }*,(text | svg-content)*}
 chapter = element chapter {n, text*, p*, quote*}
 n = attribute n {xsd:int} 
 p = element p { tone,(text | quote | year| character | place)+}

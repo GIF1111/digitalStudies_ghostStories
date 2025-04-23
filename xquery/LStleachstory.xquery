@@ -3,9 +3,7 @@ xquery version "3.1";
 declare namespace svg = "http://www.w3.org/2000/svg";
 declare namespace xlink = "http://www.w3.org/1999/xlink";
 
-(: Replace this with the filename for each story :)
 let $current := doc("../xml/the_poor_clare.xml")/story
-
 let $highlight := distinct-values($current//year[normalize-space()])
 
 let $stories := collection('../xml/?select=*.xml')/story
@@ -41,25 +39,47 @@ let $timeline :=
   let $dot-color := if ($is-highlight) then "red" else "blue"
   let $text-style := if ($is-highlight) then "font-weight:bold;" else ""
   return (
-    <circle cx="{$x}" cy="50" r="5" fill="{$dot-color}">
-      <title>{$entry?title}</title>
-    </circle>,
-    <a xlink:href="{$entry?file}">
-      <text x="{$x}" y="70" font-size="12" text-anchor="middle" fill="white" style="{$text-style}">
-        <title>{$entry?title}</title>
-        {$entry?year}
-      </text>
-    </a>
+    element svg:circle {
+      attribute cx { $x },
+      attribute cy { "50" },
+      attribute r { "5" },
+      attribute fill { $dot-color },
+      element svg:title { $entry?title }
+    },
+    element svg:a {
+      attribute xlink:href { $entry?file },
+      element svg:text {
+        attribute x { $x },
+        attribute y { "70" },
+        attribute font-size { "12" },
+        attribute text-anchor { "middle" },
+        attribute fill { "white" },
+        attribute style { $text-style },
+        element svg:title { $entry?title },
+        $entry?year
+      }
+    }
   )
 
 return
-<svg xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="{$total-width}" height="100">
-  <text x="{$total-width div 2}" y="30" font-size="20" font-weight="bold" text-anchor="middle">
-  </text>
-  <line x1="{$padding}" y1="50" x2="{$total-width - $padding}" y2="50" stroke="white" stroke-width="2"/>
-  {
-    $timeline
-  }
-</svg>
+element svg:svg {
+  attribute width { $total-width },
+  attribute height { "100" },
+  element svg:text {
+    attribute x { $total-width div 2 },
+    attribute y { "30" },
+    attribute font-size { "20" },
+    attribute font-weight { "bold" },
+    attribute text-anchor { "middle" }
+  },
+  element svg:line {
+  attribute x1 { $padding },
+  attribute y1 { "50" },
+  attribute x2 { $total-width - $padding },
+  attribute y2 { "50" },
+  attribute stroke { "white" },
+  attribute { QName("", "stroke-width") } { "2" }
+
+  },
+  $timeline
+}

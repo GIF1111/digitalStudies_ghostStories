@@ -29,7 +29,7 @@
         nav a:hover {
             color: red;
         }
-
+     
         .title {
             background-image: url('images/gothic-7180565.jpg');
             background-size: cover;
@@ -104,6 +104,22 @@
             color: white;
             border-radius: 10px;
         }
+     .timeline-container {
+    border: 2px solid white;      
+    background-color: #222;     
+    padding: 1rem;                 
+    margin: 2rem auto;            
+    max-width: 100%;
+    overflow-x: auto;              
+}
+
+.timeline-container svg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
 
         footer {
             text-align: center;

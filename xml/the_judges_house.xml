@@ -1,7 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../documentation/schema.rnc" type="application/relax-ng-compact-syntax"?>
-<story>
+
+<story 
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    
     <title>The Judge’s House</title>
+    <timeline>
+        <svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="1550" height="100">
+            <svg:text x="775"
+                y="30"
+                font-size="20"
+                font-weight="bold"
+                text-anchor="middle"/>
+            <svg:line x1="100"
+                y1="50"
+                x2="1450"
+                y2="50"
+                stroke="white"
+                stroke-width="2"/>
+            <svg:circle cx="100" cy="50" r="5" fill="blue">
+                <svg:title>LOIS THE WITCH</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="lois-the-witch.html">
+                <svg:text x="100"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="">
+                    <svg:title>LOIS THE WITCH</svg:title>1661</svg:text>
+            </svg:a>
+            <svg:circle cx="250" cy="50" r="5" fill="blue">
+                <svg:title>LOIS THE WITCH</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="lois-the-witch.html">
+                <svg:text x="250"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="">
+                    <svg:title>LOIS THE WITCH</svg:title>1691</svg:text>
+            </svg:a>
+            <svg:circle cx="400" cy="50" r="5" fill="blue">
+                <svg:title>LOIS THE WITCH</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="lois-the-witch.html">
+                <svg:text x="400"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="">
+                    <svg:title>LOIS THE WITCH</svg:title>1692</svg:text>
+            </svg:a>
+            <svg:circle cx="550" cy="50" r="5" fill="blue">
+                <svg:title>An Account of Some Strange Disturbances in Aungier Street</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="an-account-of-some-strange-disturbances-in-aungier-street.html">
+                <svg:text x="550"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="">
+                    <svg:title>An Account of Some Strange Disturbances in Aungier Street</svg:title>1702</svg:text>
+            </svg:a>
+            <svg:circle cx="700" cy="50" r="5" fill="blue">
+                <svg:title>LOIS THE WITCH</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="lois-the-witch.html">
+                <svg:text x="700"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="">
+                    <svg:title>LOIS THE WITCH</svg:title>1713</svg:text>
+            </svg:a>
+            <svg:circle cx="850" cy="50" r="5" fill="red">
+                <svg:title>THE POOR CLARE</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="the-poor-clare.html">
+                <svg:text x="850"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="font-weight:bold;">
+                    <svg:title>THE POOR CLARE</svg:title>1747</svg:text>
+            </svg:a>
+            <svg:circle cx="1000" cy="50" r="5" fill="blue">
+                <svg:title>THE GREY WOMAN</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="the-grey-woman.html">
+                <svg:text x="1000"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="">
+                    <svg:title>THE GREY WOMAN</svg:title>1778</svg:text>
+            </svg:a>
+            <svg:circle cx="1150" cy="50" r="5" fill="blue">
+                <svg:title>THE OLD NURSE'S STORY</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="the-old-nurses-story.html">
+                <svg:text x="1150"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="">
+                    <svg:title>THE OLD NURSE'S STORY</svg:title>1852</svg:text>
+            </svg:a>
+            <svg:circle cx="1300" cy="50" r="5" fill="blue">
+                <svg:title>CURIOUS, IF TRUE</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="curious-if-true.html">
+                <svg:text x="1300"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="">
+                    <svg:title>CURIOUS, IF TRUE</svg:title>1861</svg:text>
+            </svg:a>
+            <svg:circle cx="1450" cy="50" r="5" fill="blue">
+                <svg:title>THE OPEN DOOR</svg:title>
+            </svg:circle>
+            <svg:a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="the-open-door.html">
+                <svg:text x="1450"
+                    y="70"
+                    font-size="12"
+                    text-anchor="middle"
+                    fill="white"
+                    style="">
+                    <svg:title>THE OPEN DOOR</svg:title>1881</svg:text>
+            </svg:a>
+        </svg:svg>
+        
+    </timeline>
     <p tone="serious"> When the time for his examination drew near <character ref="Malcolm Malcolmson">Malcolm Malcolmson</character> made up his mind to go
         somewhere to read by himself. He feared the attractions of the seaside, and also he feared
         completely rural isolation, for of old he knew it charms, and so he determined to find some
