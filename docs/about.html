@@ -5,22 +5,74 @@
         <link type="text/css" href="styleV1.css" rel="stylesheet" />
     </head>
     <body>
-        <nav><a href="index.html">Home</a><a href="tonepage.html">Tone Analysis</a><a href="character-Analysis.html">Character Analysis</a><a href="about.html">About</a></nav>
-        <main>        
-                           <h1>About </h1>
-                <p>research Questions:</p>
-                <p>How do Victorian ghost stories use language to evoke emotions such as fear, suspense, and relief, and how do those emotional patterns shift throughout a story?</p>
-                <p>Over time, do overall tones change in Victorian ghost stories?</p>
-                <p>Team Members: 
-                </p>
-                <ul><li>Team co-ordinator: Alan</li>
-                    <li>Subject expert: Daniel</li>
-                    <li>Quality control officer: Lillian </li>
-                    <li>Web design/UX maven: Lillian </li>
-                    <li>Documentation officer: Jay</li></ul>
-                
-                
-            </main>
-        <footer> <p >Ghost Stories Project <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p></footer>        
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="tonepage.html">Tone Analysis</a>
+            <a href="character-Analysis.html">Character Analysis</a>
+            <a href="about.html">About</a>
+        </nav>
+        <header class="title">
+            <h1>About This Project</h1>
+            <p class="subtitle">Exploring emotion and evolution in Victorian ghost stories</p>
+        </header>
+        <main>
+            <section class="intro">
+                <h2>Research Questions</h2>
+                <p><strong>1.</strong> How do Victorian ghost stories use language to evoke emotions
+                    such as fear, suspense, and relief, and how do those emotional patterns shift
+                    throughout a story?</p>
+                <p><strong>2.</strong> Over time, do overall tones change in Victorian ghost
+                    stories?</p>
+            </section>
+            <section class="intro">
+                <h2>Our Team</h2>
+                <ul>
+                    <li><strong>Team Coordinator:</strong> <a href="https://github.com/GIF1111">Alan</a></li>
+                    <li><strong>Subject Expert:</strong> <a href="https://github.com/dvbest">Daniel</a></li>
+                    <li><strong>Quality Control Officer:</strong> <a href="https://github.com/21stonerl">Lillian</a></li>
+                    <li><strong>Web Design & UX Maven:</strong> <a href="https://github.com/21stonerl">Lillian</a></li>
+                    <li><strong>Documentation Officer:</strong> <a href="https://github.com/jay17363">Jay</a></li>
+                    <li><strong>XML Expert:</strong> <a href="https://github.com/hunterjjohnson">Hunter</a></li>
+                </ul>
+            </section>
+            <section class="intro">
+                <h2>How We Built the <a href="https://github.com/GIF1111/digitalStudies_ghostStories">Website</a></h2>
+                <ol>
+                    <li> To build the Digital Ghost Stories website, we first selected a <a href="https://github.com/GIF1111/digitalStudies_ghostStories/tree/main/sources">collection
+                        of short stories </a>as the foundational texts. These stories were then
+                        converted into <strong><a href="https://github.com/GIF1111/digitalStudies_ghostStories/tree/main/xml">XML</a></strong>, allowing us to extract key elements
+                        like <a href="https://github.com/GIF1111/digitalStudies_ghostStories/blob/main/xquery/JF-characterGraph.xquery">characters</a>, <a href="https://github.com/GIF1111/digitalStudies_ghostStories/blob/main/xquery/tone.xquery">tones</a>, and <a href="https://github.com/GIF1111/digitalStudies_ghostStories/blob/main/xslt/genstory.xsl">story content</a>. Each story was tagged with XML
+                        markup to categorize and identify relevant sections such as dialogue,
+                        paragraphs, and notes, making the content easier to structure and display on
+                        the site. </li>
+                    <li> We used <strong><a href="https://github.com/GIF1111/digitalStudies_ghostStories/tree/main/xslt">XSLT</a></strong> to transform the XML data into HTML story
+                        pages. <strong><a href="https://github.com/GIF1111/digitalStudies_ghostStories/tree/main/xquery">XQuery</a></strong> was used to generate visualizations —
+                        including tone graphs, character analysis charts, and story timelines — all
+                        automatically driven by the data in the XML files. </li>
+                    <li> For styling, we applied <strong><a href="https://github.com/GIF1111/digitalStudies_ghostStories/blob/main/docs/styleV1.css">CSS</a></strong> to create a clean,
+                        gothic-inspired design that complements the ghostly theme. The site uses a
+                        structured layout with a navigation bar for easy access to major sections
+                        and a main content area to highlight each story and analysis page. </li>
+                </ol>
+            </section>
+            <section class="intro">
+                <h2>Acknowledgments</h2>
+                <p>This project was completed under the guidance of <strong><a href="https://github.com/haggis78/Nexus/commits?author=haggis78">Dr. Campbell</a></strong>
+                    and with support from our TA, <strong>Avi Zilberman</strong>. We thank them for
+                    their feedback, encouragement, and expertise.</p>
+            </section>
+        </main>
+        <footer>
+            <p>Ghost Stories Project <a
+                    href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1"
+                    target="_blank" rel="license noopener noreferrer" style="display:inline-block;"
+                    >CC0 1.0<img
+                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                        src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"
+                        alt=""><img
+                        style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                        src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"
+                        alt=""></a></p>
+        </footer>
     </body>
 </html>
