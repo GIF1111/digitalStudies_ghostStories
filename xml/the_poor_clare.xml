@@ -381,7 +381,7 @@
         In his youth, my uncle would have liked nothing better than going over to Ireland himself,
         and ferreting out every scrap of paper or parchment, and every word of tradition respecting
         the family. As it was, old and gouty, he deputed me.</p>
-    <p>Accordingly, I went to Kildoon. I suspect I had something of my uncle<quote>'s delight in
+    <p tone="serious">Accordingly, I went to Kildoon. I suspect I had something of my uncle<quote>'s delight in
             following up a genealogical scent, for I very soon found out, when on the spot, that Mr.
             Rooney, the Irish lawyer, would have got both himself and the first claimant into a
             terrible scrape, if he had pronounced his opinion that the estates ought to be given up
@@ -410,13 +410,13 @@
         to do with my story. Sir Philip, when applied to, told me that he paid an annuity regularly
         to an old woman named Fitzgerald, living at Coldholme (the village near Starkey
         Manor-House). Whether she had any descendants he could not say.</p>
-    <p>One bleak March evening, I came in sight of the places described at the beginning of my
+    <p tone="serious">One bleak March evening, I came in sight of the places described at the beginning of my
         story. I could hardly understand the rude dialect in which the direction to old Bridget's
         house was given.</p>
-    <p><quote>'Yo'</quote> see yon furleets,<quote>' all run together, gave me no idea that I was to
+        <p tone="suspenseful"><quote>'Yo' see yon furleets,'</quote> all run together, gave me no idea that I was to
             guide myself by the distant lights that shone in the windows of the Hall, occupied for
             the time by a farmer who held the post of steward, while the Squire, now four or five
-            and twenty, was making the grand tour. However, at last, I reached Bridget'</quote>s
+            and twenty, was making the grand tour. However, at last, I reached Bridget's
         cottage—a low, moss-grown place; the palings that had once surrounded it were broken and
         gone; and the underwood of the forest came up to the walls, and must have darkened the
         windows. It was about seven o<quote>'clock—not late to my London notions—but, after knocking
@@ -441,11 +441,11 @@
         grey eyebrows were straight, and almost hung over her deep, cavernous eyes, and the thick
         white hair lay in silvery masses over the low, wide, wrinkled forehead. For a moment, I
         stood uncertain how to shape my answer to the solemn questioning of her silence.</p>
-    <p><quote>'Your name is Bridget Fitzgerald, I believe?'</quote> She bowed her head in
+    <p tone="suspenseful"><quote>'Your name is Bridget Fitzgerald, I believe?'</quote> She bowed her head in
         assent.</p>
-    <p><quote>'I have something to say to you. May I come in? I am unwilling to keep you
+    <p tone="serious"><quote>'I have something to say to you. May I come in? I am unwilling to keep you
             standing.'</quote></p>
-    <p><quote>'You cannot tire me,'</quote> she said, and at first she seemed inclined to deny me
+    <p tone="suspenseful"><quote>'You cannot tire me,'</quote> she said, and at first she seemed inclined to deny me
         the shelter of her roof. But the next moment—she had searched the very soul in me with her
         eyes during that instant—she led me in, and dropped the shadowing hood of her grey, draping
         cloak, which had previously hid part of the character of her countenance. The cottage was
@@ -456,52 +456,52 @@
         which all this time I was studying, was not bad, as the stories of my last night's landlord
         had led me to expect; it was a wild, stern, fierce, indomitable countenance, seamed and
         scarred by agonies of solitary weeping; but it was neither cunning nor malignant.</p>
-    <p><quote>'My name is Bridget Fitzgerald,'</quote> said she, by way of opening our
+    <p tone="serious"><quote>'My name is Bridget Fitzgerald,'</quote> said she, by way of opening our
         conversation.</p>
-    <p><quote>'And your husband was Hugh Fitzgerald, of Knock-Mahon, near Kildoon, in
+    <p tone="serious"><quote>'And your husband was Hugh Fitzgerald, of Knock-Mahon, near Kildoon, in
             Ireland?'</quote></p>
-    <p>A faint light came into the dark gloom of her eyes.</p>
-    <p><quote>'He was.'</quote></p>
-    <p><quote>'May I ask if you had any children by him?'</quote></p>
-    <p>The light in her eyes grew quick and red. She tried to speak, I could see; but something rose
+    <p tone="suspenseful">A faint light came into the dark gloom of her eyes.</p>
+    <p tone="serious"><quote>'He was.'</quote></p>
+    <p tone="serious"><quote>'May I ask if you had any children by him?'</quote></p>
+    <p tone="suspenseful">The light in her eyes grew quick and red. She tried to speak, I could see; but something rose
         in her throat, and choked her, and until she could speak calmly, she would fain not speak at
         all before a stranger. In a minute or so she said:</p>
-    <p><quote>'I had a daughter—one Mary Fitzgerald,'</quote>—then her strong nature mastered her
+    <p tone="suspenseful"><quote>'I had a daughter—one Mary Fitzgerald,'</quote>—then her strong nature mastered her
         strong will, and she cried out, with a trembling, wailing cry: <quote>'Oh, man! what of
             her?—what of her?'</quote></p>
-    <p>She rose from her seat, and came and clutched at my arm, and looked in my eyes. There she
+    <p tone="fear">She rose from her seat, and came and clutched at my arm, and looked in my eyes. There she
         read, as I suppose, my utter ignorance of what had become of her child; for she went blindly
         back to her chair, and sat rocking herself and softly moaning, as if I were not there; I not
         daring to speak to the lone and awful woman. After a little pause, she knelt down before the
         picture of our Lady of the Holy Heart, and spoke to her by all the fanciful and poetic names
         of the Litany.</p>
-    <p><quote>'O Rose of Sharon! O Tower of David! O Star of the Sea! have you no comfort for my
+    <p tone="suspenseful"><quote>'O Rose of Sharon! O Tower of David! O Star of the Sea! have you no comfort for my
             sore heart? Am I for ever to hope? Grant me at least despair!'</quote>—and so on she
         went, heedless of my presence. Her prayers grew wilder and wilder, till they seemed to me to
         touch on the borders of madness and blasphemy. Almost involuntarily, I spoke as if to stop
         her.</p>
-    <p><quote>'Have you any reason to think that your daughter is dead?'</quote></p>
-    <p>She rose from her knees, and came and stood before me.</p>
-    <p><quote>'Mary Fitzgerald is dead,'</quote> said she. <quote>'I shall never see her again in
+    <p tone="serious"><quote>'Have you any reason to think that your daughter is dead?'</quote></p>
+    <p tone="serious">She rose from her knees, and came and stood before me.</p>
+    <p tone="serious"><quote>'Mary Fitzgerald is dead,'</quote> said she. <quote>'I shall never see her again in
             the flesh. No tongue ever told me. But I know she is dead. I have yearned so to see her,
             and my heart'</quote>s will is fearful and strong: it would have drawn her to me before
         now, if she had been a wanderer on the other side of the world. I wonder often it has not
         drawn her out of the grave to come and stand before me, and hear me tell her how I loved
         her. For, sir, we parted unfriends.'</p>
-    <p>I knew nothing but the dry particulars needed for my lawyer's quest, but I could not help
+    <p tone="suspenseful">I knew nothing but the dry particulars needed for my lawyer's quest, but I could not help
         feeling for the desolate woman; and she must have read the unusual sympathy with her wistful
         eyes.</p>
-    <p><quote>'Yes, sir, we did. She never knew how I loved her; and we parted unfriends; and I fear
+    <p tone="serious"><quote>'Yes, sir, we did. She never knew how I loved her; and we parted unfriends; and I fear
             me that I wished her voyage might not turn out well, only meaning,—O, blessed Virgin!
             you know I only meant that she should come home to her mother'</quote>s arms as to the
         happiest place on earth; but my wishes are terrible—their power goes beyond my thought—and
         there is no hope for me, if my words brought Mary harm.'</p>
-    <p><quote>'But,'</quote> I said, <quote>'you do not know that she is dead. Even now, you hoped
+    <p tone="sadness"><quote>'But,'</quote> I said, <quote>'you do not know that she is dead. Even now, you hoped
             she might be alive. Listen to me,'</quote> and I told her the tale I have already told
         you, giving it all in the driest manner, for I wanted to recall the clear sense that I felt
         almost sure she had possessed in her younger days, and by keeping up her attention to
         details, restrain the vague wildness of her grief.</p>
-    <p>She listened with deep attention, putting from time to time such questions as convinced me I
+    <p tone="suspenseful">She listened with deep attention, putting from time to time such questions as convinced me I
         had to do with no common intelligence, however dimmed and shorn by solitude and mysterious
         sorrow. Then she took up her tale; and in few brief words, told me of her wanderings abroad
         in vain search after her daughter; sometimes in the wake of armies, sometimes in camp,
@@ -515,24 +515,24 @@
         home at Coldholme, in the Trough of Bolland, in Lancashire, in England; and home came
         Bridget, in that vain hope, to her desolate hearth, and empty cottage. Here she had thought
         it safest to remain; if Mary was in life, it was here she would seek for her mother.</p>
-    <p>I noted down one or two particulars out of Bridget<quote>'s narrative that I thought might be
+    <p tone="suspenseful">I noted down one or two particulars out of Bridget<quote>'s narrative that I thought might be
             of use to me; for I was stimulated to further search in a strange and extraordinary
             manner. It seemed as if it were impressed upon me, that I must take up the quest where
             Bridget had laid it down; and this for no reason that had previously influenced me (such
             as my uncle'</quote>s anxiety on the subject, my own reputation as a lawyer, and so on),
         but from some strange power which had taken possession of my will only that very morning,
         and which forced it in the direction it chose.</p>
-    <p><quote>'I will go,'</quote> said I. <quote>'I will spare nothing in the search. Trust to me.
+    <p tone="suspenseful"><quote>'I will go,'</quote> said I. <quote>'I will spare nothing in the search. Trust to me.
             I will learn all that can be learnt. You shall know all that money, or pains, or wit can
             discover. It is true she may be long dead: but she may have left a child.'</quote></p>
-    <p><quote>'A child!'</quote> she cried, as if for the first time this idea had struck her mind.
+    <p tone="suspenseful"><quote>'A child!'</quote> she cried, as if for the first time this idea had struck her mind.
             <quote>'Hear him, Blessed Virgin! he says she may have left a child. And you have never
             told me, though I have prayed so for a sign, waking or sleeping!'</quote></p>
-    <p><quote>'Nay,'</quote> said I, <quote>'I know nothing but what you tell me. You say you heard
+    <p tone="suspenseful"><quote>'Nay,'</quote> said I, <quote>'I know nothing but what you tell me. You say you heard
             of her marriage.'</quote></p>
-    <p>But she caught nothing of what I said. She was praying to the Virgin in a kind of ecstacy,
+    <p tone="serious">But she caught nothing of what I said. She was praying to the Virgin in a kind of ecstacy,
         which seemed to render her unconscious of my very presence.</p>
-    <p>From Coldholme I went to Sir Philip Tempest<quote>'s. The wife of the foreign officer had
+    <p tone="serious">From Coldholme I went to Sir Philip Tempest<quote>'s. The wife of the foreign officer had
             been a cousin of his father'</quote>s, and from him I thought I might gain some
         particulars as to the existence of the Count de la Tour d<quote>'Auvergne, and where I could
             find him; for I knew questions de vive voix aid the flagging recollection, and I was
@@ -544,7 +544,7 @@
         my search, Coldholme; not far from Sir Philip Tempest, in case he returned, and I wished to
         ask him any further questions; and, in conclusion, my uncle bade me try to forget all about
         my business for a time.</p>
-    <p>This was far easier said than done. I have seen a child on a common blown along by a high
+    <p tone="sadness">This was far easier said than done. I have seen a child on a common blown along by a high
         wind, without power of standing still and resisting the tempestuous force. I was somewhat in
         the same predicament as regarded my mental state. Something resistless seemed to urge my
         thoughts on, through every possible course by which there was a chance of attaining to my
@@ -564,7 +564,7 @@
         speech alluded to, and shrank from the train of thought it suggested, which was so
         intimately connected with my first feelings of illness. However, I had a fortnight more to
         roam on those invigorating Yorkshire moors.</p>
-    <p>In those days, there was one large, rambling inn at Harrogate, close to the Medicinal Spring;
+    <p tone="serious">In those days, there was one large, rambling inn at Harrogate, close to the Medicinal Spring;
         but it was already becoming too small for the accommodation of the influx of visitors, and
         many lodged round about, in the farm-houses of the district. It was so early in the season,
         that I had the inn pretty much to myself; and, indeed, felt rather like a visitor in a
@@ -591,9 +591,9 @@
         shrewdly observed, showed there was something out of the common way: he had heard that the
         elderly woman was a cousin of the farmer's where they lodged, and so the regard existing
         between relations might help to keep them quiet.</p>
-    <p><quote>'What did he think, then, was the reason for their extreme seclusion?'</quote> asked
+    <p tone="suspenseful"><quote>'What did he think, then, was the reason for their extreme seclusion?'</quote> asked
         I.</p>
-    <p><quote>'Nay, he could not tell, not he. He had heard that the young lady, for all as quiet as
+    <p tone="suspenseful"><quote>'Nay, he could not tell, not he. He had heard that the young lady, for all as quiet as
             she seemed, played strange pranks at times.'</quote> He shook his head when I asked him
         for more particulars, and refused to give them, which made me doubt if he knew any, for he
         was in general a talkative and communicative man. In default of other interests, after my
@@ -605,7 +605,7 @@
         tell of the accident which gave me an opportunity of rescuing them; it is enough to say,
         that this event was the beginning of an acquaintance, reluctantly acquiesced in by them, but
         eagerly prosecuted by me. I can hardly tell when intense curiosity became merged in love,
-        but in less than ten days after my uncle<quote>'s departure I was passionately enamoured of
+        but in less than ten days after my uncle's departure I was passionately enamoured of
             Mrs. Lucy, as her attendant called her; carefully—for this I noted well—avoiding any
             address which appeared as if there was an equality of station between them. I noticed
             also that Mrs. Clarke, the elderly woman, after her first reluctance to allow me to pay
@@ -618,10 +618,10 @@
             or two, I beguiled her into talk, I could see a rare intelligence in her face, and a
             grave, trusting look in the soft, grey eyes that were raised for a minute to mine. I
             made every excuse I possibly could for going there. I sought wild flowers for
-            Lucy'</quote>s sake; I planned walks for Lucy's sake; I watched the heavens by night, in
+            Lucy's sake; I planned walks for Lucy's sake; I watched the heavens by night, in
         hopes that some unusual beauty of sky would justify me in tempting Mrs. Clarke and Lucy
         forth upon the moors, to gaze at the great purple dome above.</p>
-    <p>It seemed to me that Lucy was aware of my love; but that, for some motive which I could not
+    <p tone="sadness">It seemed to me that Lucy was aware of my love; but that, for some motive which I could not
         guess, she would fain have repelled me; but then again I saw, or fancied I saw, that her
         heart spoke in my favour, and that there was a struggle going on in her mind, which at times
         (I loved so dearly) I could have begged her to spare herself, even though the happiness of
@@ -631,7 +631,7 @@
         any reason; but such was his tenderness towards me, that in a few days I heard from him,
         giving me a willing permission, and only charging me to take care of myself, and not use too
         much exertion during the hot weather.</p>
-    <p>One sultry evening I drew near the farm. The windows of their parlour were open, and I heard
+        <p tone="suspenseful">One sultry evening I drew near the farm. The windows of their parlour were open, and I heard
         voices when I turned the corner of the house, as I passed the first window (there were two
         windows in their little ground-floor room). I saw Lucy distinctly; but when I had knocked at
         their door—the house-door stood always ajar—she was gone, and I saw only Mrs. Clarke,
@@ -646,27 +646,27 @@
         her goodness and sweet innocence, and although I knew that there must be something painful
         to be told, to account for her mournful sadness, yet I was willing to bear my share in her
         grief, whatever it might be.</p>
-    <p>Mrs. Clarke began, as if it was a relief to her to plunge into the subject.</p>
-    <p><quote>'We have thought, sir—at least I have thought—that you know very little of us, nor we
+    <p tone="serious">Mrs. Clarke began, as if it was a relief to her to plunge into the subject.</p>
+    <p tone="serious"><quote>'We have thought, sir—at least I have thought—that you know very little of us, nor we
             of you, indeed; not enough to warrant the intimate acquaintance we have fallen into. I
             beg your pardon, sir,'</quote> she went on, nervously; <quote>'I am but a plain kind of
             woman, and I mean to use no rudeness; but I must say straight out that I—we—think it
             would be better for you not to come so often to see us. She is very unprotected,
             and——'</quote></p>
-    <p><quote>'Why should I not come to see you, dear madam?'</quote> asked I, eagerly, glad of the
+    <p tone="happiness"><quote>'Why should I not come to see you, dear madam?'</quote> asked I, eagerly, glad of the
         opportunity of explaining myself. <quote>'I come, I own, because I have learnt to love
             Mistress Lucy, and wish to teach her to love me.'</quote></p>
-    <p>Mistress Clarke shook her head, and sighed.</p>
-    <p><quote>'Don'</quote>t, sir—neither love her, nor, for the sake of all you hold sacred, teach
+    <p tone="sadness">Mistress Clarke shook her head, and sighed.</p>
+    <p tone="fear"><quote>'Don't, sir—neither love her, nor, for the sake of all you hold sacred, teach
         her to love you! If I am too late, and you love her already, forget her,—forget these last
-        few weeks. O! I should never have allowed you to come!<quote>' she went on, passionately;
-            '</quote>but what am I to do? We are forsaken by all, except the great God, and even He
-        permits a strange and evil power to afflict us—what am I to do? Where is it to end?<quote>'
-            She wrung her hands in her distress; then she turned to me: '</quote>Go away, sir; go
+        few weeks. O! I should never have allowed you to come!'</quote> she went on, passionately;
+        <quote>'but what am I to do? We are forsaken by all, except the great God, and even He
+            permits a strange and evil power to afflict us—what am I to do? Where is it to end?'</quote>
+        She wrung her hands in her distress; then she turned to me: <quote>'Go away, sir; go
         away, before you learn to care any more for her. I ask it for your own sake—I implore. You
         have been good and kind to us, and we shall always recollect you with gratitude; but go away
-        now, and never come back to cross our fatal path!'</p>
-    <p><quote>'Indeed, madam,'</quote> said I, <quote>'I shall do no such thing. You urge it for my
+        now, and never come back to cross our fatal path!'</quote></p>
+    <p tone="serious"><quote>'Indeed, madam,'</quote> said I, <quote>'I shall do no such thing. You urge it for my
             own sake. I have no fear, so urged—nor wish, except to hear more—all. I cannot have seen
             Mistress Lucy in all the intimacy of this last fortnight, without acknowledging her
             goodness and innocence; and without seeing—pardon me, madam—that for some reason you are
@@ -674,28 +674,28 @@
             powerful myself, yet I have friends who are so wise and kind, that they may be said to
             possess power. Tell me some particulars. Why are you in grief—what is your secret—why
             are you here? I declare solemnly that nothing you have said has daunted me in my wish to
-            become Lucy'</quote>s husband; nor will I shrink from any difficulty that, as such an
+            become Lucy's husband; nor will I shrink from any difficulty that, as such an
         aspirant, I may have to encounter. You say you are friendless—why cast away an honest
         friend? I will tell you of people to whom you may write, and who will answer any questions
-        as to my character and prospects. I do not shun inquiry.'</p>
-    <p>She shook her head again. <quote>'You had better go away, sir. You know nothing about
+        as to my character and prospects. I do not shun inquiry.'</quote></p>
+    <p tone="sadness">She shook her head again. <quote>'You had better go away, sir. You know nothing about
             us.'</quote></p>
-    <p><quote>'I know your names,'</quote> said I, <quote>'and I have heard you allude to the part
+    <p tone="suspenseful"><quote>'I know your names,'</quote> said I, <quote>'and I have heard you allude to the part
             of the country from which you came, which I happen to know as a wild and lonely place.
             There are so few people living in it that, if I chose to go there, I could easily
             ascertain all about you; but I would rather hear it from yourself.'</quote> You see I
         wanted to pique her into telling me something definite.</p>
-    <p><quote>'You do not know our true names, sir,'</quote> said she, hastily.</p>
-    <p><quote>'Well, I may have conjectured as much. But tell me, then, I conjure you. Give me your
+    <p tone="suspenseful"><quote>'You do not know our true names, sir,'</quote> said she, hastily.</p>
+    <p tone="serious"><quote>'Well, I may have conjectured as much. But tell me, then, I conjure you. Give me your
             reasons for distrusting my willingness to stand by what I have said with regard to
             Mistress Lucy.'</quote></p>
-    <p><quote>'Oh, what can I do?'</quote> exclaimed she. <quote>'If I am turning away a true friend
+    <p tone="fear"><quote>'Oh, what can I do?'</quote> exclaimed she. <quote>'If I am turning away a true friend
             as he says?—Stay!'</quote> coming to a sudden decision—<quote>'I will tell you
             something—I cannot tell you all—you would not believe it. But, perhaps, I can tell you
             enough to prevent your going on in your hopeless attachment. I am not Lucy'</quote>s
         mother.'</p>
-    <p><quote>'So I conjectured,'</quote> I said. <quote>'Go on.'</quote></p>
-    <p><quote>'I do not even know whether she is the legitimate or illegitimate child of her father.
+    <p tone="serious"><quote>'So I conjectured,'</quote> I said. <quote>'Go on.'</quote></p>
+    <p tone="sadness"><quote>'I do not even know whether she is the legitimate or illegitimate child of her father.
             But he is cruelly turned against her; and her mother is long dead; and, for a terrible
             reason, she has no other creature to keep constant to her but me. She—only two years
             ago—such a darling and such a pride in her father'</quote>s house! Why, sir, there is a
@@ -703,34 +703,34 @@
         all the rest; and, when you next heard her name, you would loathe her. Others, who have
         loved her longer, have done so before now. My poor child, whom neither God nor man has mercy
         upon—or, surely, she would die!'</p>
-    <p>The good woman was stopped by her crying. I confess, I was a little stunned by her last
+    <p tone="serious">The good woman was stopped by her crying. I confess, I was a little stunned by her last
         words; but only for a moment. At any rate, till I knew definitely what was this mysterious
         stain upon one so simple and pure, as Lucy seemed, I would not desert her, and so I said;
         and she made answer:</p>
-    <p><quote>'If you are daring in your heart to think harm of my child, sir, after knowing her as
+    <p tone="serious"><quote>'If you are daring in your heart to think harm of my child, sir, after knowing her as
             you have done, you are no good man yourself; but I am so foolish and helpless in my
             great sorrow, that I would fain hope to find a friend in you. I cannot help trusting
             that, although you may no longer feel towards her as a lover, you will have pity upon
             us; and perhaps, by your learning, you can tell us where to go for aid.'</quote></p>
-    <p><quote>'I implore you to tell me what this mystery is,'</quote> I cried, almost maddened by
+    <p tone="suspenseful"><quote>'I implore you to tell me what this mystery is,'</quote> I cried, almost maddened by
         this suspense.</p>
-    <p><quote>'I cannot,'</quote> said she, solemnly. <quote>'I am under a deep vow of secrecy. If
+    <p tone="sadness"><quote>'I cannot,'</quote> said she, solemnly. <quote>'I am under a deep vow of secrecy. If
             you are to be told, it must be by her.'</quote> She left the room, and I remained to
         ponder over this strange interview. I mechanically turned over the few books, and with eyes
         that saw nothing at the time, examined the tokens of Lucy's frequent presence in that
         room.</p>
-    <p>When I got home at night, I remembered how all these trifles spoke of a pure and tender heart
+    <p tone="sadness">When I got home at night, I remembered how all these trifles spoke of a pure and tender heart
         and innocent life. Mistress Clarke returned; she had been crying sadly.</p>
-    <p><quote>'Yes,'</quote> said she, <quote>'it is as I feared: she loves you so much that she is
+    <p tone="serious"><quote>'Yes,'</quote> said she, <quote>'it is as I feared: she loves you so much that she is
             willing to run the fearful risk of telling you all herself—she acknowledges it is but a
             poor chance; but your sympathy will be a balm, if you give it. To-morrow, come here at
             ten in the morning; and as you hope for pity in your hour of agony, repress all show of
             fear or repugnance you may feel towards one so grievously afflicted.'</quote></p>
-    <p>I half smiled. <quote>'Have no fear,'</quote> I said. It seemed too absurd to imagine my
+    <p tone="optimism">I half smiled. <quote>'Have no fear,'</quote> I said. It seemed too absurd to imagine my
         feeling dislike to Lucy.</p>
-    <p><quote>'Her father loved her well,'</quote> said she, gravely, <quote>'yet he drove her out
+    <p tone="fear"><quote>'Her father loved her well,'</quote> said she, gravely, <quote>'yet he drove her out
             like some monstrous thing.'</quote></p>
-    <p>Just at this moment came a peal of ringing laughter from the garden. It was Lucy's voice; it
+    <p tone="ironic">Just at this moment came a peal of ringing laughter from the garden. It was Lucy's voice; it
         sounded as if she were standing just on one side of the open casement—and as though she were
         suddenly stirred to merriment—merriment verging on boisterousness, by the doings or sayings
         of some other person. I can scarcely say why, but the sound jarred on me inexpressibly. She
@@ -739,20 +739,20 @@
         the window, and satisfy my instinctive curiosity as to what had provoked this burst of
         ill-timed laughter; but Mrs. Clarke threw her whole weight and power upon the hand with
         which she pressed and kept me down.</p>
-    <p><quote>'For God'</quote>s sake!<quote>' she said, white and trembling all over, '</quote>sit
+    <p tone="fear"><quote>'For God's sake!'</quote> she said, white and trembling all over, <quote>'sit
         still; be quiet. Oh! be patient. To-morrow you will know all. Leave us, for we are all
-        sorely afflicted. Do not seek to know more about us.'</p>
-    <p>Again that laugh—so musical in sound, yet so discordant to my heart. She held me
+        sorely afflicted. Do not seek to know more about us.'</quote></p>
+    <p tone="fear">Again that laugh—so musical in sound, yet so discordant to my heart. She held me
         tight—tighter; without positive violence I could not have risen. I was sitting with my back
         to the window, but I felt a shadow pass between the sun's warmth and me, and a strange
         shudder ran through my frame. In a minute or two she released me.</p>
-    <p><quote>'Go,'</quote> repeated she. <quote>'Be warned, I ask you once more. I do not think you
+    <p tone="suspenseful"><quote>'Go,'</quote> repeated she. <quote>'Be warned, I ask you once more. I do not think you
             can stand this knowledge that you seek. If I had had my own way, Lucy should never have
             yielded, and promised to tell you all. Who knows what may come of it?'</quote></p>
-    <p><quote>'I am firm in my wish to know all. I return at ten to-morrow morning, and then expect
+    <p tone="serious"><quote>'I am firm in my wish to know all. I return at ten to-morrow morning, and then expect
             to see Mistress Lucy herself.'</quote></p>
-    <p>I turned away; having my own suspicions, I confess, as to Mistress Clarke's sanity.</p>
-    <p>Conjectures as to the meaning of her hints, and uncomfortable thoughts connected with that
+    <p tone="cynical">I turned away; having my own suspicions, I confess, as to Mistress Clarke's sanity.</p>
+    <p tone="suspenseful">Conjectures as to the meaning of her hints, and uncomfortable thoughts connected with that
         strange laughter, filled my mind. I could hardly sleep. I rose early; and long before the
         hour I had appointed, I was on the path over the common that led to the old farm-house where
         they lodged. I suppose that Lucy had passed no better a night than I; for there she was
@@ -763,7 +763,7 @@
         were forgotten. My heart gave forth words of fire, and my tongue uttered them. Her colour
         went and came, as she listened; but, when I had ended my passionate speeches, she lifted her
         soft eyes to me, and said:</p>
-    <p><quote>'But you know that you have something to learn about me yet. I only want to say this:
+    <p tone="serious"><quote>'But you know that you have something to learn about me yet. I only want to say this:
             I shall not think less of you—less well of you, I mean—if you, too, fall away from me
             when you know all. Stop!'</quote> said she, as if fearing another burst of mad words.
         'Listen to me. My father is a man of great wealth. I never knew my mother; she must have
@@ -787,7 +787,7 @@
         bear these long absences from his only child. Then he seemed to change suddenly, and said,
         in a strange, wild way, that I was not to believe what he said; that there was many a thing
         he loved better—his horse—his dog—I know not what.</p>
-    <p><quote>'And '</quote>twas only the next morning that, when I came into his room to ask his
+    <p tone="sadness"><quote>'And '</quote>twas only the next morning that, when I came into his room to ask his
         blessing as was my wont, he received me with fierce and angry words. <quote>'Why had
             I,'</quote> so he asked, <quote>'been delighting myself in such wanton mischief—dancing
             over the tender plants in the flower-beds, all set with the famous Dutch bulbs he had
@@ -798,10 +798,10 @@
         him. That day was the beginning of my great sorrows. Not long after, he reproached me for my
         undue familiarity—all unbecoming a gentlewoman—with his grooms. I had been in the
         stable-yard, laughing and talking, he said. Now, sir, I am something of a coward by nature,
-        and I had always dreaded horses; besides that, my father<quote>'s servants—those whom he
+        and I had always dreaded horses; besides that, my father's servants—those whom he
             brought with him from foreign parts—were wild fellows, whom I had always avoided, and to
             whom I had never spoken, except as a lady must needs from time to time speak to her
-            father'</quote>s people. Yet my father called me by names of which I hardly know the
+            father's people. Yet my father called me by names of which I hardly know the
         meaning, but my heart told me they were such as shame any modest woman; and from that day he
         turned quite against me;—nay, sir, not many weeks after that, he came in with a riding-whip
         in his hand; and, accusing me harshly of evil doings, of which I knew no more than you, sir,
@@ -820,15 +820,15 @@
         which I was the cause was past his patience to bear. Mistress Clarke came with me; and here
         we try to live such a life of piety and prayer as may in time set me free from the
         curse.'</p>
-    <p>All the time she had been speaking, I had been weighing her story in my mind. I had hitherto
+    <p tone="serious">All the time she had been speaking, I had been weighing her story in my mind. I had hitherto
         put cases of witchcraft on one side, as mere superstitions; and my uncle and I had had many
         an argument, he supporting himself by the opinion of his good friend Sir Matthew Hale. Yet
         this sounded like the tale of one bewitched; or was it merely the effect of a life of
         extreme seclusion telling on the nerves of a sensitive girl? My scepticism inclined me to
         the latter belief, and when she paused I said:</p>
-    <p><quote>'I fancy that some physician could have disabused your father of his belief in
+    <p tone="serious"><quote>'I fancy that some physician could have disabused your father of his belief in
             visions——'</quote></p>
-    <p>Just at that instant, standing as I was opposite to her in the full and perfect morning
+    <p tone="fear">Just at that instant, standing as I was opposite to her in the full and perfect morning
         light, I saw behind her another figure—a ghastly resemblance, complete in likeness, so far
         as form and feature and minutest touch of dress could go, but with a loathsome demon soul
         looking out of the grey eyes, that were in turns mocking and voluptuous. My heart stood
@@ -837,15 +837,15 @@
         put out my hand to clutch it; I grasped nothing but empty air, and my whole blood curdled to
         ice. For a moment I could not see; then my sight came back, and I saw Lucy standing before
         me, alone, deathly pale, and, I could have fancied, almost, shrunk in size.</p>
-    <p><quote>'It has been near me?'</quote> she said, as if asking a question.</p>
-    <p>The sound seemed taken out of her voice; it was husky as the notes on an old harpsichord when
+    <p tone="fear"><quote>'It has been near me?'</quote> she said, as if asking a question.</p>
+    <p tone="sadness">The sound seemed taken out of her voice; it was husky as the notes on an old harpsichord when
         the strings have ceased to vibrate. She read her answer in my face, I suppose, for I could
         not speak. Her look was one of intense fear, but that died away into an aspect of most
         humble patience. At length she seemed to force herself to face behind and around her: she
         saw the purple moors, the blue distant hills, quivering in the sunlight, but nothing
         else.</p>
-    <p><quote>'Will you take me home?'</quote> she said, meekly.</p>
-    <p>I took her by the hand, and led her silently through the budding heather—we dared not speak;
+    <p tone="sadness"><quote>'Will you take me home?'</quote> she said, meekly.</p>
+    <p tone="fear">I took her by the hand, and led her silently through the budding heather—we dared not speak;
         for we could not tell but that the dread creature was listening, although unseen,—but that
         IT might appear and push us asunder. I never loved her more fondly than now when—and that
         was the unspeakable misery—the idea of her was becoming so inextricably blended with the
@@ -858,40 +858,40 @@
         common, where it had vanished, and partly from a feeling of inexpressible compassion for
         Lucy. In a few minutes Mistress Clarke came forth and joined me. We walked some paces in
         silence.</p>
-    <p><quote>'You know all now,'</quote> said she, solemnly.</p>
-    <p><quote>'I saw it,'</quote> said I, below my breath.</p>
-    <p><quote>'And you shrink from us, now,'</quote> she said, with a hopelessness which stirred up
+    <p tone="serious"><quote>'You know all now,'</quote> said she, solemnly.</p>
+    <p tone="serious"><quote>'I saw it,'</quote> said I, below my breath.</p>
+    <p tone="sadness"><quote>'And you shrink from us, now,'</quote> she said, with a hopelessness which stirred up
         all that was brave or good in me.</p>
-    <p><quote>'Not a whit,'</quote> said I. <quote>'Human flesh shrinks from encounter with the
+    <p tone="optimism"><quote>'Not a whit,'</quote> said I. <quote>'Human flesh shrinks from encounter with the
             powers of darkness: and, for some reason unknown to me, the pure and holy Lucy is their
             victim.'</quote></p>
-    <p><quote>'The sins of the fathers shall be visited upon the children,'</quote> she said.</p>
-    <p><quote>'Who is her father?'</quote> asked I. <quote>'Knowing as much as I do, I may surely
+    <p tone="serious"><quote>'The sins of the fathers shall be visited upon the children,'</quote> she said.</p>
+    <p tone="serious"><quote>'Who is her father?'</quote> asked I. <quote>'Knowing as much as I do, I may surely
             know more—know all. Tell me, I entreat you, madam, all that you can conjecture
             respecting this demoniac persecution of one so good.'</quote></p>
-    <p><quote>'I will; but not now. I must go to Lucy now. Come this afternoon, I will see you
+    <p tone="serious"><quote>'I will; but not now. I must go to Lucy now. Come this afternoon, I will see you
             alone; and oh, sir! I will trust that you may yet find some way to help us in our sore
             trouble!'</quote></p>
-    <p>I was miserably exhausted by the swooning affright which had taken possession of me. When I
+    <p tone="sadness">I was miserably exhausted by the swooning affright which had taken possession of me. When I
         reached the inn, I staggered in like one overcome by wine. I went to my own private room. It
         was some time before I saw that the weekly post had come in, and brought me my letters.
         There was one from my uncle, one from my home in Devonshire, and one, re-directed over the
         first address, sealed with a great coat of arms. It was from Sir Philip Tempest: my letter
         of inquiry respecting Mary Fitzgerald had reached him at Liège, where it so happened that
-        the Count de la Tour d<quote>'Auvergne was quartered at the very time. He remembered his
-            wife'</quote>s beautiful attendant; she had had high words with the deceased countess,
+        the Count de la Tour d'Auvergne was quartered at the very time. He remembered his
+            wife's beautiful attendant; she had had high words with the deceased countess,
         respecting her intercourse with an English gentleman of good standing, who was also in the
         foreign service. The countess augured evil of his intentions; while Mary, proud and
-        vehement, asserted that he would soon marry her, and resented her mistress<quote>'s warnings
+        vehement, asserted that he would soon marry her, and resented her mistress's warnings
             as an insult. The consequence was, that she had left Madame de la Tour
-            d'</quote>Auvergne<quote>'s service, and, as the Count believed, had gone to live with
+            d'Auvergne's service, and, as the Count believed, had gone to live with
             the Englishman; whether he had married her, or not, he could not say.
-            '</quote>But,<quote>' added Sir Philip Tempest, '</quote>you may easily hear what
+        <quote>'But,'</quote> added Sir Philip Tempest, <quote>'you may easily hear what
         particulars you wish to know respecting Mary Fitzgerald from the Englishman himself, if, as
         I suspect, he is no other than my neighbour and former acquaintance, Mr. Gisborne, of
         Skipford Hall, in the West Riding. I am led to the belief that he is no other by several
         small particulars, none of which are in themselves conclusive, but which, taken together,
-        make a mass of presumptive evidence. As far as I could make out from the Count<quote>'s
+        make a mass of presumptive evidence. As far as I could make out from the Count's
             foreign pronunciation, Gisborne was the name of the Englishman: I know that Gisborne of
             Skipford was abroad and in the foreign service at that time—he was a likely fellow
             enough for such an exploit, and, above all, certain expressions recur to my mind which
@@ -901,7 +901,7 @@
             some connection which she might have had with his previous life. I beg you to let me
             know if I can be of any further service to you. Your uncle once rendered me a good turn,
             and I will gladly repay it, so far as in me lies, to his nephew.'</quote></p>
-    <p>I was now apparently close on the discovery which I had striven so many months to attain. But
+    <p tone="serious">I was now apparently close on the discovery which I had striven so many months to attain. But
         success had lost its zest. I put my letters down, and seemed to forget them all in thinking
         of the morning I had passed that very day. Nothing was real but the unreal presence, which
         had come like an evil blast across my bodily eyes, and burnt itself down upon my brain.
