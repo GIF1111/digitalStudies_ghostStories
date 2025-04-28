@@ -4,6 +4,7 @@
 
 <story>
     <title>THE POOR CLARE</title>
+    <timeline></timeline>
     <chapter n="1">Chapter 1
     <p tone="ironic">December 12th, <year>1747</year>.—My life has been strangely bound up with extraordinary incidents, some
         of which occurred before I had any connection with the principal actors in them, or, indeed,
@@ -969,13 +970,13 @@
         tell. My thoughts turned to my uncle—he could advise me wisely—he ought to know all. I
         resolved to go to him without delay; but I did not choose to tell Mistress Clarke of all the
         visionary plans that flitted through my mind. I simply declared my intention of proceeding
-        straight to London on Lucy<quote>'s affairs. I bade her believe that my interest on the
-            young lady'</quote>s behalf was greater than ever, and that my whole time should be
+        straight to London on Lucy's affairs. I bade her believe that my interest on the
+            young lady's behalf was greater than ever, and that my whole time should be
         given up to her cause. I saw that Mistress Clarke distrusted me, because my mind was too
         full of thoughts for my words to flow freely. She sighed and shook her head, and said,
             <quote>'Well, it is all right!'</quote> in such a tone that it was an implied reproach.
         But I was firm and constant in my heart, and I took confidence from that.</p>
-    <p>I rode to London. I rode long days drawn out into the lovely summer nights: I could not rest.
+    <p tone="serious">I rode to London. I rode long days drawn out into the lovely summer nights: I could not rest.
         I reached London. I told my uncle all, though in the stir of the great city the horror had
         faded away, and I could hardly imagine that he would believe the account I gave him of the
         fearful double of Lucy which I had seen on the lonely moor-side. But my uncle had lived many
@@ -1002,10 +1003,10 @@
         a malignant witch; and, above all, that Lucy was of her kith and kin; and that, in putting
         her to the trial, by water or by fire, we should be torturing—it might be to the death—the
         ancestress of her we sought to redeem.</p>
-    <p>My uncle thought awhile, and then said, that in this last matter I was right—at any rate, it
+    <p tone="serious">My uncle thought awhile, and then said, that in this last matter I was right—at any rate, it
         should not be tried, with his consent, till all other modes of remedy had failed; and he
         assented to my proposal that I should go myself and see Bridget, and tell her all.</p>
-    <p>In accordance with this, I went down once more to the wayside inn near Coldholme. It was late
+    <p tone="serious">In accordance with this, I went down once more to the wayside inn near Coldholme. It was late
         at night when I arrived there; and, while I supped, I inquired of the landlord more
         particulars as to Bridget's ways. Solitary and savage had been her life for many years. Wild
         and despotic were her words and manner to those few people who came across her path. The
@@ -1013,56 +1014,56 @@
         they prospered; if, on the contrary, they neglected or traversed her behests, misfortune,
         small or great, fell on them and theirs. It was not detestation so much as an indefinable
         terror that she excited.</p>
-    <p>In the morning I went to see her. She was standing on the green outside her cottage, and
+    <p tone="serious">In the morning I went to see her. She was standing on the green outside her cottage, and
         received me with the sullen grandeur of a throneless queen. I read in her face that she
         recognised me, and that I was not unwelcome; but she stood silent till I had opened my
         errand.</p>
-    <p><quote>'I have news of your daughter,'</quote> said I, resolved to speak straight to all that
+    <p tone="serious"><quote>'I have news of your daughter,'</quote> said I, resolved to speak straight to all that
         I knew she felt of love, and not to spare her. <quote>'She is dead!'</quote></p>
-    <p>The stern figure scarcely trembled, but her hand sought the support of the door-post.</p>
-    <p><quote>'I knew that she was dead,'</quote> said she, deep and low, and then was silent for an
+    <p tone="serious">The stern figure scarcely trembled, but her hand sought the support of the door-post.</p>
+    <p tone="serious"><quote>'I knew that she was dead,'</quote> said she, deep and low, and then was silent for an
         instant. <quote>'My tears that should have flowed for her were burnt up long years ago.
             Young man, tell me about her.'</quote></p>
-    <p><quote>'Not yet,'</quote> said I, having a strange power given me of confronting one, whom,
+    <p tone="serious"><quote>'Not yet,'</quote> said I, having a strange power given me of confronting one, whom,
         nevertheless, in my secret soul I dreaded.</p>
-    <p><quote>'You had once a little dog,'</quote> I continued. The words called out in her more
+    <p tone="serious"><quote>'You had once a little dog,'</quote> I continued. The words called out in her more
         show of emotion than the intelligence of her daughter's death. She broke in upon my
         speech:</p>
-    <p><quote>'I had! It was hers—the last thing I had of hers—and it was shot for wantonness! It
+    <p tone="anger"><quote>'I had! It was hers—the last thing I had of hers—and it was shot for wantonness! It
             died in my arms. The man who killed that dog rues it to this day. For that dumb
-            beast'</quote>s blood, his best-beloved stands accursed.'</p>
-    <p>Her eyes distended, as if she were in a trance and saw the working of her curse. Again I
+            beast's blood, his best-beloved stands accursed.'</quote></p>
+    <p tone="serious">Her eyes distended, as if she were in a trance and saw the working of her curse. Again I
         spoke:</p>
-    <p><quote>'O, woman!'</quote> I said, <quote>'that best-beloved, standing accursed before men,
+    <p tone="serious"><quote>'O, woman!'</quote> I said, <quote>'that best-beloved, standing accursed before men,
             is your dead daughter'</quote>s child.'</p>
-    <p>The life, the energy, the passion came back to the eyes with which she pierced through me, to
+    <p tone="fear">The life, the energy, the passion came back to the eyes with which she pierced through me, to
         see if I spoke truth; then, without another question or word, she threw herself on the
         ground with fearful vehemence, and clutched at the innocent daisies with convulsed
         hands.</p>
-    <p><quote>'Bone of my bone! flesh of my flesh! have I cursed thee—and art thou
+    <p tone="sadness"><quote>'Bone of my bone! flesh of my flesh! have I cursed thee—and art thou
             accursed?'</quote></p>
-    <p>So she moaned, as she lay prostrate in her great agony. I stood aghast at my own work. She
+    <p tone="fear">So she moaned, as she lay prostrate in her great agony. I stood aghast at my own work. She
         did not hear my broken sentences; she asked no more, but the dumb confirmation which my sad
         looks had given that one fact, that her curse rested on her own daughter's child. The fear
         grew on me lest she should die in her strife of body and soul; and then might not Lucy
         remain under the spell as long as she lived?</p>
-    <p>Even at this moment, I saw Lucy coming through the woodland path that led to Bridget<quote>'s
+    <p tone="optimism">Even at this moment, I saw Lucy coming through the woodland path that led to Bridget's
             cottage; Mistress Clarke was with her: I felt at my heart that it was she, by the balmy
             peace which the look of her sent over me, as she slowly advanced, a glad surprise
             shining out of her soft quiet eyes. That was as her gaze met mine. As her looks fell on
             the woman lying stiff, convulsed on the earth, they became full of tender pity; and she
             came forward to try and lift her up. Seating herself on the turf, she took
-            Bridget'</quote>s head into her lap; and, with gentle touches, she arranged the
+            Bridget's head into her lap; and, with gentle touches, she arranged the
         dishevelled grey hair streaming thick and wild from beneath her mutch.</p>
-    <p><quote>'God help her!'</quote> murmured Lucy. <quote>'How she suffers!'</quote></p>
-    <p>At her desire we sought for water; but when we returned, Bridget had recovered her wandering
+    <p tone="fear"><quote>'God help her!'</quote> murmured Lucy. <quote>'How she suffers!'</quote></p>
+    <p tone="optimism">At her desire we sought for water; but when we returned, Bridget had recovered her wandering
         senses, and was kneeling with clasped hands before Lucy, gazing at that sweet sad face as
         though her troubled nature drank in health and peace from every moment<quote>'s
             contemplation. A faint tinge on Lucy'</quote>s pale cheeks showed me that she was aware
         of our return; otherwise it appeared as if she was conscious of her influence for good over
         the passionate and troubled woman kneeling before her, and would not willingly avert her
         grave and loving eyes from that wrinkled and careworn countenance.</p>
-    <p>Suddenly—in the twinkling of an eye—the creature appeared, there, behind Lucy; fearfully the
+    <p tone="fear">Suddenly—in the twinkling of an eye—the creature appeared, there, behind Lucy; fearfully the
         same as to outward semblance, but kneeling exactly as Bridget knelt, and clasping her hands
         in jesting mimicry as Bridget clasped hers in her ecstasy that was deepening into a prayer.
         Mistress Clarke cried out—Bridget arose slowly, her gaze fixed on the creature beyond:
@@ -1073,7 +1074,7 @@
         think she would have swooned if I had not been there to uphold her. While I was attending to
         her, Bridget passed us, without a word to any one, and, entering her cottage, she barred
         herself in, and left us without.</p>
-    <p>All our endeavours were now directed to get Lucy back to the house where she had tarried the
+    <p tone="fear">All our endeavours were now directed to get Lucy back to the house where she had tarried the
         night before. Mistress Clarke told me that, not hearing from me (some letter must have
         miscarried), she had grown impatient and despairing, and had urged Lucy to the enterprise of
         coming to seek her grandmother; not telling her, indeed, of the dread reputation she
@@ -1082,19 +1083,19 @@
         trusted in for the removal of the curse. They had come, by a different route from that which
         I had taken, to a village inn not far from Coldholme, only the night before. This was the
         first interview between ancestress and descendant.</p>
-    <p>All through the sultry noon I wandered along the tangled wood-paths of the old neglected
+    <p tone="serious">All through the sultry noon I wandered along the tangled wood-paths of the old neglected
         forest, thinking where to turn for remedy in a matter so complicated and mysterious. Meeting
         a countryman, I asked my way to the nearest clergyman, and went, hoping to obtain some
         counsel from him. But he proved to be a coarse and common-minded man, giving no time or
         attention to the intricacies of a case, but dashing out a strong opinion involving immediate
         action. For instance, as soon as I named Bridget Fitzgerald, he exclaimed:</p>
-    <p><quote>'The Coldholme witch! the Irish papist! I'</quote>d have had her ducked long since but
+    <p tone="anger"><quote>'The Coldholme witch! the Irish papist! I'</quote>d have had her ducked long since but
         for that other papist, Sir Philip Tempest. He has had to threaten honest folk about here
         over and over again, or they<quote>'d have had her up before the justices for her black
             doings. And it'</quote>s the law of the land that witches should be burnt! Ay, and of
         Scripture, too, sir! Yet you see a papist, if he<quote>'s a rich squire, can overrule both
             law and Scripture. I'</quote>d carry a fagot myself to rid the country of her!'</p>
-    <p>Such a one could give me no help. I rather drew back what I had already said; and tried to
+    <p tone="fear">Such a one could give me no help. I rather drew back what I had already said; and tried to
         make the parson forget it, by treating him to several pots of beer, in the village inn, to
         which we had adjourned for our conference at his suggestion. I left him as soon as I could,
         and returned to Coldholme, shaping my way past deserted Starkey Manor-House, and coming upon
@@ -1102,12 +1103,12 @@
         lay placid and motionless under the crimson rays of the setting sun; with the forest-trees
         lying straight along each side, and their deep-green foliage mirrored to blackness in the
         burnished surface of the moat below—and the broken sun-dial at the end nearest the hall—and
-        the heron, standing on one leg at the water<quote>'s edge, lazily looking down for fish—the
+        the heron, standing on one leg at the water's edge, lazily looking down for fish—the
             lonely and desolate house scarce needed the broken windows, the weeds on the door-sill,
             the broken shutter softly flapping to and fro in the twilight breeze, to fill up the
             picture of desertion and decay. I lingered about the place until the growing darkness
             warned me on. And then I passed along the path, cut by the orders of the last lady of
-            Starkey Manor-House, that led me to Bridget'</quote>s cottage. I resolved at once to see
+            Starkey Manor-House, that led me to Bridget's cottage. I resolved at once to see
         her; and, in spite of closed doors—it might be of resolved will—she should see me. So I
         knocked at her door, gently, loudly, fiercely. I shook it so vehemently that at length the
         old hinges gave way, and with a crash it fell inwards, leaving me suddenly face to face with
@@ -1118,47 +1119,47 @@
         Some mighty tension had given way. Still her eyes looked fearfully into the gloom of the
         outer air, made more opaque by the glimmer of the lamp inside, which she had placed before
         the picture of the Virgin.</p>
-    <p><quote>'Is she there?'</quote> asked Bridget, hoarsely.</p>
-    <p><quote>'No! Who? I am alone. You remember me.'</quote></p>
-    <p><quote>'Yes,'</quote> replied she, still terror-stricken. <quote>'But she—that creature—has
+    <p tone="fear"><quote>'Is she there?'</quote> asked Bridget, hoarsely.</p>
+    <p tone="fear"><quote>'No! Who? I am alone. You remember me.'</quote></p>
+    <p tone="fear"><quote>'Yes,'</quote> replied she, still terror-stricken. <quote>'But she—that creature—has
             been looking in upon me through that window all day long. I closed it up with my shawl;
             and then I saw her feet below the door, as long as it was light, and I knew she heard my
             very breathing—nay, worse, my very prayers; and I could not pray, for her listening
             choked the words ere they rose to my lip. Tell me, who is she?—what means that double
             girl I saw this morning? One had a look of my dead Mary; but the other curdled my blood,
             and yet it was the same!'</quote></p>
-    <p>She had taken hold of my arm, as if to secure herself some human companionship. She shook all
+    <p tone="fear">She had taken hold of my arm, as if to secure herself some human companionship. She shook all
         over with the slight, never-ceasing tremor of intense terror. I told her my tale, as I have
         told it you, sparing none of the details.</p>
-    <p>How Mistress Clarke had informed me that the resemblance had driven Lucy forth from her
+    <p tone="suspenseful">How Mistress Clarke had informed me that the resemblance had driven Lucy forth from her
         father's house—how I had disbelieved, until, with mine own eyes, I had seen another Lucy
         standing behind my Lucy, the same in form and feature, but with the demon-soul looking out
         of the eyes. I told her all, I say, believing that she—whose curse was working so upon the
         life of her innocent grandchild—was the only person who could find the remedy and the
         redemption. When I had done, she sat silent for many minutes.</p>
-    <p><quote>'You love Mary'</quote>s child?' she asked.</p>
-    <p><quote>'I do, in spite of the fearful working of the curse—I love her. Yet I shrink from her
+    <p tone="serious"><quote>'You love Mary'</quote>s child?' she asked.</p>
+    <p tone="serious"><quote>'I do, in spite of the fearful working of the curse—I love her. Yet I shrink from her
             ever since that day on the moor-side. And men must shrink from one so accompanied;
             friends and lovers must stand afar off. Oh, Bridget Fitzgerald! loosen the curse! Set
             her free!'</quote></p>
-    <p><quote>'Where is she?'</quote></p>
-    <p>I eagerly caught at the idea that her presence was needed, in order that, by some strange
+    <p tone="suspenseful"><quote>'Where is she?'</quote></p>
+    <p tone="suspenseful">I eagerly caught at the idea that her presence was needed, in order that, by some strange
         prayer or exorcism, the spell might be reversed.</p>
-    <p><quote>'I will go and bring her to you,'</quote> I exclaimed. But Bridget tightened her hold
+    <p tone="fear"><quote>'I will go and bring her to you,'</quote> I exclaimed. But Bridget tightened her hold
         upon my arm.</p>
-    <p><quote>'Not so,'</quote> said she, in a low, hoarse voice. <quote>'It would kill me to see
+    <p tone="fear"><quote>'Not so,'</quote> said she, in a low, hoarse voice. <quote>'It would kill me to see
             her again as I saw her this morning. And I must live till I have worked my work. Leave
             me!'</quote> said she, suddenly, and again taking up the cross. <quote>'I defy the demon
             I have called up. Leave me to wrestle with it!'</quote></p>
-    <p>She stood up, as if in an ecstasy of inspiration, from which all fear was banished. I
+    <p tone="serious">She stood up, as if in an ecstasy of inspiration, from which all fear was banished. I
         lingered—why, I can hardly tell—until once more she bade me begone. As I went along the
         forest way, I looked back, and saw her planting the cross in the empty threshold, where the
         door had been.</p>
-    <p>The next morning Lucy and I went to seek her, to bid her join her prayers with ours. The
+    <p tone="serious">The next morning Lucy and I went to seek her, to bid her join her prayers with ours. The
         cottage stood open and wide to our gaze. No human being was there: the cross remained on the
         threshold, but Bridget was gone.</p></chapter>
     <chapter n="3">Chapter 3
-    <p>What was to be done next? was the question that I asked myself. As for Lucy, she would fain
+    <p tone="sadness">What was to be done next? was the question that I asked myself. As for Lucy, she would fain
         have submitted to the doom that lay upon her. Her gentleness and piety, under the pressure
         of so horrible a life, seemed over-passive to me. She never complained. Mrs. Clarke
         complained more than ever. As for me, I was more in love with the real Lucy than ever; but I
@@ -1177,7 +1178,7 @@
         could bear it no longer. I resolved no more to linger around the spot, but to go back to my
         uncle, and among the learned divines of the city of London, seek for some power whereby to
         annul the curse.</p>
-    <p>My uncle, meanwhile, had obtained all the requisite testimonials relating to Lucy<quote>'s
+    <p tone="serious">My uncle, meanwhile, had obtained all the requisite testimonials relating to Lucy's
             descent and birth, from the Irish lawyers, and from Mr. Gisborne. The latter gentleman
             had written from abroad (he was again serving in the Austrian army), a letter
             alternately passionately self-reproachful and stoically repellent. It was evident that
@@ -1188,11 +1189,11 @@
             the fulfilment of a deeper vengeance than for the death of the poor dog. But then,
             again, when he came to speak of his daughter, the repugnance which the conduct of the
             demoniac creature had produced in his mind, was but ill disguised under a show of
-            profound indifference as to Lucy'</quote>s fate. One almost felt as if he would have
+            profound indifference as to Lucy's fate. One almost felt as if he would have
         been as content to put her out of existence, as he would have been to destroy some
         disgusting reptile that had invaded his chamber or his couch.</p>
-    <p>The great Fitzgerald property was Lucy's; and that was all—was nothing.</p>
-    <p>My uncle and I sat in the gloom of a London November evening, in our house in Ormond Street.
+    <p tone="serious">The great Fitzgerald property was Lucy's; and that was all—was nothing.</p>
+    <p tone="serious">My uncle and I sat in the gloom of a London November evening, in our house in Ormond Street.
         I was out of health, and felt as if I were in an inextricable coil of misery. Lucy and I
         wrote to each other, but that was little; and we dared not see each other for dread of the
         fearful Third, who had more than once taken her place at our meetings. My uncle had, on the
@@ -1206,26 +1207,26 @@
             <quote>'I did not give my name,'</quote> said he, <quote>'because you would hardly have
             recognised it; unless, sir, when in the north, you heard of Father Bernard, the chaplain
             at Stoney Hurst?'</quote></p>
-    <p>I remembered afterwards that I had heard of him, but at the time I had utterly forgotten it;
+    <p tone="serious">I remembered afterwards that I had heard of him, but at the time I had utterly forgotten it;
         so I professed myself a complete stranger to him; while my ever-hospitable uncle, although
         hating a papist as much as it was in his nature to hate anything, placed a chair for the
         visitor, and bade Anthony bring glasses and a fresh jug of claret.</p>
-    <p>Father Bernard received this courtesy with the graceful ease and pleasant acknowledgment
+    <p tone="serious">Father Bernard received this courtesy with the graceful ease and pleasant acknowledgment
         which belongs to the man of the world. Then he turned to scan me with his keen glance. After
         some slight conversation, entered into on his part, I am certain, with an intention of
         discovering on what terms of confidence I stood with my uncle, he paused, and said
         gravely:</p>
-    <p><quote>'I am sent here with a message to you, sir, from a woman to whom you have shown
+    <p tone="serious"><quote>'I am sent here with a message to you, sir, from a woman to whom you have shown
             kindness, and who is one of my penitents, in Antwerp—one Bridget
         Fitzgerald.'</quote></p>
-    <p><quote>'Bridget Fitzgerald!'</quote> exclaimed I. <quote>'In Antwerp? Tell me, sir, all that
+    <p tone="serious"><quote>'Bridget Fitzgerald!'</quote> exclaimed I. <quote>'In Antwerp? Tell me, sir, all that
             you can about her.'</quote></p>
-    <p><quote>'There is much to be said,'</quote> he replied. <quote>'But may I inquire if this
+    <p tone="serious"><quote>'There is much to be said,'</quote> he replied. <quote>'But may I inquire if this
             gentleman—if your uncle is acquainted with the particulars of which you and I stand
             informed?'</quote></p>
-    <p><quote>'All that I know, he knows,'</quote> said I, eagerly laying my hand on my uncle's arm,
+    <p tone="serious"><quote>'All that I know, he knows,'</quote> said I, eagerly laying my hand on my uncle's arm,
         as he made a motion as if to quit the room.</p>
-    <p><quote>'Then I have to speak before two gentlemen who, however they may differ from me in
+    <p tone="serious"><quote>'Then I have to speak before two gentlemen who, however they may differ from me in
             faith, are yet fully impressed with the fact, that there are evil powers going about
             continually to take cognizance of our evil thoughts; and, if their Master gives them
             power, to bring them into overt action. Such is my theory of the nature of that sin, of
@@ -1234,31 +1235,31 @@
             her last, many prayers have been offered in our churches, many masses sung, many
             penances undergone, in order that, if God and the Holy Saints so willed it, her sin
             might be blotted out. But it has not been so willed.'</quote></p>
-    <p><quote>'Explain to me,'</quote> said I, <quote>'who you are, and how you come connected with
+    <p tone="serious"><quote>'Explain to me,'</quote> said I, <quote>'who you are, and how you come connected with
             Bridget. Why is she at Antwerp? I pray you, sir, tell me more. If I am impatient, excuse
             me; I am ill and feverish, and in consequence bewildered.'</quote></p>
-    <p>There was something to me inexpressibly soothing in the tone of voice with which he began to
+    <p tone="serious">There was something to me inexpressibly soothing in the tone of voice with which he began to
         narrate, as it were from the beginning, his acquaintance with Bridget.</p>
-    <p><quote>'I had known Mr. and Mrs. Starkey during their residence abroad, and so it fell out
+    <p tone="serious"><quote>'I had known Mr. and Mrs. Starkey during their residence abroad, and so it fell out
             naturally that, when I came as chaplain to the Sherburnes at Stoney Hurst, our
             acquaintance was renewed; and thus I became the confessor of the whole family, isolated
             as they were from the offices of the Church, Sherburne being their nearest neighbour who
             professed the true faith. Of course, you are aware that facts revealed in confession are
-            sealed as in the grave; but I learnt enough of Bridget'</quote>s character to be
+            sealed as in the grave; but I learnt enough of Bridget's character to be
         convinced that I had to do with no common woman; one powerful for good as for evil. I
         believe that I was able to give her spiritual assistance from time to time, and that she
         looked upon me as a servant of that Holy Church, which has such wonderful power of moving
-            men<quote>'s hearts, and relieving them of the burden of their sins. I have known her
+            men's hearts, and relieving them of the burden of their sins. I have known her
             cross the moors on the wildest nights of storm, to confess and be absolved; and then she
             would return, calmed and subdued, to her daily work about her mistress, no one witting
             where she had been during the hours that most passed in sleep upon their beds. After her
-            daughter'</quote>s departure—after Mary's mysterious disappearance—I had to impose many
+            daughter's departure—after Mary's mysterious disappearance—I had to impose many
         a long penance, in order to wash away the sin of impatient repining that was fast leading
         her into the deeper guilt of blasphemy. She set out on that long journey of which you have
         possibly heard—that fruitless journey in search of Mary—and during her absence, my superiors
         ordered my return to my former duties at Antwerp, and for many years I heard no more of
-        Bridget.</p>
-    <p>'Not many months ago, as I was passing homewards in the evening, along one of the streets
+        Bridget.</quote></p>
+    <p tone="serious">'Not many months ago, as I was passing homewards in the evening, along one of the streets
         near St. Jacques, leading into the Meer Straet, I saw a woman sitting crouched up under the
         shrine of the Holy Mother of Sorrows. Her hood was drawn over her head, so that the shadow
         caused by the light of the lamp above fell deep over her face; her hands were clasped round
@@ -1270,22 +1271,22 @@
         recognised my voice; and, starting up, caught at my robes, dragging me before the blessed
         shrine, and throwing herself down, and forcing me, as much by her evident desire as by her
         action, to kneel beside her, she exclaimed:</p>
-    <p>'"O Holy Virgin! you will never hearken to me again, but hear him; for you know him of old,
+    <p tone="sadness">'"O Holy Virgin! you will never hearken to me again, but hear him; for you know him of old,
         that he does your bidding, and strives to heal broken hearts. Hear him!"</p>
-    <p>'She turned to me.</p>
-    <p>'"She will hear you, if you will only pray. She never hears me: she and all the saints in
+    <p tone="serious">'She turned to me.</p>
+    <p tone="sadness">'"She will hear you, if you will only pray. She never hears me: she and all the saints in
         Heaven cannot hear my prayers, for the Evil One carries them off, as he carried that first
         away. O, Father Bernard, pray for me!"</p>
-    <p>'I prayed for one in sore distress, of what nature I could not say; but the Holy Virgin would
+    <p tone="fear">'I prayed for one in sore distress, of what nature I could not say; but the Holy Virgin would
         know. Bridget held me fast, gasping with eagerness at the sound of my words. When I had
         ended, I rose, and, making the sign of the Cross over her, I was going to bless her in the
         name of the Holy Church, when she shrank away like some terrified creature, and said:</p>
-    <p>'"I am guilty of deadly sin, and am not shriven."</p>
-    <p>'"Arise, my daughter," said I, "and come with me." And I led the way into one of the
+    <p tone="sadness">'"I am guilty of deadly sin, and am not shriven."</p>
+    <p tone="serious">'"Arise, my daughter," said I, "and come with me." And I led the way into one of the
         confessionals of St. Jacques.</p>
-    <p>'She knelt; I listened. No words came. The evil powers had stricken her dumb, as I heard
+    <p tone="serious">'She knelt; I listened. No words came. The evil powers had stricken her dumb, as I heard
         afterwards they had many a time before, when she approached confession.</p>
-    <p>'She was too poor to pay for the necessary forms of exorcism; and hitherto those priests to
+    <p tone="serious">'She was too poor to pay for the necessary forms of exorcism; and hitherto those priests to
         whom she had addressed herself were either so ignorant of the meaning of her broken French,
         or her Irish-English, or else esteemed her to be one crazed—as, indeed, her wild and excited
         manner might easily have led any one to think—that they had neglected the sole means of
@@ -1295,7 +1296,7 @@
         the more bound to do this, as I found that she had come to Antwerp for the sole purpose of
         discovering me, and making confession to me. Of the nature of that fearful confession I am
         forbidden to speak. Much of it you know; possibly all.</p>
-    <p><quote>'It now remains for her to free herself from mortal guilt, and to set others free from
+    <p tone="serious"><quote>'It now remains for her to free herself from mortal guilt, and to set others free from
             the consequences thereof. No prayer, no masses, will ever do it, although they may
             strengthen her with that strength by which alone acts of deepest love and purest
             self-devotion may be performed. Her words of passion, and cries for revenge—her unholy
@@ -1309,7 +1310,7 @@
             plead for the innocent that I come to you; not in the name of the witch, Bridget
             Fitzgerald, but of the penitent and servant of all men, the Poor Clare, Sister
             Magdalen.'</quote></p>
-    <p><quote>'Sir,'</quote> said I, <quote>'I listen to your request with respect; only I may tell
+    <p tone="serious"><quote>'Sir,'</quote> said I, <quote>'I listen to your request with respect; only I may tell
             you it is not needed to urge me to do all that I can on behalf of one, love for whom is
             part of my very life. If for a time I have absented myself from her, it is to think and
             work for her redemption. I, a member of the English Church—my uncle, a Puritan—pray
@@ -1318,8 +1319,8 @@
             Moreover, I must tell you, sir, that those evil ones touch not the great calm of her
             soul. She lives her own pure and loving life, unharmed and untainted, though all men
             fall off from her. I would I could have her faith!'</quote></p>
-    <p>My uncle now spoke.</p>
-    <p><quote>'Nephew,'</quote> said he, <quote>'it seems to me that this gentleman, although
+    <p tone="serious">My uncle now spoke.</p>
+    <p tone="serious"><quote>'Nephew,'</quote> said he, <quote>'it seems to me that this gentleman, although
             professing what I consider an erroneous creed, has touched upon the right point in
             exhorting Bridget to acts of love and mercy, whereby to wipe out her sin of hate and
             vengeance. Let us strive after our fashion, by almsgiving and visiting of the needy and
@@ -1327,22 +1328,22 @@
             north, and take charge of the maiden. I am too old to be daunted by man or demon. I will
             bring her to this house as to a home; and let the Double come if it will! A company of
             godly divines shall give it the meeting, and we will try issue.'</quote></p>
-    <p>The kindly brave old man! But Father Bernard sat on musing.</p>
-    <p><quote>'All hate,'</quote> said he, <quote>'cannot be quenched in her heart; all Christian
+    <p tone="serious">The kindly brave old man! But Father Bernard sat on musing.</p>
+    <p tone="serious"><quote>'All hate,'</quote> said he, <quote>'cannot be quenched in her heart; all Christian
             forgiveness cannot have entered into her soul, or the demon would have lost its power.
             You said, I think, that her grandchild was still tormented?'</quote></p>
-    <p><quote>'Still tormented!'</quote> I replied, sadly, thinking of Mistress Clarke's last
+    <p tone="serious"><quote>'Still tormented!'</quote> I replied, sadly, thinking of Mistress Clarke's last
         letter.</p>
-    <p>He rose to go. We afterwards heard that the occasion of his coming to London was a secret
+    <p tone="serious">He rose to go. We afterwards heard that the occasion of his coming to London was a secret
         political mission on behalf of the Jacobites. Nevertheless, he was a good and a wise
         man.</p>
-    <p>Months and months passed away without any change. Lucy entreated my uncle to leave her where
+    <p tone="serious">Months and months passed away without any change. Lucy entreated my uncle to leave her where
         she was,—dreading, as I learnt, lest if she came, with her fearful companion, to dwell in
         the same house with me, that my love could not stand the repeated shocks to which I should
         be doomed. And this she thought from no distrust of the strength of my affection, but from a
         kind of pitying sympathy for the terror to the nerves which she observed that the demoniac
         visitation caused in all.</p>
-    <p>I was restless and miserable. I devoted myself to good works; but I performed them from no
+    <p tone="serious">I was restless and miserable. I devoted myself to good works; but I performed them from no
         spirit of love, but solely from the hope of reward and payment, and so the reward was never
         granted. At length, I asked my uncle's leave to travel; and I went forth, a wanderer, with
         no distincter end than that of many another wanderer—to get away from myself. A strange
@@ -1351,7 +1352,7 @@
         led me into the thick of the struggle then going on with the Austrians. The cities of
         Flanders were all full at that time of civil disturbances and rebellions, only kept down by
         force, and the presence of an Austrian garrison in every place.</p>
-    <p>I arrived in Antwerp, and made inquiry for Father Bernard. He was away in the country for a
+    <p tone="serious">I arrived in Antwerp, and made inquiry for Father Bernard. He was away in the country for a
         day or two. Then I asked my way to the Convent of Poor Clares; but, being healthy and
         prosperous, I could only see the dim, pent-up, grey walls, shut closely in by narrow
         streets, in the lowest part of the town. My landlord told me, that had I been stricken by
@@ -1364,50 +1365,50 @@
         inquiring whether I could get speech of one of them; and told me that they were even
         forbidden to speak for the purposes of begging their daily food; while yet they lived, and
         fed others upon what was given in charity.</p>
-    <p><quote>'But,'</quote> exclaimed I, <quote>'supposing all men forgot them! Would they quietly
+    <p tone="serious"><quote>'But,'</quote> exclaimed I, <quote>'supposing all men forgot them! Would they quietly
             lie down and die, without making sign of their extremity?'</quote></p>
-    <p><quote>'If such were their rule, the Poor Clares would willingly do it; but their founder
+    <p tone="serious"><quote>'If such were their rule, the Poor Clares would willingly do it; but their founder
             appointed a remedy for such extreme case as you suggest. They have a bell—'</quote>tis
         but a small one, as I have heard, and has yet never been rung in the memory of man: when the
         Poor Clares have been without food for twenty-four hours, they may ring this bell, and then
         trust to our good people of Antwerp for rushing to the rescue of the Poor Clares, who have
         taken such blessed care of us in all our straits.'</p>
-    <p>It seemed to me that such rescue would be late in the day; but I did not say what I thought.
+    <p tone="serious">It seemed to me that such rescue would be late in the day; but I did not say what I thought.
         I rather turned the conversation, by asking my landlord if he knew, or had ever heard,
         anything of a certain Sister Magdalen.</p>
-    <p><quote>'Yes,'</quote> said he, rather under his breath; <quote>'news will creep out, even
+    <p tone="serious"><quote>'Yes,'</quote> said he, rather under his breath; <quote>'news will creep out, even
             from a convent of Poor Clares. Sister Magdalen is either a great sinner or a great
             saint. She does more, as I have heard, than all the other nuns put together; yet, when
             last month they would fain have made her mother-superior, she begged rather that they
             would place her below all the rest, and make her the meanest servant of
         all.'</quote></p>
-    <p><quote>'You never saw her?'</quote> asked I.</p>
-    <p><quote>'Never,'</quote> he replied.</p>
-    <p>I was weary of waiting for Father Bernard, and yet I lingered in Antwerp. The political state
+    <p tone="serious"><quote>'You never saw her?'</quote> asked I.</p>
+    <p tone="serious"><quote>'Never,'</quote> he replied.</p>
+    <p tone="fear">I was weary of waiting for Father Bernard, and yet I lingered in Antwerp. The political state
         of things became worse than ever, increased to its height by the scarcity of food consequent
         on many deficient harvests. I saw groups of fierce, squalid men, at every corner of the
         street, glaring out with wolfish eyes at my sleek skin and handsome clothes.</p>
-    <p>At last Father Bernard returned. We had a long conversation, in which he told me that,
+    <p tone="serious">At last Father Bernard returned. We had a long conversation, in which he told me that,
         curiously enough, Mr. Gisborne, Lucy's father, was serving in one of the Austrian regiments,
         then in garrison at Antwerp. I asked Father Bernard if he would make us acquainted; which he
         consented to do. But, a day or two afterwards, he told me that, on hearing my name, Mr.
         Gisborne had declined responding to any advances on my part, saying he had abjured his
         country, and hated his countrymen.</p>
-    <p>Probably he recollected my name in connection with that of his daughter Lucy. Anyhow, it was
+    <p tone="serious">Probably he recollected my name in connection with that of his daughter Lucy. Anyhow, it was
         clear enough that I had no chance of making his acquaintance. Father Bernard confirmed me in
         my suspicions of the hidden fermentation, for some coming evil, working among the
             <quote>'blouses'</quote> of Antwerp, and he would fain have had me depart from out the
         city; but I rather craved the excitement of danger, and stubbornly refused to leave.</p>
-    <p>One day, when I was walking with him in the Place Verte, he bowed to an Austrian officer, who
+    <p tone="serious">One day, when I was walking with him in the Place Verte, he bowed to an Austrian officer, who
         was crossing towards the cathedral.</p>
-    <p><quote>'That is Mr. Gisborne,'</quote> said he, as soon as the gentleman was past.</p>
-    <p>I turned to look at the tall, slight figure of the officer. He carried himself in a stately
+    <p tone="serious"><quote>'That is Mr. Gisborne,'</quote> said he, as soon as the gentleman was past.</p>
+    <p tone="serious">I turned to look at the tall, slight figure of the officer. He carried himself in a stately
         manner, although he was past middle age, and from his years, might have had some excuse for
         a slight stoop. As I looked at the man, he turned round, his eyes met mine, and I saw his
         face. Deeply lined, sallow, and scathed was that countenance; scarred by passion as well as
         by the fortunes of war. 'Twas but a moment our eyes met. We each turned round, and went on
         our separate way.</p>
-    <p>But his whole appearance was not one to be easily forgotten; the thorough appointment of the
+    <p tone="serious">But his whole appearance was not one to be easily forgotten; the thorough appointment of the
         dress, and evident thought bestowed on it, made but an incongruous whole with the dark,
         gloomy expression of his countenance. Because he was Lucy's father, I sought instinctively
         to meet him everywhere. At last he must have become aware of my pertinacity, for he gave me
@@ -1429,15 +1430,15 @@
         loitering among them that prevented their attacking me. Instead, they suffered me to fall
         into conversation with them; and I heard some of their grievances. Sore and heavy to be
         borne were they, and no wonder the sufferers were savage and desperate.</p>
-    <p>The man whom Gisborne had wounded across his face would fain have got out of me the name of
+    <p tone="suspenseful">The man whom Gisborne had wounded across his face would fain have got out of me the name of
         his aggressor, but I refused to tell it. Another of the group heard his inquiry, and made
         answer:</p>
-    <p><quote>'I know the man. He is one Gisborne, aide-de-camp to the General-Commandant. I know
+    <p tone="serious"><quote>'I know the man. He is one Gisborne, aide-de-camp to the General-Commandant. I know
             him well.'</quote></p>
-    <p>He began to tell some story in connection with Gisborne in a low and muttering voice; and
+    <p tone="fear">He began to tell some story in connection with Gisborne in a low and muttering voice; and
         while he was relating a tale, which I saw excited their evil blood, and which they evidently
         wished me not to hear, I sauntered away and back to my lodgings.</p>
-    <p>That night Antwerp was in open revolt. The inhabitants rose in rebellion against their
+    <p tone="fear">That night Antwerp was in open revolt. The inhabitants rose in rebellion against their
         Austrian masters. The Austrians, holding the gates of the city, remained at first pretty
         quiet in the citadel; only, from time to time, the boom of a great cannon swept sullenly
         over the town. But, if they expected the disturbance to die away, and spend itself in a few
@@ -1463,17 +1464,17 @@
         wet with blood, and their faces hidden by their veils, were the Poor Clares—sent forth now
         because dire agony was abroad and imminent danger at hand. Therefore, they left their
         cloistered shelter, and came into that thick and evil mêlée.</p>
-    <p>Close to me—driven past me by the struggle of many fighters—came the Antwerp burgess with the
+    <p tone="fear">Close to me—driven past me by the struggle of many fighters—came the Antwerp burgess with the
         scarce-healed scar upon his face; and in an instant more, he was thrown by the press upon
         the Austrian officer Gisborne, and ere either had recovered the shock, the burgess had
         recognised his opponent.</p>
-    <p><quote>'Ha! the Englishman Gisborne!'</quote> he cried, and threw himself upon him with
+    <p tone="fear"><quote>'Ha! the Englishman Gisborne!'</quote> he cried, and threw himself upon him with
         redoubled fury. He had struck him hard—the Englishman was down; when out of the smoke came a
         dark-grey figure, and threw herself right under the uplifted flashing sword. The burgess's
         arm stood arrested. Neither Austrians nor Anversois willingly harmed the Poor Clares.</p>
-    <p><quote>'Leave him to me!'</quote> said a low stern voice. <quote>'He is mine enemy—mine for
+    <p tone="fear"><quote>'Leave him to me!'</quote> said a low stern voice. <quote>'He is mine enemy—mine for
             many years.'</quote></p>
-    <p>Those words were the last I heard. I myself was struck down by a bullet. I remember nothing
+    <p tone="fear">Those words were the last I heard. I myself was struck down by a bullet. I remember nothing
         more for days. When I came to myself, I was at the extremity of weakness, and was craving
         for food to recruit my strength. My landlord sat watching me. He, too, looked pinched and
         shrunken; he had heard of my wounded state, and sought me out. Yes! the struggle still
@@ -1482,7 +1483,7 @@
         cheerfulness returned. Father Bernard had been to see me—no one else. (Who should, indeed?)
         Father Bernard would come back that afternoon—he had promised. But Father Bernard never
         came, although I was up and dressed, and looking eagerly for him.</p>
-    <p>My landlord brought me a meal which he had cooked himself: of what it was composed he would
+    <p tone="fear">My landlord brought me a meal which he had cooked himself: of what it was composed he would
         not say, but it was most excellent, and with every mouthful I seemed to gain strength. The
         good man sat looking at my evident enjoyment with a happy smile of sympathy; but, as my
         appetite became satisfied, I began to detect a certain wistfulness in his eyes, as if
@@ -1492,7 +1493,7 @@
         Then we heard a faint, cracked, tinkling bell, coming shrill upon clear and distinct from
         all other sounds. <quote>'Holy Mother!'</quote> exclaimed my landlord, <quote>'the Poor
             Clares!'</quote></p>
-    <p>He snatched up the fragments of my meal, and crammed them into my hands, bidding me follow.
+    <p tone="fear">He snatched up the fragments of my meal, and crammed them into my hands, bidding me follow.
         Down-stairs he ran, clutching at more food, as the women of his house eagerly held it out to
         him; and in a moment we were in the street, moving along with the great current, all tending
         towards the Convent of the Poor Clares. And still, as if piercing our ears with its
@@ -1504,24 +1505,24 @@
         bread, in their eagerness to carry it safe to the help of the Poor Clares; strong men—yea,
         both Anversois and Austrians—pressing onwards with set teeth, and no word spoken; and over
         all, and through all, came that sharp tinkle—that cry for help in extremity.</p>
-    <p>We met the first torrent of people returning with blanched and piteous faces: they were
+    <p tone="fear">We met the first torrent of people returning with blanched and piteous faces: they were
         issuing out of the convent to make way for the offerings of others. <quote>'Haste,
             haste!'</quote> said they.</p>
-    <p><quote>'A Poor Clare is dying! A Poor Clare is dead for hunger! God forgive us, and our
+    <p tone="sadness"><quote>'A Poor Clare is dying! A Poor Clare is dead for hunger! God forgive us, and our
             city!'</quote></p>
-    <p>We pressed on. The stream bore us along where it would. We were carried through refectories,
+    <p tone="sadness">We pressed on. The stream bore us along where it would. We were carried through refectories,
         bare and crumbless; into cells over whose doors the conventual name of the occupant was
         written. Thus it was that I, with others, was forced into Sister Magdalen<quote>'s cell. On
             her couch lay Gisborne, pale unto death, but not dead. By his side was a cup of water,
             and a small morsel of mouldy bread, which he had pushed out of his reach, and could not
             move to obtain. Over against his bed were these words, copied in the English version:
             '</quote>Therefore, if thine enemy hunger, feed him; if he thirst, give him drink.'</p>
-    <p>Some of us gave him of our food, and left him eating greedily, like some famished wild
+    <p tone="sadness">Some of us gave him of our food, and left him eating greedily, like some famished wild
         animal. For now it was no longer the sharp tinkle, but that one solemn toll, which in all
         Christian countries tells of the passing of the spirit out of earthly life into eternity;
         and again a murmur gathered and grew, as of many people speaking with awed breath, <quote>'A
             Poor Clare is dying! a Poor Clare is dead!'</quote></p>
-    <p>Borne along once more by the motion of the crowd, we were carried into the chapel belonging
+    <p tone="sadness">Borne along once more by the motion of the crowd, we were carried into the chapel belonging
         to the Poor Clares. On a bier before the high altar, lay a woman—lay sister Magdalen—lay
         Bridget Fitzgerald. By her side stood Father Bernard, in his robes of office, and holding
         the crucifix on high while he pronounced the solemn absolution of the Church, as to one who
@@ -1532,13 +1533,13 @@
         strange intensity of joy, as, with the gesture of her finger and the trance-like gleam of
         her eye, she seemed like one who watched the disappearance of some loathed and fearful
         creature.</p>
-    <p><quote>'She is freed from the curse!'</quote> said she, as she fell back dead.</p>
-    <p>Now, of all our party who had first listened to my Lady Ludlow, Mr. Preston was the only one
+    <p tone="sadness"><quote>'She is freed from the curse!'</quote> said she, as she fell back dead.</p>
+    <p tone="sadness">Now, of all our party who had first listened to my Lady Ludlow, Mr. Preston was the only one
         who had not told us something, either of information, tradition, history, or legend. We
         naturally turned to him; but we did not like asking him directly for his contribution, for
         he was a grave, reserved, and silent man.</p>
-    <p>He understood us, however, and, rousing himself as it were, he said:</p>
-    <p><quote>'I know you wish me to tell you, in my turn, of something which I have learnt or heard
+    <p tone="sadness">He understood us, however, and, rousing himself as it were, he said:</p>
+    <p tone="serious"><quote>'I know you wish me to tell you, in my turn, of something which I have learnt or heard
             during my life. I could tell you something of my own life, and of a life dearer still to
             my memory; but I have shrunk from narrating anything so purely personal. Yet, shrink as
             I will, no other but those sad recollections will present themselves to my mind. I call
