@@ -908,17 +908,17 @@
         Dinner came, and went away untouched. Early in the afternoon I walked to the farm-house. I
         found Mistress Clarke alone, and I was glad and relieved. She was evidently prepared to tell
         me all I might wish to hear.</p>
-    <p><quote>'You asked me for Mistress Lucy'</quote>s true name; it is Gisborne,' she began.</p>
-    <p><quote>'Not Gisborne of Skipford?'</quote> I exclaimed, breathless with anticipation.</p>
-    <p><quote>'The same,'</quote> said she, quietly, not regarding my manner. <quote>'Her father is
+    <p tone="serious"><quote>'You asked me for Mistress Lucy'</quote>s true name; it is Gisborne,' she began.</p>
+    <p tone="suspenseful"><quote>'Not Gisborne of Skipford?'</quote> I exclaimed, breathless with anticipation.</p>
+    <p tone="serious"><quote>'The same,'</quote> said she, quietly, not regarding my manner. <quote>'Her father is
             a man of note; although, being a Roman Catholic, he cannot take that rank in this
             country to which his station entitles him. The consequence is that he lives much
             abroad—has been a soldier, I am told.'</quote></p>
-    <p><quote>'And Lucy'</quote>s mother?' I asked.</p>
-    <p>She shook her head. <quote>'I never knew her,'</quote> said she. <quote>'Lucy was about three
+        <p tone="serious"><quote>'And Lucy's mother?'</quote> I asked.</p>
+    <p tone="serious">She shook her head. <quote>'I never knew her,'</quote> said she. <quote>'Lucy was about three
             years old when I was engaged to take charge of her. Her mother was dead.'</quote></p>
-    <p><quote>'But you know her name?—you can tell if it was Mary Fitzgerald?'</quote></p>
-    <p>She looked astonished. <quote>'That was her name. But, sir, how came you to be so well
+    <p tone="serious"><quote>'But you know her name?—you can tell if it was Mary Fitzgerald?'</quote></p>
+    <p tone="suspenseful">She looked astonished. <quote>'That was her name. But, sir, how came you to be so well
             acquainted with it? It was a mystery to the whole household at Skipford Court. She was
             some beautiful young woman whom he lured away from her protectors while he was abroad. I
             have heard said he practised some terrible deceit upon her, and when she came to know
@@ -926,33 +926,33 @@
             herself into a rapid stream and was drowned. It stung him deep with remorse, but I used
             to think the remembrance of the mother'</quote>s cruel death made him love the child yet
         dearer.'</p>
-    <p>I told her, as briefly as might be, of my researches after the descendant and heir of the
+    <p tone="serious">I told her, as briefly as might be, of my researches after the descendant and heir of the
         Fitzgeralds of Kildoon, and added—something of my old lawyer spirit returning into me for
         the moment—that I had no doubt but that we should prove Lucy to be by right possessed of
         large estates in Ireland.</p>
-    <p>No flush came over her grey face; no light into her eyes. <quote>'And what is all the wealth
+    <p tone="sadness">No flush came over her grey face; no light into her eyes. <quote>'And what is all the wealth
             in the whole world to that poor girl?'</quote> she said. <quote>'It will not free her
             from the ghastly bewitchment which persecutes her. As for money, what a pitiful thing it
             is; it cannot touch her.'</quote></p>
-    <p><quote>'No more can the Evil Creature harm her,'</quote> I said. <quote>'Her holy nature
+    <p tone="optimism"><quote>'No more can the Evil Creature harm her,'</quote> I said. <quote>'Her holy nature
             dwells apart, and cannot be defiled or stained by all the devilish arts in the whole
             world.'</quote></p>
-    <p><quote>'True! but it is a cruel fate to know that all shrink from her, sooner or later, as
+    <p tone="optimism"><quote>'True! but it is a cruel fate to know that all shrink from her, sooner or later, as
             from one possessed—accursed.'</quote></p>
-    <p><quote>'How came it to pass?'</quote> I asked.</p>
-    <p><quote>'Nay, I know not. Old rumours there are, that were bruited through the household at
+    <p tone="serious"><quote>'How came it to pass?'</quote> I asked.</p>
+    <p tone="suspenseful"><quote>'Nay, I know not. Old rumours there are, that were bruited through the household at
             Skipford.'</quote></p>
-    <p><quote>'Tell me,'</quote> I demanded.</p>
-    <p><quote>'They came from servants, who would fain account for everything. They say that, many
+    <p tone="serious"><quote>'Tell me,'</quote> I demanded.</p>
+    <p tone="serious"><quote>'They came from servants, who would fain account for everything. They say that, many
             years ago, Mr. Gisborne killed a dog belonging to an old witch at Coldholme; that she
             cursed, with a dreadful and mysterious curse, the creature, whatever it might be, that
             he should love best; and that it struck so deeply into his heart that for years he kept
             himself aloof from any temptation to love aught. But who could help loving
             Lucy?'</quote></p>
-    <p><quote>'You never heard the witch'</quote>s name?' I gasped.</p>
-    <p><quote>'Yes—they called her Bridget; they said he would never go near the spot again for
+    <p tone="suspenseful"><quote>'You never heard the witch's name?'</quote> I gasped.</p>
+    <p tone="serious"><quote>'Yes—they called her Bridget; they said he would never go near the spot again for
             terror of her. Yet he was a brave man!'</quote></p>
-    <p><quote>'Listen,'</quote> said I, taking hold of her arm, the better to arrest her full
+    <p tone="serious"><quote>'Listen,'</quote> said I, taking hold of her arm, the better to arrest her full
         attention; <quote>'if what I suspect holds true, that man stole Bridget'</quote>s only
         child—the very Mary Fitzgerald who was Lucy<quote>'s mother; if so, Bridget cursed him in
             ignorance of the deeper wrong he had done her. To this hour she yearns after her lost
@@ -960,11 +960,11 @@
             lie deeper than she knows: she unwittingly banned him for a deeper guilt than that of
             killing a dumb beast. The sins of the fathers are indeed visited upon the
             children.'</quote></p>
-    <p><quote>'But,'</quote> said Mistress Clarke, eagerly, <quote>'she would never let evil rest on
+    <p tone="suspenseful"><quote>'But,'</quote> said Mistress Clarke, eagerly, <quote>'she would never let evil rest on
             her own grandchild? Surely, sir, if what you say be true, there are hopes for Lucy. Let
             us go—go at once, and tell this fearful woman all that you suspect, and beseech her to
             take off the spell she has put upon her innocent grandchild.'</quote></p>
-    <p>It seemed to me, indeed, that something like this was the best course we could pursue. But
+    <p tone="serious">It seemed to me, indeed, that something like this was the best course we could pursue. But
         first it was necessary to ascertain more than what mere rumour or careless hearsay could
         tell. My thoughts turned to my uncle—he could advise me wisely—he ought to know all. I
         resolved to go to him without delay; but I did not choose to tell Mistress Clarke of all the
